@@ -1,0 +1,31 @@
+<recipe>
+<title>
+Long Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients>
+1 1/2 tablespoons vegetable oil
+1/4 small head cabbage, shredded
+4 ounces lean pork tenderloin, cut into thin strips
+1/2 teaspoon minced fresh ginger root
+6 cups chicken broth
+2 tablespoons soy sauce
+8 fresh green onions, chopped
+4 ounces dry Chinese egg noodles
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Using a large skillet or wok, heat oil over medium-high heat. Add cabbage and pork; stir-fry until pork is no longer pink inside, approximately 5 minutes. Stir in ginger.
+
+Add chicken broth and soy sauce and bring to a boil. Reduce heat to low; simmer 10 minutes, stirring occasionally.
+
+Stir in onions and add noodles. Cook until noodles are tender, 2 to 4 minutes more.
+
+
+
+
+</instructions>
+</recipe>

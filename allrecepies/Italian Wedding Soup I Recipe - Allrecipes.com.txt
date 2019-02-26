@@ -1,0 +1,31 @@
+<recipe>
+<title>
+Italian Wedding Soup I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients>
+1/2 pound extra-lean ground beef
+1 egg, lightly beaten
+2 tablespoons dry bread crumbs
+1 tablespoon grated Parmesan cheese
+1/2 teaspoon dried basil
+1/2 teaspoon onion powder
+5 3/4 cups chicken broth
+2 cups thinly sliced escarole
+1 cup uncooked orzo pasta
+1/3 cup finely chopped carrot
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In medium bowl, combine meat, egg, bread crumbs, cheese, basil and onion powder; shape into 3/4 inch balls.
+
+In large saucepan, heat broth to boiling; stir in escarole, orzo pasta, chopped carrot and meatballs. Return to boil, then reduce heat to medium. Cook at slow boil for 10 minutes, or until pasta is al dente. Stir frequently to prevent sticking.
+
+
+
+
+</instructions>
+</recipe>

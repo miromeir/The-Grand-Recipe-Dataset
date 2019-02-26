@@ -1,0 +1,55 @@
+<recipe>
+<title>
+Khao Man Gai Thai Chicken and Rice (Healthy Version) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients>
+5 skinless, boneless chicken breasts
+Rice:
+3 cups uncooked jasmine rice
+3 tablespoons vegetable oil
+1/2 cup sliced ginger
+2 tablespoons crushed garlic
+1 tablespoon white sugar
+1/4 teaspoon salt
+1/2 cup water, or as needed
+5 pandan leaves
+3 cups chicken stock
+Sauce:
+1 cup chopped ginger
+1/2 cup coarsely chopped garlic
+15 Thai bird chile peppers
+6 tablespoons white sugar
+1/4 cup dark soy sauce
+1/4 cup soy sauce
+1/4 cup lime juice
+1/4 cup distilled white vinegar
+1/4 cup salted soybean paste
+10 sprigs fresh cilantro
+1 tablespoon chicken bouillon granules (optional)
+1 teaspoon salt
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Place chicken breasts in a large pot and cover with water; bring to a boil. Reduce heat to medium-low and simmer until no longer pink in the center, about 20 minutes. Drain and cool until easily handled.
+
+Pour rice into a strainer. Rinse with cold water and drain. Repeat once more.
+
+Heat oil in a large saucepan over high heat. Add 1/2 cup sliced ginger and 2 tablespoons crushed garlic; saute until fragrant, 1 to 2 minutes. Stir in rice; reduce heat to medium. Season rice with 1 tablespoon sugar and 1/4 teaspoon salt. Cook and stir until rice turns white, adding water to prevent it from burning, about 10 minutes.
+
+Remove rice from heat and add pandan leaves. Transfer to a rice cooker. Pour in chicken stock. Cook rice according to manufacturer's instructions until tender. Fluff lightly with a rice paddle.
+
+Combine 1 cup chopped ginger, 1/2 cup chopped garlic, chile peppers, 6 tablespoons sugar, dark soy sauce, soy sauce, lime juice, vinegar, soybean paste, cilantro, chicken bouillon granules, and 1 teaspoon salt in a blender; blend into a smooth sauce.
+
+Pour sauce into a pot over medium heat. Simmer for 5 minutes.
+
+Slice chicken and serve over rice, with sauce alongside.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,34 @@
+<recipe>
+<title>
+Thai Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients>
+1 cup soy sauce
+8 cloves garlic, minced
+1 tablespoon minced fresh ginger root
+2 tablespoons hot pepper sauce
+2 pounds skinless chicken thighs
+1 tablespoon sesame oil
+1 tablespoon brown sugar
+1 onion, sliced
+1/2 cup water
+4 tablespoons crunchy peanut butter
+2 tablespoons green onions, chopped
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a large bowl, combine the soy sauce, garlic, ginger and hot pepper sauce. Mix well and place chicken in the bowl, turning to coat evenly. Cover and marinate in the refrigerator for at least one hour.
+
+Heat the sesame oil in a Dutch oven over medium high heat. Add the brown sugar, stirring until dissolved. Add the onion and saute for 5 minutes. Add the chicken parts and saute for 5 minutes, turning to brown evenly. Pour in marinade, add the water and bring to a boil.
+
+Reduce heat to low and simmer for 15 to 20 minutes. Add the peanut butter, stirring well, and simmer for 10 more minutes. Transfer chicken to a serving platter, pour sauce over, and garnish with the chives.
+
+
+
+
+</instructions>
+</recipe>

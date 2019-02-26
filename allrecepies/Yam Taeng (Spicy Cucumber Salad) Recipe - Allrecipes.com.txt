@@ -1,0 +1,30 @@
+<recipe>
+<title>
+Yam Taeng (Spicy Cucumber Salad) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients>
+3 cucumbers - peeled, seeded, and grated
+3 tablespoons crushed dried shrimp
+2/3 pound long beans, sliced thin and mashed
+5 cherry tomatoes, halved
+5 Thai chilies, sliced thin
+1 tablespoon palm sugar
+2 tablespoons fish sauce
+juice of 1 lime, or more to taste
+3 tablespoons roasted peanuts, chopped
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Toss the cucumbers, dried shrimp, beans, and tomatoes together in a bowl.
+
+Stir the Thai chilies, palm sugar, fish sauce, and lime juice together in a small bowl; pour over the cucumber mixture. Toss to combine. Adjust seasoning to your taste. Sprinkle chopped peanuts over the mixture to serve.
+
+
+
+
+</instructions>
+</recipe>

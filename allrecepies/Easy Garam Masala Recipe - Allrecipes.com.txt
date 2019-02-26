@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Easy Garam Masala Recipe - Allrecipes.com
+</title>
+<cuisine>
+Indian
+</cuisine>
+<ingredients>
+1 tablespoon ground cumin
+1 1/2 teaspoons ground coriander
+1 1/2 teaspoons ground cardamom
+1 1/2 teaspoons ground black pepper
+1 teaspoon ground cinnamon
+1/2 teaspoon ground cloves
+1/2 teaspoon ground nutmeg
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Mix cumin, coriander, cardamom, pepper, cinnamon, cloves, and nutmeg in a bowl. Place mix in an airtight container, and store in a cool, dry place.
+
+
+
+
+</instructions>
+</recipe>

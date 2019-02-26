@@ -1,0 +1,33 @@
+<recipe>
+<title>
+Slow Cooker Enchiladas Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients>
+1 pound lean ground beef
+10 (6 inch) corn tortillas, quartered
+1 (1 ounce) package taco seasoning mix
+1 1/4 cups water
+1 (12 ounce) jar chunky salsa
+1 (10.75 ounce) can condensed cream of mushroom soup
+1 (10.75 ounce) can condensed cream of chicken soup
+4 cups shredded Mexican cheese blend
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Crumble the ground beef into a skillet over medium-high heat. Cook and stir until evenly browned. Add taco seasoning and water; simmer for 15 minutes over low heat. Watch Now
+
+In a medium bowl, stir together the salsa, cream of mushroom soup and cream of chicken soup. Mix in most of the cheese, reserving 3/4 cup for later. Watch Now
+
+Place a layer of tortillas covering the bottom of a slow cooker. Scoop a layer of the ground beef over that, and then spoon a layer of the cheese mixture. Repeat the layers until you run out of stuff, ending with a layer of tortillas on the top. Top with remaining cheese. Watch Now
+
+Cover, and cook on High for 45 minutes to 1 hour. Watch Now
+
+
+
+
+</instructions>
+</recipe>

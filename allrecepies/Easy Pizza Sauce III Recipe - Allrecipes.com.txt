@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Easy Pizza Sauce III Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients>
+1 (15 ounce) can tomato sauce
+1 (6 ounce) can tomato paste
+1 tablespoon ground oregano
+1 1/2 teaspoons dried minced garlic
+1 teaspoon ground paprika
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a medium bowl, Mix together tomato sauce and tomato paste until smooth. Stir in oregano, garlic and paprika.
+
+
+
+
+</instructions>
+</recipe>

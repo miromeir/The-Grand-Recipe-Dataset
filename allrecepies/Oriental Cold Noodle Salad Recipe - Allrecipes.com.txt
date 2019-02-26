@@ -1,0 +1,37 @@
+<recipe>
+<title>
+Oriental Cold Noodle Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients>
+15 ounces dried soba noodles
+1 1/2 teaspoons dark sesame oil
+1/3 cup rice vinegar
+1/3 cup soy sauce
+juice from one lime
+zest of one lime
+2 tablespoons brown sugar
+2 cloves garlic, minced
+2 teaspoons red pepper flakes, or to taste (optional)
+1 cup finely grated carrot
+1/4 cup coarsely chopped salted peanuts
+1/2 cup chopped fresh cilantro
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a large pot, cook soba noodles according to package directions. Drain, rinse noodles with cold water, and set aside.
+
+Pour into a large bowl the sesame oil, rice vinegar, soy sauce, and lime juice. Mix in lime zest, brown sugar, garlic, and red pepper flakes; stir until sugar dissolves. Toss in carrots, peanuts, and cilantro.
+
+Cut noodles into 3-inch lengths. Stir into dressing mixture. Cover, and refrigerate at least 1 hour.
+
+Toss salad again before serving. If dry, splash with soy sauce and vinegar. Serve cold.
+
+
+
+
+</instructions>
+</recipe>

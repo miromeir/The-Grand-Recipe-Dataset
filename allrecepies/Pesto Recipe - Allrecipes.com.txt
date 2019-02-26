@@ -1,0 +1,25 @@
+<recipe>
+<title>
+Pesto Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients>
+3 cups packed fresh basil leaves
+4 cloves garlic
+3/4 cup grated Parmesan cheese
+1/2 cup olive oil
+1/4 cup pine nuts
+1/2 cup chopped fresh parsley (optional)
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Combine basil, garlic, Parmesan cheese, olive oil, and nuts in the bowl of a food processor or blender. Blend to a smooth paste. Add parsley if desired.
+
+
+
+
+</instructions>
+</recipe>

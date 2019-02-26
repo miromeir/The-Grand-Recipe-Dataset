@@ -1,0 +1,25 @@
+<recipe>
+<title>
+Best Black Beans Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients>
+1 (16 ounce) can black beans
+1 small onion, chopped
+1 clove garlic, chopped
+1 tablespoon chopped fresh cilantro
+1/4 teaspoon cayenne pepper
+salt to taste
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a medium saucepan, combine beans, onion, and garlic, and bring to a boil. Reduce heat to medium-low. Season with cilantro, cayenne, and salt. Simmer for 5 minutes, and serve.
+
+
+
+
+</instructions>
+</recipe>

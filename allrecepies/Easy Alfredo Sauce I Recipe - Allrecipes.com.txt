@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Easy Alfredo Sauce I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients>
+1 pint heavy whipping cream
+1/2 cup butter
+1 1/2 cups grated Parmesan cheese
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a medium saucepan combine whipping cream, butter or margarine, and grated Parmesan cheese. Cook over medium low heat until smooth. Remove from heat. Sauce will thicken upon standing.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,37 @@
+<recipe>
+<title>
+Double Tomato Bruschetta Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients>
+6 roma (plum) tomatoes, chopped
+1/2 cup sun-dried tomatoes, packed in oil
+3 cloves minced garlic
+1/4 cup olive oil
+2 tablespoons balsamic vinegar
+1/4 cup fresh basil, stems removed
+1/4 teaspoon salt
+1/4 teaspoon ground black pepper
+1 French baguette
+2 cups shredded mozzarella cheese
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Preheat the oven on broiler setting. Watch Now
+
+In a large bowl, combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper. Allow the mixture to sit for 10 minutes. Watch Now
+
+Cut the baguette into 3/4-inch slices. On a baking sheet, arrange the baguette slices in a single layer. Broil for 1 to 2 minutes, until slightly brown. Watch Now
+
+Divide the tomato mixture evenly over the baguette slices. Top the slices with mozzarella cheese. Watch Now
+
+Broil for 5 minutes, or until the cheese is melted. Watch Now
+
+
+
+
+</instructions>
+</recipe>

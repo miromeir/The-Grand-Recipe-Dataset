@@ -1,0 +1,23 @@
+<recipe>
+<title>
+Mango Lassi II Recipe - Allrecipes.com
+</title>
+<cuisine>
+Indian
+</cuisine>
+<ingredients>
+2 mangos - peeled, seeded and diced
+2 cups plain yogurt
+1/2 cup white sugar
+1 cup ice
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a blender, combine mangos, yogurt, sugar and ice. Blend until smooth. Pour into glasses and serve.
+
+
+
+
+</instructions>
+</recipe>

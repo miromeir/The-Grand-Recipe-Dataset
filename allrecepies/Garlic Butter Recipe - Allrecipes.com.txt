@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Garlic Butter Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients>
+1 cup butter, softened
+1 tablespoon minced garlic
+1/4 cup grated Parmesan cheese
+1 tablespoon garlic salt
+1 teaspoon Italian seasoning
+1/2 teaspoon ground black pepper
+1/4 teaspoon ground paprika
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a small bowl, combine softened butter, minced garlic and parmesan cheese. Season with garlic salt, Italian seasoning, pepper and paprika. Mix until smooth.
+
+
+
+
+</instructions>
+</recipe>

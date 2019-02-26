@@ -1,0 +1,30 @@
+<recipe>
+<title>
+Penne with Chicken and Pesto Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients>
+1 (16 ounce) package penne pasta
+2 tablespoons butter
+2 tablespoons olive oil
+4 skinless, boneless chicken breast halves - cut into thin strips
+2 cloves garlic, minced
+salt and pepper to taste
+1 1/4 cups heavy cream
+1/4 cup pesto
+3 tablespoons grated Parmesan cheese
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.
+
+Heat butter and olive oil in a large skillet over medium heat. Saute chicken and garlic until chicken is almost cooked. Reduce heat and stir in salt, pepper, cream, pesto and Parmesan cheese. Cook until chicken is no longer pink inside. Stir in cooked pasta.
+
+
+
+
+</instructions>
+</recipe>

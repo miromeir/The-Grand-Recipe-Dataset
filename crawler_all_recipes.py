@@ -19,70 +19,88 @@ class Crawler():
             link = li.find_element_by_tag_name("a").get_attribute("href")
             cuisine_name = li.find_element_by_tag_name("span").text.replace("Recipes","").strip() #Remove the word 'Recipes'
             self.grid_pages.put((cuisine_name,link))
-            
+
     def crawl_grids(self):
-        while True:
-            if not self.grid_pages.empty():
-                grid_page_url = self.grid_pages.get()
-                self.crawl_grid_for_recipes(self, grid_page_url)
-                
+        while not self.grid_pages.empty():
+            grid_page = self.grid_pages.get()
+            self.crawl_grid_for_recipes(grid_page)
+            
 
 
-    def crawl_grid_for_recipes(self, url):
+    def crawl_grid_for_recipes(self, grid_page):
         print("crawling_grid_for_recepies")
-        self.driver1.get(url)
-
-        grid = self.driver1.find_element_by_id("fixedGridSection")
+        cuisine_name = grid_page[0]
+        print("cuisine:"+cuisine_name)
+        url = grid_page[1]
+        print("url:"+url)
+        self.driver3.get(url)
+        time.sleep(2)
+        grid = self.driver3.find_element_by_id("fixedGridSection")
         cards = grid.find_elements_by_class_name("fixed-recipe-card")
-        
-        
-        
+
+
+
         while True:
             old_len = len(cards)
             #Scroll to bottom
-            self.driver1.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            self.driver3.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             #Wait for grid to grow
-            time.sleep(5)
-            grid = self.driver1.find_element_by_id("fixedGridSection")
+            print("sleeping 3 seconds")
+            time.sleep(3)
+            grid = self.driver3.find_element_by_id("fixedGridSection")
             cards = grid.find_elements_by_class_name("fixed-recipe-card")
             if old_len == len(cards):
                 break
-        
+
         for card in cards:
             try:
-                img = card.find_elements_by_class_name("grid-card-image-container")
-                link_href = link_tag.get_attribute("href")
-                
-                self.to_visit_list.put(link_href)
+                img = card.find_element_by_class_name("grid-card-image-container")
+                link = img.find_element_by_tag_name("a").get_attribute("href")
+
+                self.recipes.put((cuisine_name,link))
+                self.writeRecipeToFile((cuisine_name,link))
             except Exception as e:
                 print(e)
                 pass
 
+    def writeRecipeToFile(self, recipe):
+        cuisine = recipe[0]
+        url = recipe[1]
+        with open("allrecipes_recipes_cuisine_url.txt", "a") as myfile:
+            myfile.write(cuisine+","+url+"\n")
+            
+
     def index_recipes(self):
-        while True:
+        while not self.recipes.empty():
             try:
-                if not self.to_visit_list.empty():
+                recipe = self.recipes.get()
+                cuisine_name = recipe[0]
+                link = recipe[1]
+                self.driver2.get(link)
+                print(self.driver2.title)
 
-                    link = self.to_visit_list.get()
-                    self.driver2.get(link)
-                    print(self.driver2.current_url)
-                    recipe = self.driver2.find_element_by_xpath("//div[@class='wprm-recipe-container']")
-                    recipe_ihe = recipe.find_element_by_xpath("div[@class='wprm-recipe wprm-recipe-ihe']")
-                    recipe_header = recipe_ihe.find_element_by_xpath("div[@class='wprm-entry-header']")
-                    recipe_content = recipe_ihe.find_element_by_xpath("div[@class='wprm-entry-content']")
-                    recipe_title = recipe_header.find_element_by_xpath("h2[@class='wprm-recipe-name']")
-                    recipe_details = recipe_header.find_element_by_xpath("div[@class='wprm-recipe-details-container']")
-                    recipe_ingredients_container = recipe_content.find_element_by_xpath("div[@class='wprm-recipe-ingredients-container']")
-                    recipe_ingredients = recipe_ingredients_container.find_element_by_xpath("div[@class='wprm-recipe-ingredient-group']")
-                    recipe_instructions_container = recipe_content.find_element_by_xpath("div[@class='wprm-recipe-instructions-container']")
-                    recipe_instructions = recipe_instructions_container.find_element_by_xpath("div[@class='wprm-recipe-instruction-group']")
+                ingredients1 = self.driver2.find_element_by_id("lst_ingredients_1").find_elements_by_tag_name("li")
+                ingredients2 = self.driver2.find_element_by_id("lst_ingredients_2").find_elements_by_tag_name("li")
+            
+                ingredients_element = ingredients1 + ingredients2
+                ingredients = ""
+                for ingredient in ingredients_element:
+                    ingredients = ingredients + ingredient.text + "\n"
+                
+                recipe_title = self.driver2.title
+                
+                instructions_elements = self.driver2.find_elements_by_xpath("//li[@class='step']")
+                instructions = ""
+                for instruction in instructions_elements:
+                    instructions = instructions + instruction.text +"\n\n"
+                
+                print("adding to database:"+recipe_title)
+                self.add_recipe_to_database([("title",recipe_title),
+                                        ("cuisine", cuisine_name),
+                                        ("ingredients",ingredients),
+                                        ("instructions",instructions)])
 
-                    self.add_recipe_to_database([("title",recipe_title.text),
-                                            ("details",recipe_details.text),
-                                            ("ingredients",recipe_ingredients.text),
-                                            ("instructions",recipe_instructions.text)])
-
-                    print(recipe_title.text)
+                    
 
             except Exception as e:
                 print(e)
@@ -90,7 +108,7 @@ class Crawler():
 
     def add_recipe_to_database(self,recipe):
 
-        with open("recepies/"+recipe[0][1], "a") as myfile:
+        with open("allrecepies/"+recipe[0][1]+".txt", "a") as myfile:
             myfile.write("<recipe>"+"\n")
             for component in recipe:
                 myfile.write("<"+component[0]+">"+"\n"+
@@ -100,10 +118,10 @@ class Crawler():
 
     def __init__(self):
 
-        self.to_visit_list = queue.Queue()
+        self.recipes = queue.Queue()
         self.grid_pages = queue.Queue()
         self.outputFile = open("output.txt", "a")
-        
+
         options = Options()
         options.headless = True
 
@@ -116,16 +134,23 @@ class Crawler():
         # firefox_options.add_argument("--proxy-bypass-list=*")
         #caps = DesiredCapabilities().CHROME
         #caps["pageLoadStrategy"] = "eager"  #  complete
-        self.driver1 = webdriver.PhantomJS(executable_path=os.path.abspath('./phantomjs'))
-        self.driver2 = webdriver.PhantomJS(executable_path=os.path.abspath('./phantomjs'))
-        find_grids_thread = Thread(target = self.crawl_for_grid_pages)
-        find_grids_thread.start()
+        self.driver1 = webdriver.PhantomJS(service_args=['--load-images=no', '--disk-cache=true'], executable_path=os.path.abspath('./phantomjs'))
+        self.driver3 = webdriver.PhantomJS(service_args=['--load-images=no', '--disk-cache=true'], executable_path=os.path.abspath('./phantomjs'))
+        self.driver2 = webdriver.PhantomJS(service_args=['--load-images=no', '--disk-cache=true'], executable_path=os.path.abspath('./phantomjs'))
+        
+        self.crawl_for_grid_pages()
+        self.crawl_grids()
+        #self.index_recipes()
 
-        process_recipe_thread = Thread(target = self.index_recipes)
-        process_recipe_thread.start()
 
-        index_thread.join()
+        # find_grids_thread = Thread(target = self.crawl_for_grid_pages)
+        # find_grids_thread.start()
 
+        # find_recipes_in_grids = Thread(target = self.crawl_grids)
+        # find_recipes_in_grids.start()
+
+        # process_recipe_thread = Thread(target = self.index_recipes)
+        # process_recipe_thread.start()
 
         print("Program Ended")
 

@@ -1,0 +1,23 @@
+<recipe>
+<title>
+Agua Fresca de Pepino (Cucumber Limeade) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients>
+5 cups water, or to taste
+3 cucumbers, peeled and chopped
+1/2 cup freshly squeezed lime juice
+1/4 cup granular sucralose sweetener (such as Splenda®), or to taste
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Blend 2 cups water, cucumbers, lime juice, and 2 tablespoons sweetener together in a blender until smooth. Pour into pitcher; add remaining water. Stir in additional sweetener to taste.
+
+
+
+
+</instructions>
+</recipe>

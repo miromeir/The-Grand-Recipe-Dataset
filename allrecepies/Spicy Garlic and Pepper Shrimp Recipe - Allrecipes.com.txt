@@ -1,0 +1,30 @@
+<recipe>
+<title>
+Spicy Garlic and Pepper Shrimp Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients>
+2 1/2 tablespoons vegetable oil
+1/4 cup water
+1 cup shredded cabbage
+1 tablespoon minced garlic
+8 large fresh shrimp, peeled and deveined
+2 teaspoons crushed red pepper flakes
+2 tablespoons sliced onion
+1 tablespoon chopped fresh cilantro
+1 tablespoon soy sauce
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Heat 1 tablespoon oil in a skillet over high heat. Add cabbage and 1 tablespoon water stir-fry for 30 seconds. Remove cabbage from skillet and place on a serving platter.
+
+Heat the remaining 1 1/2 tablespoons oil in the skillet over high heat. Place the garlic and shrimp in the skillet and stir until garlic is lightly browned and shrimp turns pink. Add pepper, onion, cilantro, soy sauce and remaining water to the skillet. Stir-fry for 10 seconds. Pour the hot mixture onto the cabbage.
+
+
+
+
+</instructions>
+</recipe>
