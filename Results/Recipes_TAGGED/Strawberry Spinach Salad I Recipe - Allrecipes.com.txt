@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Strawberry Spinach Salad I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="0.5 Cup">Sugar</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="0.25 Teaspoon">Paprika</ingredient><ingredient amount="1.0 Tablespoon">Onion</ingredient><ingredient amount="10.0 Ounce">Spinach</ingredient><ingredient amount="0.25 Cup">Almond</ingredient></ingredients>
+<instructions>
+In a medium bowl, whisk together the sesame seeds, poppy seeds, sugar, olive oil, vinegar, paprika, Worcestershire sauce and onion. Cover, and chill for one hour.
+
+In a large bowl, combine the spinach, strawberries and almonds. Pour dressing over salad, and toss. Refrigerate 10 to 15 minutes before serving.
+
+
+
+
+</instructions>
+</recipe>

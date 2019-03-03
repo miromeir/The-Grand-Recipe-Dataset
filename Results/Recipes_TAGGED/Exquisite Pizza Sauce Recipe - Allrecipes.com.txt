@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Exquisite Pizza Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Tomato Paste</ingredient><ingredient amount="6.0 Fluid ounce">Warm Water</ingredient><ingredient amount="3.0 Tablespoon">Parmesan Cheese</ingredient><ingredient amount="1.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="2.0 Tablespoon">Honey</ingredient><ingredient amount="1.0 Teaspoon">Paste</ingredient><ingredient amount="0.75 Teaspoon">Onion Powder</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a small bowl, combine tomato paste, water, Parmesan cheese, garlic, honey, anchovy paste, onion powder, oregano, marjoram, basil, ground black pepper, cayenne pepper, red pepper flakes and salt; mix together, breaking up any clumps of cheese.
+
+Sauce should sit for 30 minutes to blend flavors; spread over pizza dough and prepare pizza as desired.
+
+
+
+
+</instructions>
+</recipe>

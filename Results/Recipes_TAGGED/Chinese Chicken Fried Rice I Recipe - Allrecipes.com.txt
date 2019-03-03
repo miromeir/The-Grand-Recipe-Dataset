@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Chinese Chicken Fried Rice I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="0.5 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0">Carrot</ingredient><ingredient amount="2.0">Celery</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="0.75 Cup">Pea</ingredient><ingredient amount="0.5">Bell Pepper</ingredient><ingredient amount="6.0 Cup">Rice</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="0.3333333333333333 Cup">Soy Sauce</ingredient></ingredients>
+<instructions>
+Heat oil in a large skillet over medium heat. Add onion and saute until soft, then add chicken and 2 tablespoons soy sauce and stir-fry for 5 to 6 minutes.
+
+Stir in carrots, celery, red bell pepper, pea pods and green bell pepper and stir-fry another 5 minutes. Then add rice and stir thoroughly.
+
+Finally, stir in scrambled eggs and 1/3 cup soy sauce, heat through and serve hot.
+
+
+
+
+</instructions>
+</recipe>

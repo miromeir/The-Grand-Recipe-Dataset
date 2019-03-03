@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Mediterranean Brown Rice Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Rice</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0 Cup">Pea</ingredient><ingredient amount="0.5 Cup">Raisin</ingredient><ingredient amount="0.25">Onion</ingredient><ingredient amount="0.25 Cup">Olive</ingredient><ingredient amount="0.5 Cup">Vegetable Oil</ingredient><ingredient amount="1.0 Teaspoon">Mus</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="0.25 Cup">Cheese</ingredient></ingredients>
+<instructions>
+Bring brown rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low; cover and simmer until rice is tender and the liquid is absorbed, 45 to 50 minutes.
+
+Combine red bell pepper, peas, raisins, onion, and olives in a bowl.
+
+Whisk vegetable oil, vinegar, and mustard together in a separate bowl for the balsamic dressing.
+
+Stir brown rice and balsamic dressing into vegetable mixture. Season with salt and black pepper.
+
+Top brown rice and vegetables with feta cheese before serving.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Lime Cilantro Rice Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="1.0 Cup">Grain</ingredient><ingredient amount="1.0 Teaspoon">Lime</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient></ingredients>
+<instructions>
+Bring the water to a boil; stir the butter and rice into the water. Cover, reduce heat to low, and simmer until the rice is tender, about 20 minutes.
+
+Stir the lime zest, lime juice, and cilantro into the cooked rice just before serving.
+
+
+
+
+</instructions>
+</recipe>

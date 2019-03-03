@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Chutney Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="12.0">Chicken</ingredient><ingredient amount="1.0 Ounce">Onion</ingredient></ingredients>
+<instructions>
+Preheat oven to 375 degrees F (190 degrees C).
+
+In a medium bowl, combine chutney and dry soup mix. Mix together. Season chicken pieces with salt and pepper to taste. Place seasoned chicken pieces in a 9x13 inch baking dish and pour chutney mixture over chicken.
+
+Bake in the preheated oven for 45 to 60 minutes, or until chutney sauce has turned brown and crunchy.
+
+
+
+
+</instructions>
+</recipe>

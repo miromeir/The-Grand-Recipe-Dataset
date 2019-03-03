@@ -1,0 +1,16 @@
+<recipe>
+<title>
+My Chicken Milano Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="4.0">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Ital</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Ounce">Green Bean</ingredient></ingredients>
+<instructions>
+In a large skillet heat oil over medium high heat. Add chicken and season with garlic, seasoning, hot pepper flakes and salt and pepper to taste. Saute for 5 minutes, then add tomatoes and cook for another 5 minutes. Add green beans and stir all together. Cover skillet, reduce heat to medium low and simmer for approximately 15 to 20 minutes.
+
+
+
+
+</instructions>
+</recipe>

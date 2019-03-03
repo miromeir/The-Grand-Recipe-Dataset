@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Balela Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="1.0 Pint">Grape Tomato</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="3.0 Tablespoon">Juice</ingredient><ingredient amount="5.0 Tablespoon">Apple</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+In a salad bowl, lightly mix together the garbanzo beans, black beans, mint, parsley, onion, and grape tomatoes.
+
+Place the jalapeno pepper, garlic, olive oil, lemon juice, and apple cider vinegar into a blender, and blend until thoroughly combined. Pour the dressing over the salad, and toss to mix; sprinkle with salt and black pepper to serve.
+
+
+
+
+</instructions>
+</recipe>

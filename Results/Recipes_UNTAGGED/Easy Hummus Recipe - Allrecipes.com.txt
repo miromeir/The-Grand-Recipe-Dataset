@@ -1,0 +1,48 @@
+<recipe>
+<title>
+Easy Hummus Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients>
+1 (15 ounce) can garbanzo beans, drained, liquid reserved
+2 ounces fresh jalapeno pepper, sliced
+1/2 teaspoon ground cumin
+2 tablespoons lemon juice
+3 cloves garlic, minced
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a blender or food processor, combine garbanzo beans, jalapeno, cumin, lemon juice, garlic and 1 tablespoon of the reserved bean liquid. Blend until smooth.
+
+
+
+
+</instructions>
+</recipe>
+<recipe>
+<title>
+Easy Hummus Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients>
+1 (15 ounce) can garbanzo beans, drained, liquid reserved
+2 ounces fresh jalapeno pepper, sliced
+1/2 teaspoon ground cumin
+2 tablespoons lemon juice
+3 cloves garlic, minced
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a blender or food processor, combine garbanzo beans, jalapeno, cumin, lemon juice, garlic and 1 tablespoon of the reserved bean liquid. Blend until smooth.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Gyoza Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="2.0 Cup">Cabbage</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.25 Cup">Carrot</ingredient><ingredient amount="0.5 Pound">Pork</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Ounce">Wonton</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Rice</ingredient></ingredients>
+<instructions>
+Heat sesame oil in a large skillet over medium high heat. Mix in cabbage, onion, garlic and carrot. Cook and stir until cabbage is limp. Mix in ground pork and egg. Cook until pork is evenly brown and egg is no longer runny.
+
+Preheat vegetable oil in a large skillet over medium high heat.
+
+Place approximately 1 tablespoon of the cabbage and pork mixture in the center of each wrapper. Fold wrappers in half over filling, and seal edges with moistened fingers.
+
+In the preheated vegetable oil, cook gyoza approximately 1 minute per side, until lightly browned. Place water into skillet and reduce heat. Cover and allow gyoza to steam until the water is gone.
+
+In a small bowl, mix soy sauce and rice vinegar. Use the mixture as a dipping sauce for the finished wrappers.
+
+
+
+
+</instructions>
+</recipe>

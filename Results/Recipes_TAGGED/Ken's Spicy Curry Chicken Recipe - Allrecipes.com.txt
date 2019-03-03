@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Ken's Spicy Curry Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Coconut Milk</ingredient><ingredient amount="2.0 Tablespoon">Paste</ingredient><ingredient amount="0.6666666666666666 Cup">Chicken</ingredient><ingredient amount="1.0 Ounce">Chestnut</ingredient><ingredient amount="1.0 Inch">Bell Pepper</ingredient><ingredient amount="1.0 Cup">Mush</ingredient><ingredient amount="3.0 Inch">Chicken</ingredient><ingredient amount="3.0 Tablespoon">Fish Sauce</ingredient></ingredients>
+<instructions>
+Over medium heat, whisk coconut milk and curry paste together in a large saucepan. Simmer for 5 minutes.
+
+Stir in chicken broth, water chestnuts, bamboo shoots, bell pepper, mushrooms, and chicken. Season with fish sauce and basil. Simmer for 10 more minutes, or until chicken is cooked, yet still tender.
+
+
+
+
+</instructions>
+</recipe>

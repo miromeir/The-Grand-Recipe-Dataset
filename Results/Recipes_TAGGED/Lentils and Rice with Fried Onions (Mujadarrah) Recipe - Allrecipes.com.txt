@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Lentils and Rice with Fried Onions (Mujadarrah) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="6.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Cup">Lentil</ingredient><ingredient amount="0.75 Cup">Grain</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="0.25 Cup">Yogurt</ingredient></ingredients>
+<instructions>
+Heat the olive oil in a large skillet over medium heat. Stir in the onions, and cook about 10 minutes, until browned. Remove from heat, and set aside.
+
+Place lentils in a medium saucepan with enough lightly salted water to cover. Bring to a boil, reduce heat, and simmer about 15 minutes.
+
+Stir rice and enough water to cover into the saucepan with the lentils. Season with salt and pepper. Cover saucepan, and continue to simmer 15 to 20 minutes, until rice and lentils are tender.
+
+Mix half the onions into the lentil mixture. Top with yogurt or sour cream and remaining onions to serve.
+
+
+
+
+</instructions>
+</recipe>

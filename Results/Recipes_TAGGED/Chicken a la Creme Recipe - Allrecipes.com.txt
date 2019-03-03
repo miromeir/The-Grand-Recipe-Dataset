@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Chicken a la Creme Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Butter</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Pint">Cream</ingredient></ingredients>
+<instructions>
+Melt half of the butter in a large skillet over medium-high heat. Season chicken tenders with salt and pepper, and saute them in butter until golden on all sides, about 10 minutes. Add the remaining butter, reduce heat to medium, and cook for 5 more minutes.
+
+Pour the heavy cream into the skillet, and simmer gently for 5 minutes, stirring occasionally, until the sauce has thickened and chicken is cooked through. Best when served with fresh French bread for dipping.
+
+
+
+
+</instructions>
+</recipe>

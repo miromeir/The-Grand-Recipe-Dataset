@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Quick Tartar Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Mayonnaise</ingredient><ingredient amount="2.0 Teaspoon">Relish</ingredient><ingredient amount="1.0 Teaspoon">Mus</ingredient><ingredient amount="1.0 Teaspoon">Juice</ingredient></ingredients>
+<instructions>
+Stir the mayonnaise, relish, mustard, and lemon juice together in a bowl.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Best Bulgoki - Korean Barbeque Beef Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Pear</ingredient><ingredient amount="3.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="3.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Juice</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Pound">Top Sirloin</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Paste</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient></ingredients>
+<instructions>
+Whisk scallions, pear, dark soy sauce, sesame oil, 1 tablespoon mirin, 1 tablespoon brown sugar, garlic, lime juice, ginger, black pepper, and red pepper flakes together in a bowl; pour into a resealable plastic bag. Add beef; coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator, 8 hours to overnight.
+
+Preheat an outdoor grill for medium-high heat and lightly oil the grate.
+
+Transfer beef slices from marinade to preheated grill, reserving marinade; cook until no longer pink in the center, about 3 minutes per side. Place beef in a serving dish.
+
+Place marinade in a saucepan with soy sauce, water, gochujang, 1 teaspoon brown sugar, and 1 teaspoon mirin. Bring to a boil and cook until thickened to sauce consistency, 3 to 5 minutes. Pour sauce over beef.
+
+
+
+
+</instructions>
+</recipe>

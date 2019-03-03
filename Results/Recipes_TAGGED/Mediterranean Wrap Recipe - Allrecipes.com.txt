@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Mediterranean Wrap Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0">Red Onion</ingredient><ingredient amount="1.0">Zucchini</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="0.25 Pound">Mush</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="4.0 Grain">Grain</ingredient><ingredient amount="0.25 Cup">Cheese</ingredient><ingredient amount="0.25 Cup">Pesto</ingredient><ingredient amount="1.0">Avocado</ingredient></ingredients>
+<instructions>
+Place the onion, zucchini, eggplant, mushrooms, and bell pepper into a large container with a tight fitting lid. Drizzle the olive oil over the vegetables and season with salt and pepper. Close the lid and shake to coat.
+
+Heat a grill pan or skillet over medium heat. Place the seasoned vegetables on the preheated pan, stir and cook until tender, about 10 minutes.
+
+Spread each tortilla with 1 tablespoon goat cheese and 1 tablespoon pesto. Divide the sliced avocado among the tortillas and top with the mixed veggies. Fold in the bottom of each tortilla and roll each up into a snug wrap.
+
+
+
+
+</instructions>
+</recipe>

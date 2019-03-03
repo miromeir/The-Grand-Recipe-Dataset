@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Thai Cashew Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="0.25 Cup">Fish Sauce</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="4.0">Chicken</ingredient><ingredient amount="1.0 Cup">Rice</ingredient><ingredient amount="1.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="3.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Quart">Onion</ingredient><ingredient amount="3.0 Tablespoon">Peanut Butter</ingredient><ingredient amount="1.0 Cup">Cashew Nut</ingredient></ingredients>
+<instructions>
+In a resealable plastic bag, mix the soy sauce, fish sauce, hot pepper sauce, garlic, and ginger. Place the chicken in the bag, seal, and marinate at least 2 hours in the refrigerator.
+
+In a medium saucepan, bring the jasmine rice and 2 cups water to a boil. Reduce heat, cover, and simmer 20 minutes.
+
+Heat the sesame oil in a large skillet over medium heat. Stir in the brown sugar until dissolved. Stir in the onion, and cook about 5 minutes, until tender. Reserving the marinade mixture, place the chicken into the skillet, and cook about 10 minutes, until browned.
+
+Stir the reserved marinade and 3/4 cup water into the skillet, and bring to a boil. Continue to cook and stir 10 minutes, or until the chicken is no longer pink and juices run clear. Thoroughly blend in the peanut butter. Serve over the jasmine rice with a sprinkling of cashews.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Lentil and Green Collard Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Cup">Lentil</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Bun</ingredient><ingredient amount="1.0 Teaspoon">Cinnamon</ingredient><ingredient amount="2.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="0.3333333333333333 Cup">Juice</ingredient></ingredients>
+<instructions>
+Heat 1 tablespoon olive oil in a large saucepan over medium heat, stir in onion and salt; cook until softened and translucent, about 4 minutes. Stir in lentils, and cook for 1 minute. Pour in water, then bring to a boil over high heat, then turn heat to medium-low, cover, and simmer until the lentils are tender, about 15 minutes.
+
+Meanwhile, heat 2 tablespoons olive oil in a large skillet over medium heat. Add collard greens, and cook until wilted, about 10 minutes. When the lentils are tender, stir in the collard greens and season with cumin, cinnamon, and garlic; allow to simmer 10 more minutes. Stir in lemon juice before serving.
+
+
+
+
+</instructions>
+</recipe>

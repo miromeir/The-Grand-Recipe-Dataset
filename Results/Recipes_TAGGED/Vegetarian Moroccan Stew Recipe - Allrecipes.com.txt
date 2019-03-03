@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Vegetarian Moroccan Stew Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="1.0 Inch">Cinnamon</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Inch">Butter</ingredient><ingredient amount="4.0 Inch">Potato</ingredient><ingredient amount="2.0 Cup">Vegetable</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Cup">Olive</ingredient><ingredient amount="1.0 Ounce">Couscous</ingredient><ingredient amount="6.0 Tablespoon">Yogurt</ingredient></ingredients>
+<instructions>
+Heat olive oil in a large covered saucepan or Dutch oven over medium heat, until oil is hot but not smoking. Drop in the onion, garlic, cumin, cinnamon stick, and salt and pepper. Cook and stir for 5 minutes, until onion is tender and translucent.
+
+Stir in the butternut squash and potato cubes, broth, garbanzo beans, and tomatoes, and bring the mixture to a boil. Reduce heat, cover the pot, and simmer about 20 minutes, stirring occasionally, until the squash and potatoes are tender. Remove the stew from heat, and stir in the olives and lemon zest.
+
+In a large saucepan, bring 1 3/4 cup water to a boil. Stir in couscous. Cover and remove from the heat; let stand for 5 minutes. Fluff with a fork; cool. Serve stew over cooked couscous. Garnish each serving with a dollop of yogurt and a sprinkle of cilantro leaves.
+
+
+
+
+</instructions>
+</recipe>

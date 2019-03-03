@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Pork Chops with Apple Curry Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="4.0 Inch">Pork</ingredient><ingredient amount="">Vegetable Oil</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Apple</ingredient><ingredient amount="1.0 Cup">Apple</ingredient><ingredient amount="2.0 Cup">Juice</ingredient><ingredient amount="0.25 Cup">Margarine</ingredient><ingredient amount="2.0 Tablespoon">Bouillon</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="3.0 Tablespoon">Curry Powder</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Season pork chops with salt and pepper. In a large skillet over medium-high heat, brown pork chops in a small amount of oil, flipping once to brown both sides. Arrange chops in a 9x13 inch baking dish.
+
+In the same skillet, melt margarine over medium heat. Cook and stir onions and apples in margarine until caramelized. Stir in applesauce, apple juice, chicken bouillon, garlic, and curry powder. Season to taste with salt and pepper. Pour over chops, and cover dish with foil.
+
+Bake in a preheated 400 degrees F (200 degrees C) for 40 minutes, or until pork chops are cooked through.
+
+
+
+
+</instructions>
+</recipe>

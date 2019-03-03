@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Pork Chops with Raspberry Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="4.0 Ounce">Pork</ingredient><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="2.0 Tablespoon">Orange</ingredient></ingredients>
+<instructions>
+Preheat oven to 200 degrees F (95 degrees C). In a small bowl, combine crushed thyme, sage, salt, and pepper. Rub evenly over pork chops.
+
+Melt butter and olive oil in a nonstick skillet. Cook pork chops for 4 to 5 minutes on each side, turning once. Remove from skillet and keep warm in preheated oven.
+
+In the skillet, combine raspberry jam, orange juice, and vinegar. Bring to a boil, and cook for 2 to 3 minutes, or until sauce is reduced to desired consistency (sauce will thicken as it cools). Spoon sauce in a pool onto a serving plate, and top with pork chops. Garnish with sprigs of thyme.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Hummus I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="0.5 Cup">Tahini</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Place garbanzo beans, tahini, lemon juice, lemon zest, garlic, parsley, and green onion in the bowl of a food processor. Blend until smooth, adding water if the mixture is too thick. Season to taste with salt and pepper.
+
+
+
+
+</instructions>
+</recipe>

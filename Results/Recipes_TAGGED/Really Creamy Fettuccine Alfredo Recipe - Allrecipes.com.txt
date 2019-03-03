@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Really Creamy Fettuccine Alfredo Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="8.0 Ounce">Pasta</ingredient><ingredient amount="1.0 Ounce">Cream Cheese</ingredient><ingredient amount="0.75 Cup">Parmesan Cheese</ingredient><ingredient amount="0.5 Cup">Margarine</ingredient><ingredient amount="0.5 Cup">Milk</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="1.0">Nutmeg</ingredient></ingredients>
+<instructions>
+Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.
+
+In a medium saucepan, combine cream cheese, Parmesan, margarine, milk, garlic powder and basil and stir over low heat until smooth and creamy, 10 to 15 minutes. Toss sauce with pasta and sprinkle with nutmeg. Serve.
+
+
+
+
+</instructions>
+</recipe>

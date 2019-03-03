@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Sweet Restaurant Slaw Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Onion</ingredient><ingredient amount="0.6666666666666666 Cup">Salad Dressing</ingredient><ingredient amount="3.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="0.5 Cup">Sugar</ingredient></ingredients>
+<instructions>
+Combine the coleslaw mix and onion in a large bowl.
+
+Whisk together the salad dressing, vegetable oil, sugar, vinegar, salt, and poppy seeds in a medium bowl; blend thoroughly. Pour dressing mixture over coleslaw mix and toss to coat. Chill at least 2 hours before serving.
+
+
+
+
+</instructions>
+</recipe>

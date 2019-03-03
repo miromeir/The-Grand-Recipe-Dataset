@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Best Hummus Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Chickpea</ingredient><ingredient amount="3.0 Tablespoon">Tahini</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0">Paprika</ingredient></ingredients>
+<instructions>
+Place garbanzo beans, tahini, olive oil, lemon juice, water, garlic, and cumin into a food processor and process until smooth, about 1 minute. Transfer to a bowl and sprinkle top of hummus with paprika and fresh parsley.
+
+
+
+
+</instructions>
+</recipe>

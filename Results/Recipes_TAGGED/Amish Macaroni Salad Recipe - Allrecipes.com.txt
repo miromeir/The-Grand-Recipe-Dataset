@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Amish Macaroni Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Macaroni</ingredient><ingredient amount="3.0">Egg</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="3.0">Celery</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="2.0 Tablespoon">Relish</ingredient><ingredient amount="2.0 Cup">Salad Dressing</ingredient><ingredient amount="3.0 Tablespoon">Mus</ingredient><ingredient amount="0.75 Cup">Sugar</ingredient><ingredient amount="0.75 Teaspoon">Celery</ingredient></ingredients>
+<instructions>
+Bring a pot of lightly salted water to a boil. Add macaroni, and cook for 8 to 10 minutes, until tender. Drain, and set aside to cool.
+
+In a large bowl, stir together the eggs, onion, celery, red pepper, and relish. In a small bowl, stir together the salad dressing, mustard, white sugar, vinegar, salt and celery seed. Pour over the vegetables, and stir in macaroni until well blended. Cover and chill for at least 1 hour before serving.
+
+
+
+
+</instructions>
+</recipe>

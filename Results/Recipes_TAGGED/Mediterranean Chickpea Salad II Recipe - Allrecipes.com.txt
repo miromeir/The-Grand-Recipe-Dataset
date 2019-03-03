@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Mediterranean Chickpea Salad II Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Chickpea</ingredient><ingredient amount="1.0">Tomato</ingredient><ingredient amount="0.5">Bell Pepper</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Juice</ingredient></ingredients>
+<instructions>
+In a bowl, toss together the garbanzo beans, roma tomato, green bell pepper, onion, garlic, parsley, olive oil, and lemon juice. Cover, and chill until serving.
+
+
+
+
+</instructions>
+</recipe>

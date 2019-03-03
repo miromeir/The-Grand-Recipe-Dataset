@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Gochujang Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Paste</ingredient><ingredient amount="2.0 Tablespoon">Onion</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Rice</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="2.0 Teaspoon">Sesame Seed</ingredient><ingredient amount="2.0 Teaspoon">Sugar</ingredient><ingredient amount="2.0 Teaspoon">Ginger</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient></ingredients>
+<instructions>
+Whisk gochujang, green onions, soy sauce, rice vinegar, garlic, sesame seeds, sugar, ginger, and sesame oil together in a bowl until smooth.
+
+
+
+
+</instructions>
+</recipe>

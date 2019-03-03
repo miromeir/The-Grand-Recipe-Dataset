@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Jay's Jerk Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="6.0">Onion</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="0.75 Cup">Soy Sauce</ingredient><ingredient amount="0.25 Cup">Vegetable Oil</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="0.5 Teaspoon">Clove</ingredient><ingredient amount="0.5 Teaspoon">Nutmeg</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient></ingredients>
+<instructions>
+In a food processor or blender, combine the green onions, onion, jalapeno pepper, soy sauce, vinegar, vegetable oil, brown sugar, thyme, cloves, nutmeg and allspice. Mix for about 15 seconds.
+
+Place the chicken in a medium bowl, and coat with the marinade. Refrigerate for 4 to 6 hours, or overnight.
+
+Preheat grill for high heat.
+
+Lightly oil grill grate. Cook chicken on the prepared grill 6 to 8 minutes, until juices run clear.
+
+
+
+
+</instructions>
+</recipe>

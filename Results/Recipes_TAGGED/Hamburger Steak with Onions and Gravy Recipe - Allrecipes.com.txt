@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Hamburger Steak with Onions and Gravy Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Beef</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="0.25 Cup">Bread Crumbs</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Onion Powder</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Cup">Onion</ingredient><ingredient amount="2.0 Tablespoon">Flour</ingredient><ingredient amount="1.0 Cup">Broth</ingredient></ingredients>
+<instructions>
+In a large bowl, mix together the ground beef, egg, bread crumbs, pepper, salt, onion powder, garlic powder, and Worcestershire sauce. Form into 8 balls, and flatten into patties.
+
+Heat the oil in a large skillet over medium heat. Fry the patties and onion in the oil until patties are nicely browned, about 4 minutes per side. Remove the beef patties to a plate, and keep warm.
+
+Sprinkle flour over the onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom as you stir. Gradually mix in the beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat for about 5 minutes, until the gravy thickens. Turn heat to low, return patties to the gravy, cover, and simmer for another 15 minutes.
+
+
+
+
+</instructions>
+</recipe>

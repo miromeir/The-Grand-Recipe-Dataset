@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Lebanese Lemon Lentil Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Celery</ingredient><ingredient amount="2.0">Carrot</ingredient><ingredient amount="1.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="2.0 Cup">Lentil</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Cup">Butter</ingredient><ingredient amount="1.0 Cup">Flour</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Heat olive oil in a large heavy-bottomed pot over medium heat. Cook and stir onion, celery, and carrots until slightly tender, about 5 minutes. Add garlic; cook and stir until fragrant, 30 seconds. Add water, lentils, 2 tablespoons fresh parsley, salt, coriander, cumin, black pepper, and cayenne pepper; stir to incorporate. Cover and simmer until lentils are tender, stirring occasionally, 1 1/2 hours.
+
+Whisk butter and flour together in a small saucepan over medium-low heat; stir constantly until thickened and paste-like, about 10 minutes. Reduce heat to low, stirring every 2 to 3 minutes, until light brown, about 20 more minutes. Whisk flour paste into finished soup, a spoonful at a time, until smooth and creamy. Serve with lemon wedges, 2 tablespoons parsley, and a sprinkle of freshly ground pepper.
+
+
+
+
+</instructions>
+</recipe>

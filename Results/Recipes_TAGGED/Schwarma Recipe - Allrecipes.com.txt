@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Schwarma Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Yogurt</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Onion</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Pound">Chicken</ingredient><ingredient amount="">Condiment</ingredient><ingredient amount="0.5 Cup">Yogurt</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Tomato</ingredient><ingredient amount="1.0">Cucumber</ingredient></ingredients>
+<instructions>
+To make the marinade, stir together 1 cup yogurt, lemon juice, hot pepper sauce, and vinegar. Stir in the garlic, onion, pepper, red pepper flakes, mace, and salt. Marinate the chicken overnight in the refrigerator.
+
+Place oven rack in the top position, and turn oven on to Broil.
+
+To cook, drain the marinade from the meat, and place on a slotted broiler pan. Broil on top rack of preheated oven, turning after a few minutes, until cooked through, about 5 minutes.
+
+To assemble the schwarma, spread each pita with a tablespoon of plain yogurt, and layer with onion, tomato, and cucumber. Pile on the broiled chicken, and dress with Ranch dressing.
+
+
+
+
+</instructions>
+</recipe>

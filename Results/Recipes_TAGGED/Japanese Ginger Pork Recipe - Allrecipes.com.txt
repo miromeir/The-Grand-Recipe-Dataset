@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Japanese Ginger Pork Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Pound">Pork</ingredient><ingredient amount="3.0 Tablespoon">Vegetable Oil</ingredient></ingredients>
+<instructions>
+In a large bowl, mix together the ginger, soy sauce, sake and mirin. Add the sliced pork, cover, and marinate for about 1 hour.
+
+Heat the oil in a skillet or wok over high heat. Add the pork, and fry until brown. The pork should have a dark crispy look to it. Do not cook on low or medium heat, as the juices will not cook fast enough to get a crispy texture. Discard leftover marinade.
+
+
+
+
+</instructions>
+</recipe>

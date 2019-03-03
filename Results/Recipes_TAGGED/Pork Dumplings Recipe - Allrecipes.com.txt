@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Pork Dumplings Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="100.0 Inch">Wonton</ingredient><ingredient amount="1.0 Pound">Pork</ingredient><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Onion</ingredient><ingredient amount="4.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="3.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="5.0 Cup">Cabbage</ingredient></ingredients>
+<instructions>
+In a large bowl, combine the pork, ginger, garlic, green onion, soy sauce, sesame oil, egg and cabbage. Stir until well mixed.
+
+Place 1 heaping teaspoon of pork filling onto each wonton skin. Moisten edges with water and fold edges over to form a triangle shape. Roll edges slightly to seal in filling. Set dumplings aside on a lightly floured surface until ready to cook.
+
+To Cook: Steam dumplings in a covered bamboo or metal steamer for about 15 to 20 minutes. Serve immediately.
+
+
+
+
+</instructions>
+</recipe>

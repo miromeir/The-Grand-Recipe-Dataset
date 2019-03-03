@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Satay Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Coconut Milk</ingredient><ingredient amount="0.5 Cup">Peanut Butter</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Teaspoon">Sugar</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a saucepan over medium heat, combine coconut milk, peanut butter, onion, soy sauce, brown sugar, and pepper flakes. Bring to a boil, stirring frequently. Remove from heat, and keep warm.
+
+
+
+
+</instructions>
+</recipe>

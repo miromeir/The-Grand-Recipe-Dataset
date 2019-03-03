@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Ingrid's Caesar Salad Dressing Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Mayonnaise</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="3.0 Tablespoon">Parmesan Cheese</ingredient><ingredient amount="2.0 Tablespoon">Salad Dressing</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Juice</ingredient><ingredient amount="0.5 Teaspoon">Mus</ingredient><ingredient amount="2.0">Pepper</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="0.25 Teaspoon">Paste</ingredient></ingredients>
+<instructions>
+Beat together the mayonnaise, olive oil, Parmesan cheese, blue cheese dressing, vinegar, garlic, lemon juice, dry mustard, Worcestershire sauce, hot pepper sauce, cayenne pepper, salt and pepper, and anchovy paste (if using) in a bowl until well blended.
+
+Cover and refrigerate for 4 hours before serving.
+
+
+
+
+</instructions>
+</recipe>

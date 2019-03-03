@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Mediterranean Greek Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="3.0">Cucumber</ingredient><ingredient amount="1.0 Cup">Cheese</ingredient><ingredient amount="1.0 Cup">Olive</ingredient><ingredient amount="3.0 Cup">Tomato</ingredient><ingredient amount="0.3333333333333333 Cup">Tomato</ingredient><ingredient amount="0.5">Red Onion</ingredient></ingredients>
+<instructions>
+In a large salad bowl, toss together the cucumbers, feta cheese, olives, roma tomatoes, sun-dried tomatoes, 2 tablespoons reserved sun-dried tomato oil, and red onion. Chill until serving.
+
+
+
+
+</instructions>
+</recipe>

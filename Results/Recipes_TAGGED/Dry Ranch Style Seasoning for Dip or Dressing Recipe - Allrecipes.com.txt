@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Dry Ranch Style Seasoning for Dip or Dressing Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="0.75 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Onion Powder</ingredient></ingredients>
+<instructions>
+In a small bowl, stir together the parsley, pepper, seasoned salt, garlic powder, onion powder and thyme. Use as a substitute for Ranch Dressing Mix.
+
+
+
+
+</instructions>
+</recipe>

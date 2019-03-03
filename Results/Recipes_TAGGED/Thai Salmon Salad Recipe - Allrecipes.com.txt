@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Thai Salmon Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="4.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="4.0 Tablespoon">Juice</ingredient><ingredient amount="2.0 Teaspoon">Sugar</ingredient><ingredient amount="1.0 Pound">Salmon</ingredient><ingredient amount="1.0 Teaspoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Tomato</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C).
+
+Prepare the dressing by combining the fish sauce, lime juice, brown sugar and chopped chiles in a small bowl; set aside.
+
+Place the salmon filet on a baking tray, and rub olive oil over. Bake for 20 minutes in the preheated oven, or until easily flaked. Let cool for at least 15 minutes.
+
+Place salmon filet into a big bowl; use fork to break salmon meat into big chunks. Add onion, tomato and basil; pour dressing over, and toss lightly until well mixed.
+
+Place mixture on lettuce leaves, and serve immediately.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Coffee Jelly Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Sugar</ingredient></ingredients>
+<instructions>
+Dissolve gelatin in the hot water in a small bowl. Pour gelatin mixture, coffee, and sugar in a saucepan and bring to a boil over high heat. Pour coffee mixture into glasses for individual servings or a large pan for cubing. Chill in the refrigerator until solidified, 6 to 7 hours.
+
+
+
+
+</instructions>
+</recipe>

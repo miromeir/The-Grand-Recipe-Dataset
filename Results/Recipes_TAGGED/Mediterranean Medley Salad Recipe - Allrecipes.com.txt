@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Mediterranean Medley Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="4.0 Cup">Bell Pepper</ingredient><ingredient amount="2.0 Ounce">Cheese</ingredient><ingredient amount="0.25 Cup">Olive</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Pepper</ingredient></ingredients>
+<instructions>
+Toss all ingredients together.
+
+
+
+
+</instructions>
+</recipe>

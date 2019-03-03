@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Greek Salad I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0">Red Onion</ingredient><ingredient amount="1.0 Ounce">Olive</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="2.0">Tomato</ingredient><ingredient amount="1.0">Cucumber</ingredient><ingredient amount="1.0 Cup">Cheese</ingredient><ingredient amount="6.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Juice</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+In a large salad bowl, combine the Romaine, onion, olives, bell peppers, tomatoes, cucumber and cheese.
+
+Whisk together the olive oil, oregano, lemon juice and black pepper. Pour dressing over salad, toss and serve.
+
+
+
+
+</instructions>
+</recipe>

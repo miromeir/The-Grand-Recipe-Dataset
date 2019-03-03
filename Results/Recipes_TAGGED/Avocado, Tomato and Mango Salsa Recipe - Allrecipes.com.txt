@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Avocado, Tomato and Mango Salsa Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0">Mango</ingredient><ingredient amount="1.0">Avocado</ingredient><ingredient amount="4.0">Tomato</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="0.25 Cup">Red Onion</ingredient><ingredient amount="3.0 Tablespoon">Olive Oil</ingredient></ingredients>
+<instructions>
+In a medium bowl, combine the mango, avocado, tomatoes, jalapeno, cilantro, and garlic. Stir in the salt, lime juice, red onion, and olive oil. To blend the flavors, refrigerate for about 30 minutes before serving.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Asparagus Parmesan Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="1.0 Pound">Asparagus</ingredient><ingredient amount="0.75 Cup">Parmesan Cheese</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Melt butter with olive oil in a large skillet over medium heat. Add asparagus spears, and cook, stirring occasionally for about 10 minutes, or to desired firmness. Drain off excess oil, and sprinkle with Parmesan cheese, salt and pepper.
+
+
+
+
+</instructions>
+</recipe>

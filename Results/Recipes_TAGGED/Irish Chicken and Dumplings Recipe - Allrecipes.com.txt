@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Irish Chicken and Dumplings Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Chicken Soup</ingredient><ingredient amount="1.0 Cup">Celery</ingredient><ingredient amount="2.0 Quart">Onion</ingredient><ingredient amount="0.5 Teaspoon">Poultry</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="4.0">Chicken</ingredient><ingredient amount="5.0">Carrot</ingredient><ingredient amount="1.0 Ounce">Pea</ingredient><ingredient amount="4.0 Quart">Potato</ingredient><ingredient amount="1.0 Cup">Milk</ingredient></ingredients>
+<instructions>
+In large, heavy pot, combine soup, water, chicken, celery, onion, salt, poultry seasoning, and pepper. Cover and cook over low heat about 1 1/2 hours.
+
+Add potatoes and carrots; cover and cook another 30 minutes.
+
+Remove chicken from pot, shred it, and return to pot. Add peas and cook only 5 minutes longer.
+
+Add dumplings. To make dumplings: Mix baking mix and milk until a soft dough forms. Drop by tablespoonfuls onto BOILING stew. Simmer covered for 10 minutes, then uncover and simmer an additional 10 minutes.
+
+
+
+
+</instructions>
+</recipe>

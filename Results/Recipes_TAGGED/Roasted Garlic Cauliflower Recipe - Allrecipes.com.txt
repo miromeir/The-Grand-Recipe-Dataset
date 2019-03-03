@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Roasted Garlic Cauliflower Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="3.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.3333333333333333 Cup">Parmesan Cheese</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Preheat the oven to 450 degrees F (220 degrees C). Grease a large casserole dish.
+
+Place the olive oil and garlic in a large resealable bag. Add cauliflower, and shake to mix. Pour into the prepared casserole dish, and season with salt and pepper to taste.
+
+Bake for 25 minutes, stirring halfway through. Top with Parmesan cheese and parsley, and broil for 3 to 5 minutes, until golden brown.
+
+
+
+
+</instructions>
+</recipe>

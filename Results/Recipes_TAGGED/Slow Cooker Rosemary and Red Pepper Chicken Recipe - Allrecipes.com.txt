@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Slow Cooker Rosemary and Red Pepper Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="8.0 Ounce">Ital</ingredient><ingredient amount="8.0 Ounce">Chicken</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Cold Water</ingredient></ingredients>
+<instructions>
+In a 5 to 6 quart slow cooker, combine onion, bell pepper, garlic, rosemary, and oregano. Crumble sausages over onion mixture. Rinse chicken and pat dry; arrange in a single layer over sausage. Sprinkle with pepper. Pour in vermouth. Cover, and cook on Low setting for 5 to 7 hours, or until chicken is tender and cooked through when pierced.
+
+Transfer chicken to a warm, deep platter, and cover to keep warm.
+
+In a small bowl, stir together cornstarch and cold water. Stir into cooking liquid in slow cooker. Increase heat to High, and cover. Cook, stirring 2 to3 times, until sauce is thickened (about 10 more minutes). Season to taste with salt. Spoon sauce over chicken, and sprinkle with parsley.
+
+
+
+
+</instructions>
+</recipe>

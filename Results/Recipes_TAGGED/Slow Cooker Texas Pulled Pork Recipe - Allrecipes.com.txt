@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Slow Cooker Texas Pulled Pork Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="1.0 Teaspoon">Vegetable Oil</ingredient><ingredient amount="1.0 Pound">Pork</ingredient><ingredient amount="0.5 Cup">Apple</ingredient><ingredient amount="0.5 Cup">Chicken</ingredient><ingredient amount="0.25 Cup">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Mus</ingredient><ingredient amount="1.0 Tablespoon">Chili Powder</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="8.0">Ham</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient></ingredients>
+<instructions>
+Pour the vegetable oil into the bottom of a slow cooker. Place the pork roast into the slow cooker; pour in the barbecue sauce, apple cider vinegar, and chicken broth. Stir in the brown sugar, yellow mustard, Worcestershire sauce, chili powder, onion, garlic, and thyme. Cover and cook on High until the roast shreds easily with a fork, 5 to 6 hours.
+
+Remove the roast from the slow cooker, and shred the meat using two forks. Return the shredded pork to the slow cooker, and stir the meat into the juices.
+
+Spread the inside of both halves of hamburger buns with butter. Toast the buns, butter side down, in a skillet over medium heat until golden brown. Spoon pork into the toasted buns.
+
+
+
+
+</instructions>
+</recipe>

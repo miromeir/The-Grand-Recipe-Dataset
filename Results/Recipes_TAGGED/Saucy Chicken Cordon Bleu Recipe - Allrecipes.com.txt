@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Saucy Chicken Cordon Bleu Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="4.0">Chicken</ingredient><ingredient amount="4.0">Ham</ingredient><ingredient amount="4.0">Cheese</ingredient><ingredient amount="1.0 Cup">Flour</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Paprika</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="0.3333333333333333 Cup">Milk</ingredient><ingredient amount="1.0 Cup">Bread Crumbs</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="1.0 Ounce">Cream</ingredient><ingredient amount="0.5 Pound">Mush</ingredient><ingredient amount="0.25 Teaspoon">Garlic</ingredient><ingredient amount="0.125 Teaspoon">Curry Powder</ingredient><ingredient amount="0.5 Cup">Cream</ingredient><ingredient amount="2.0">Garnish</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+Flatten chicken breasts without breaking through meat. Roll each ham slice in a cheese slice, then roll up in chicken breasts. In a shallow dish or bowl season flour with salt, pepper and paprika. In a separate dish or bowl beat together eggs and milk. Dip chicken rolls in seasoned flour, then egg mixture, then bread crumbs. Heat oil in a large skillet and fry chicken in hot oil until golden brown. Set aside.
+
+To Make Sauce: In a large bowl combine the soup, mushrooms, garlic powder, curry powder, wine and sour cream. Mix all together. Place browned chicken in a 9x13 inch baking dish. Pour sauce mixture over chicken and bake in the preheated oven for 15 to 20 minutes. Garnish with fresh parsley sprigs.
+
+
+
+
+</instructions>
+</recipe>

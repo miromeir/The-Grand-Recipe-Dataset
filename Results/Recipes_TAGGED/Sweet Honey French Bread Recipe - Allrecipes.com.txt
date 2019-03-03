@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Sweet Honey French Bread Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="2.0 Teaspoon">Honey</ingredient><ingredient amount="2.0 Teaspoon">Olive Oil</ingredient><ingredient amount="0.6666666666666666 Teaspoon">Sugar</ingredient><ingredient amount="2.0 Cup">Flour</ingredient><ingredient amount="1.0 Teaspoon">Yeast</ingredient><ingredient amount="1.0 Tablespoon">Honey</ingredient></ingredients>
+<instructions>
+Add to your bread machine per manufacturer instructions. While bread is baking, drizzle with honey if desired.
+
+
+
+
+</instructions>
+</recipe>

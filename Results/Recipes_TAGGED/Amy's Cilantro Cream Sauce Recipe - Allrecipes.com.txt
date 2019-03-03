@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Amy's Cilantro Cream Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Cream Cheese</ingredient><ingredient amount="1.0 Tablespoon">Cream</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Teaspoon">Celery Salt</ingredient><ingredient amount="2.0 Teaspoon">Garlic</ingredient><ingredient amount="1.0">Bun</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient></ingredients>
+<instructions>
+Combine cream cheese, sour cream, salsa, pepper, celery salt, cumin, garlic powder, cilantro and lime juice in a blender or food processor. Blend until smooth and creamy. Place in a serving bowl.
+
+
+
+
+</instructions>
+</recipe>

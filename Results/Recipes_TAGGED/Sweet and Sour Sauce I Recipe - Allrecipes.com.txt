@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Sweet and Sour Sauce I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="0.75 Cup">Sugar</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient></ingredients>
+<instructions>
+Place the sugar, vinegar, water, soy sauce, ketchup and cornstarch in a medium saucepan, and bring to a boil. Stir continuously until the mixture has thickened.
+
+
+
+
+</instructions>
+</recipe>

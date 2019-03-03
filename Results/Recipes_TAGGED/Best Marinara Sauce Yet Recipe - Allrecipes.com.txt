@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Best Marinara Sauce Yet Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Ounce">Tomato Paste</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="6.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.3333333333333333 Cup">Onion</ingredient></ingredients>
+<instructions>
+In a food processor place Italian tomatoes, tomato paste, chopped parsley, minced garlic, oregano, salt, and pepper. Blend until smooth.
+
+In a large skillet over medium heat saute the finely chopped onion in olive oil for 2 minutes. Add the blended tomato sauce and white wine.
+
+Simmer for 30 minutes, stirring occasionally.
+
+
+
+
+</instructions>
+</recipe>

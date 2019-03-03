@@ -1,0 +1,18 @@
+<recipe>
+<title>
+African Peanut Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="2.0">Bell Pepper</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="8.0 Cup">Vegetable</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Teaspoon">Chili Powder</ingredient><ingredient amount="0.6666666666666666 Cup">Peanut Butter</ingredient><ingredient amount="0.5 Cup">Rice</ingredient></ingredients>
+<instructions>
+Heat oil in a large stock pot over medium high heat. Cook onions and bell peppers until lightly browned and tender, stirring in garlic when almost done to prevent burning. Stir in tomatoes, vegetable stock, pepper, and chili powder. Reduce heat to low and simmer, uncovered, for 30 minutes.
+
+Stir in rice, cover, and simmer another fifteen minutes or until rice is tender. Stir in peanut butter until well blended, and serve.
+
+
+
+
+</instructions>
+</recipe>

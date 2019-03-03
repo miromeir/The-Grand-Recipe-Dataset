@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Colombian Aji Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients>
+10 jalapeno peppers, seeded
+1/4 cup water
+1/4 cup white vinegar
+1/4 cup fresh lemon juice
+1 1/2 cups chopped green onions
+1 cup chopped cilantro
+2 teaspoons salt
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a blender, combine jalapenos, water, vinegar, lemon juice, green onions, cilantro and salt. Blend until smooth; refrigerate until ready to serve.
+
+
+
+
+</instructions>
+</recipe>

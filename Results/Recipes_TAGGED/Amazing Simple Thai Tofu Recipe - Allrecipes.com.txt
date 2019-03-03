@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Amazing Simple Thai Tofu Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Inch">Tofu</ingredient><ingredient amount="0.3333333333333333 Cup">Onion</ingredient><ingredient amount="1.0 Teaspoon">Olive Oil</ingredient><ingredient amount="0.5 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0 Teaspoon">Soy Sauce</ingredient><ingredient amount="2.0 Teaspoon">Ginger</ingredient><ingredient amount="0.25 Cup">Peanut Butter</ingredient><ingredient amount="3.0 Tablespoon">Coconut</ingredient><ingredient amount="">Sesame Seed</ingredient></ingredients>
+<instructions>
+Heat olive oil and sesame oil in a skillet over medium-high heat. Reduce heat to medium, and cook green onions for one minute. Add tofu, and continue cooking 4 minutes more, sprinkling with soy sauce halfway through. Gently stir in the peanut butter and ginger, being careful not to break the tofu, until well incorporated.
+
+Remove from heat, and toss in coconut. Transfer to a serving dish, and sprinkle with sesame seeds.
+
+
+
+
+</instructions>
+</recipe>

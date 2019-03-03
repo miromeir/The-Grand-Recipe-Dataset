@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Korean Marinated Flank Steak Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="4.0">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Cup">Soy Sauce</ingredient><ingredient amount="0.25 Cup">Sesame Oil</ingredient><ingredient amount="2.0 Tablespoon">Meat</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="2.0 Pound">Steak</ingredient></ingredients>
+<instructions>
+Place garlic, ginger, and onion in the bowl of a blender. Add soy sauce, sesame oil, Worcestershire sauce, meat tenderizer, and sugar. Puree until smooth.
+
+Pour the marinade into a resealable plastic bag or glass bowl. Score the flank steak and place into the marinade. Marinate overnight in the refrigerator.
+
+Preheat a grill for medium-high heat.
+
+Grill steak on preheated grill to desired doneness, about 7 minutes per side for medium.
+
+
+
+
+</instructions>
+</recipe>

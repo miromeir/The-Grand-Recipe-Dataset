@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Perfect Baked Potato Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="1.0">Potato</ingredient><ingredient amount="1.0 Teaspoon">Olive Oil</ingredient><ingredient amount="2.0 Teaspoon">Butter</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="0.25 Cup">Cheddar</ingredient></ingredients>
+<instructions>
+Preheat the oven to 300 degrees F (150 degrees C). Scrub the potato, and pierce the skin several times with a knife or fork. Rub the skin with olive oil, then with salt.
+
+Place the potato in the preheated oven, and bake for 90 minutes, or until slightly soft and golden brown. Slice the potato down the center, and serve with butter and black pepper. Sprinkle shredded Cheddar cheese over the top, if desired.
+
+
+
+
+</instructions>
+</recipe>

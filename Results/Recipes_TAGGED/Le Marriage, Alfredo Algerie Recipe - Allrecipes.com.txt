@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Le Marriage, Alfredo Algerie Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Chicken</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">White Pepper</ingredient><ingredient amount="5.0">Garlic</ingredient><ingredient amount="0.5 Cup">Butter</ingredient><ingredient amount="1.0 Ounce">Cream Cheese</ingredient><ingredient amount="1.0 Cup">Cream</ingredient><ingredient amount="0.5 Cup">Parmesan Cheese</ingredient><ingredient amount="">Milk</ingredient></ingredients>
+<instructions>
+Warm olive oil in a large skillet over medium heat. Place the chicken pieces in hot oil; cook, turning, until browned on both sides. Stir in cayenne, white pepper, and garlic. Pour in water, and cook until the chicken is done and the water has evaporated, about 30 minutes.
+
+Stir in butter and saffron threads; cook for 10 minutes. Add cream cheese, stirring until melted and smooth. Gradually whisk in cream, smoothing out any lumps. Stir in Parmesan, and cook until the sauce reaches the consistency you like. If it becomes too thick, stir in a small amount of milk.
+
+
+
+
+</instructions>
+</recipe>

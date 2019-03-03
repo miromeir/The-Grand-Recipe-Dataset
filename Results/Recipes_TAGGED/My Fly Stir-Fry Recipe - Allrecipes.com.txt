@@ -1,0 +1,20 @@
+<recipe>
+<title>
+My Fly Stir-Fry Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="4.0">Pork</ingredient><ingredient amount="0.25 Cup">Rice</ingredient><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="0.5 Cup">Mush</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="1.0 Tablespoon">Sesame Oil</ingredient></ingredients>
+<instructions>
+Slice pork as thinly as possible. Working with partially frozen chops makes this easier. In a medium bowl, mix pork with mirin, rice vinegar, and soy sauce. Cover, and let marinate in refrigerator while you prepare the remaining ingredients.
+
+Slice mushrooms, green pepper, green part of green onions, and set aside. Mince white part of green onions, garlic, and ginger.
+
+Heat wok or large skillet over medium heat, then coat with sesame oil. Saute minced green onion, garlic, and ginger until fragrant. Increase heat to high. Squeeze marinade off pork, and place pork into wok. Reserve marinade. Cook and stir until pork is no longer pink, about 4 minutes. Stir in mushrooms, green pepper, and sliced green onion. Cook, stirring, until vegetables are tender, about 4 minutes. Stir in reserved marinade, and cook about 2 minutes.
+
+
+
+
+</instructions>
+</recipe>

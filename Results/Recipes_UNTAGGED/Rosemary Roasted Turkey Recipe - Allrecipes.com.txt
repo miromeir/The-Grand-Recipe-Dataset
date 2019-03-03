@@ -1,0 +1,35 @@
+<recipe>
+<title>
+Rosemary Roasted Turkey Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients>
+3/4 cup olive oil
+3 tablespoons minced garlic
+2 tablespoons chopped fresh rosemary
+1 tablespoon chopped fresh basil
+1 tablespoon Italian seasoning
+1 teaspoon ground black pepper
+salt to taste
+1 (12 pound) whole turkey
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Preheat oven to 325 degrees F (165 degrees C).
+
+In a small bowl, mix the olive oil, garlic, rosemary, basil, Italian seasoning, black pepper and salt. Set aside.
+
+Wash the turkey inside and out; pat dry. Remove any large fat deposits. Loosen the skin from the breast. This is done by slowly working your fingers between the breast and the skin. Work it loose to the end of the drumstick, being careful not to tear the skin.
+
+Using your hand, spread a generous amount of the rosemary mixture under the breast skin and down the thigh and leg. Rub the remainder of the rosemary mixture over the outside of the breast. Use toothpicks to seal skin over any exposed breast meat.
+
+Place the turkey on a rack in a roasting pan. Add about 1/4 inch of water to the bottom of the pan. Roast in the preheated oven 3 to 4 hours, or until the internal temperature of the bird reaches 180 degrees F (80 degrees C).
+
+
+
+
+</instructions>
+</recipe>

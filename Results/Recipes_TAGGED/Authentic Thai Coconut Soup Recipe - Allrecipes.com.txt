@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Authentic Thai Coconut Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Coconut Milk</ingredient><ingredient amount="10.0">Lime</ingredient><ingredient amount="1.0 Pound">Mush</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="3.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="0.25 Cup">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Curry Powder</ingredient><ingredient amount="1.0 Tablespoon">Onion</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Bring a pot of water to a boil. Boil the shrimp until cooked, about one minute. Drain shrimp, and set aside.
+
+Pour the coconut milk and 2 cups of water in a large saucepan; bring to a simmer. Add the galangal, lemon grass, and lime leaves; simmer for 10 minutes, or until the flavors are infused. Strain the coconut milk into a new pan and discard the spices. Simmer the shiitake mushrooms in the coconut milk for five minutes. Stir in the lime juice, fish sauce, and brown sugar. Season to taste with curry powder.
+
+To serve, reheat shrimp in the soup, and ladle into serving bowls. Garnish with green onion and red pepper flakes.
+
+
+
+
+</instructions>
+</recipe>

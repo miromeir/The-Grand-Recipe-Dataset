@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Beef Kushiyaki Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.3333333333333333 Cup">Soy Sauce</ingredient><ingredient amount="0.125 Teaspoon">Aji</ingredient><ingredient amount="0.3333333333333333 Cup">Sugar</ingredient><ingredient amount="1.0 Pound">Steak</ingredient><ingredient amount="3.0 Inch">Onion</ingredient></ingredients>
+<instructions>
+In a bowl, mix the mirin, garlic, soy sauce, monosodium glutamate, and sugar; stir to dissolve the sugar. Place the beef and green onions into the marinade, stir to coat with marinade, and allow to stand for 30 minutes. Soak bamboo skewers in water.
+
+Preheat the oven's broiler and set the oven rack about 6 inches from the heat source.
+
+Roll a slice of thin beef around a piece of green onion; skewer the roll with 2 bamboo skewers, place about 1/2 inch apart. Repeat twice more, placing 3 beef rolls onto the 2 skewers. Repeat with remaining beef, green onion, and skewers until all the beef is rolled up. Place skewers onto a broiling pan. Discard used marinade.
+
+Broil until browned on both sides, about 3 to 3 1/2 minutes per side.
+
+
+
+
+</instructions>
+</recipe>

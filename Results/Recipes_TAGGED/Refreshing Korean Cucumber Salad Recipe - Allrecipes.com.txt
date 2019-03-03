@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Refreshing Korean Cucumber Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="3.0 Pound">Cucumber</ingredient><ingredient amount="1.0 Tablespoon">Sea Salt</ingredient><ingredient amount="0.5 Cup">Rice</ingredient><ingredient amount="1.0 Tablespoon">Rice</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="2.0 Tablespoon">Honey</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="2.0">Walnut</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Place sliced cucumbers in a large bowl and sprinkle evenly with sea salt; allow liquid to drain from cucumbers, about 15 minutes. Spoon cucumbers onto sheets of paper towels; wrap paper towels around cucumbers and wring out as much liquid as possible.
+
+Mix rice vinegar, rice wine, sesame oil, honey, lemon juice, green onion, sesame seeds, walnuts, garlic, Korean red pepper powder, and ground black pepper in a bowl; add cucumbers and toss. Cover bowl with plastic wrap and refrigerate until flavors blend, at least 30 minutes.
+
+
+
+
+</instructions>
+</recipe>

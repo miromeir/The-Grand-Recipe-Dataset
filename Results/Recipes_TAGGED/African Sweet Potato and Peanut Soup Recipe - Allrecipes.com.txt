@@ -1,0 +1,20 @@
+<recipe>
+<title>
+African Sweet Potato and Peanut Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="2.0 Teaspoon">Ginger</ingredient><ingredient amount="0.5 Teaspoon">Cinnamon</ingredient><ingredient amount="1.0">Clove</ingredient><ingredient amount="3.0">Tomato</ingredient><ingredient amount="1.0 Pound">Sweet Potato</ingredient><ingredient amount="1.0">Carrot</ingredient><ingredient amount="0.25 Cup">Pea</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Peanut Butter</ingredient><ingredient amount="1.0">Bun</ingredient></ingredients>
+<instructions>
+Heat the oil in a large saucepan over medium-high heat. Saute the onion 10 minutes, until lightly browned. Mix in the garlic, ginger, cumin, coriander, cinnamon, and cloves. Stir in the tomatoes, sweet potatoes, and carrot, and continue to cook and stir about 5 minutes.
+
+Pour water into the saucepan, and season the mixture with salt. Bring to a boil, reduce heat, and simmer 30 minutes.
+
+Remove the soup mixture from heat. In a food processor or blender, blend the soup and peanuts until almost smooth. Season with cayenne pepper. Return to the saucepan. Whisk in the peanut butter, and cook until heated through. Serve warm topped with fresh cilantro.
+
+
+
+
+</instructions>
+</recipe>

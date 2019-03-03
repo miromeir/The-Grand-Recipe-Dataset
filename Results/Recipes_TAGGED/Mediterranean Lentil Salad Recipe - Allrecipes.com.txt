@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Mediterranean Lentil Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Lentil</ingredient><ingredient amount="1.0 Cup">Carrot</ingredient><ingredient amount="1.0 Cup">Red Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="0.5 Cup">Celery</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient></ingredients>
+<instructions>
+In a saucepan combine lentils, carrots, onion, garlic, bay leaf, and thyme. Add enough water to cover by 1 inch. Bring to boil, reduce heat and simmer uncovered for 15 to 20 minutes or until lentils are tender but not mushy.
+
+Drain lentils and vegetables and remove bay leaf. Add olive oil, lemon juice, celery, parsley, salt and pepper. Toss to mix and serve at room temperature.
+
+
+
+
+</instructions>
+</recipe>

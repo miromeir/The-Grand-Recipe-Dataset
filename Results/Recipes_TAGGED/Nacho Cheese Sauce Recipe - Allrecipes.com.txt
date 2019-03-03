@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Nacho Cheese Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="2.0 Tablespoon">Flour</ingredient><ingredient amount="1.0 Cup">Milk</ingredient><ingredient amount="7.0">Cheese</ingredient></ingredients>
+<instructions>
+In a medium saucepan over medium heat, melt butter and stir in flour. Pour in the milk and stir until the mixture thickens. Stirring constantly, mix in cheese and salt. Continue to cook and stir until cheese has melted and all ingredients are well blended, about 15 minutes.
+
+
+
+
+</instructions>
+</recipe>

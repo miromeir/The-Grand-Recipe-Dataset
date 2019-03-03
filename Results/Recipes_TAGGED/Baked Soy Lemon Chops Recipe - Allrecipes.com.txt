@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Baked Soy Lemon Chops Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Teaspoon">Vegetable Oil</ingredient><ingredient amount="4.0">Pork</ingredient></ingredients>
+<instructions>
+In a shallow dish, combine soy sauce, Worcestershire sauce, garlic, lemon juice, pepper and oil. Add pork chops, and turn to coat evenly. Cover, and refrigerate for at least 1 hour.
+
+Preheat oven to 375 degrees F (190 degrees C).
+
+Place marinated pork chops in a roasting pan, and bake in preheated oven for 35 to 40 minutes, basting meat often with marinade.
+
+
+
+
+</instructions>
+</recipe>

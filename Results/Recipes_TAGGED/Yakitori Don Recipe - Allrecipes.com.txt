@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Yakitori Don Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="3.0 Tablespoon">Sugar</ingredient><ingredient amount="0.6666666666666666 Cup">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Cooking Oil</ingredient></ingredients>
+<instructions>
+Rinse chicken, and pat dry. In a glass baking dish or bowl, stir together the ginger, garlic, sugar, soy sauce, sake and mirin. Place the chicken into the mixture to marinate. Refrigerate, covered for several hours, or overnight.
+
+Heat oil in a large heavy skillet over medium-high heat. Place chicken pieces into the pan skin-side down, reserving marinade. Cook until light brown, then flip and brown the other side. Drain off grease, and pour the marinade into the pan.
+
+Cover, and reduce heat to low, and simmer for 8 to 10 minutes. Remove the lid and continue cooking, shaking the skillet occasionally, until marinade is reduced to a nice thick sauce and chicken pieces are fully cooked.
+
+
+
+
+</instructions>
+</recipe>

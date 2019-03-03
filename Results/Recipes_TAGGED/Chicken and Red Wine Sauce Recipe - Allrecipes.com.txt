@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Chicken and Red Wine Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="3.0 Pound">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Paprika</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Heat oil in a large skillet over medium high heat. Cook garlic in oil until tender. Place chicken in the skillet, and cook about 10 minutes on each side, until no longer pink and juices run clear.
+
+Drain oil from skillet. Sprinkle chicken with paprika and 1 cup brown sugar. Pour red wine around chicken. Cover, and simmer about 15 to 20 minutes; lightly baste chicken with wine sauce while cooking. Season to taste with salt and pepper.
+
+
+
+
+</instructions>
+</recipe>

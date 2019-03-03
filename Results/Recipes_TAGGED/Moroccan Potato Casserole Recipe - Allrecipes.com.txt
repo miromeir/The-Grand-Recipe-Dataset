@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Moroccan Potato Casserole Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="6.0">Garlic</ingredient><ingredient amount="2.0 Teaspoon">Paprika</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="1.0">Juice</ingredient><ingredient amount="3.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Inch">Potato</ingredient><ingredient amount="1.0 Inch">Bell Pepper</ingredient><ingredient amount="1.0 Inch">Bell Pepper</ingredient><ingredient amount="1.0 Inch">Bell Pepper</ingredient><ingredient amount="4.0 Inch">Celery</ingredient><ingredient amount="1.0 Pound">Tomato</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+Combine garlic, 1/2 teaspoon salt, paprika, cumin, and cayenne in a food processor bowl. Process until mixture forms a paste. Add herbs, and pulse a few times to blend. Add lemon juice, vinegar, and 2 to 3 tablespoons olive oil; blend. Season to taste with salt.
+
+In a large bowl, combine potatoes, peppers, and celery. Season with salt, and toss with herb sauce. Transfer to a large shallow baking dish. Scatter tomatoes among the potato mixture. Drizzle 1 to 2 tablespoons oil over top, and cover with foil.
+
+Bake for 35 minutes. Remove foil. Continue baking until vegetables are tender, 20 to 30 minutes. Serve warm.
+
+
+
+
+</instructions>
+</recipe>

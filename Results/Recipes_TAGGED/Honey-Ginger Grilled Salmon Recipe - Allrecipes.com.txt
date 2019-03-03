@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Honey-Ginger Grilled Salmon Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="0.3333333333333333 Cup">Soy Sauce</ingredient><ingredient amount="0.3333333333333333 Cup">Orange</ingredient><ingredient amount="0.25 Cup">Honey</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Pound">Salmon</ingredient></ingredients>
+<instructions>
+In a large self-closing plastic bag, combine ginger, garlic, soy sauce, orange juice, honey, and green onion; mix well. Place salmon in bag and seal tightly. Turn bag gently to distribute marinade. Refrigerate for 15 to 30 minutes.
+
+Preheat an outdoor grill for medium heat and lightly oil grate.
+
+Remove salmon from marinade, shake off excess, and discard remaining marinade. Grill for 12 to 15 minutes per inch of thickness, or until the fish flakes easily with a fork.
+
+
+
+
+</instructions>
+</recipe>

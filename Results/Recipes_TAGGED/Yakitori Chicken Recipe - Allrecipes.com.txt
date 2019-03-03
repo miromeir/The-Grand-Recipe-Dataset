@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Yakitori Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Inch">Ginger</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="3.0 Inch">Leek</ingredient></ingredients>
+<instructions>
+In a medium dish, mix together the sake, soy sauce, sugar, garlic and ginger. Add chicken, and allow to marinate for 15 minutes.
+
+Preheat your oven's broiler. Grease six metal skewers, and thread alternately with 3 pieces of chicken and 2 pieces of leek. Place on a baking sheet or broiling pan, and brush with the marinade.
+
+Broil for about 5 minutes, baste again, then broil for another 5 minutes, or until chicken is cooked through. Discard remaining marinade.
+
+
+
+
+</instructions>
+</recipe>

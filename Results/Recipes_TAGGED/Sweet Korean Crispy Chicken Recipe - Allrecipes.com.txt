@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Sweet Korean Crispy Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Rice</ingredient><ingredient amount="1.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="1.0 Teaspoon">Minced Ginger</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="3.0">Chicken</ingredient><ingredient amount="6.0 Tablespoon">Honey</ingredient><ingredient amount="4.0 Tablespoon">Sugar</ingredient><ingredient amount="3.0 Tablespoon">Paste</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="1.0 Teaspoon">Minced Ginger</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="">Canola</ingredient></ingredients>
+<instructions>
+Mix rice wine vinegar, 1 teaspoon garlic, 1 teaspoon ginger, salt, and 1 pinch pepper in a bowl with the chicken. Allow to sit for 20 to 30 minutes.
+
+Combine honey, vinegar, brown sugar, gochujang, soy sauce, 2 teaspoons garlic, 1 teaspoon ginger, and 1 pinch black pepper in a pot over medium heat. Stir well; when bubbling, reduce heat to low and simmer 3 to 4 minutes. Remove from heat.
+
+Toss cornstarch with the chicken to coat evenly.
+
+Fill a pan with 1 inch oil and heat to 350 degrees F (175 degrees C). Add chicken in small batches, making sure to not overcrowd the pan. Cook until lightly golden brown, about 2 minutes per side.
+
+Reheat oil to 350 degrees F (175 degrees C) and deep fry chicken once more until deeply golden, about 40 seconds each. Transfer chicken to the pot of sauce.
+
+Heat sauce and chicken over medium-low heat until warmed through, about 3 minutes.
+
+
+
+
+</instructions>
+</recipe>

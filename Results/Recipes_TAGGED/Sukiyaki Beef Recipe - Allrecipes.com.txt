@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Sukiyaki Beef Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Pea</ingredient><ingredient amount="1.0 Inch">Round Steak</ingredient><ingredient amount="0.5 Cup">Beef</ingredient><ingredient amount="2.0 Teaspoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="0.75 Cup">Onion</ingredient><ingredient amount="0.75 Cup">Celery</ingredient><ingredient amount="0.25 Pound">Mush</ingredient><ingredient amount="0.25 Pound">Spinach</ingredient></ingredients>
+<instructions>
+Heat oil in a wok or large heavy skillet over medium-high heat. Add beef, and cook until evenly brown. Stir in beef stock, soy sauce and butter. Push meat to the side, and toss in onion, celery and mushrooms. Cook, stirring, for about 4 minutes. Add spinach, and cook for 2 more minutes.
+
+
+
+
+</instructions>
+</recipe>

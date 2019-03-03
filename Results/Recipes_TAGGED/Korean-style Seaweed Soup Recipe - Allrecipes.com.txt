@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Korean-style Seaweed Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.25 Pound">Top Sirloin</ingredient><ingredient amount="2.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Teaspoon">Minced Garlic</ingredient></ingredients>
+<instructions>
+Soak seaweed in water to cover. When soft, drain, and cut into 2 inch pieces.
+
+Heat a saucepan over medium heat; add beef, sesame oil, 1/2 tablespoon soy sauce, and a little salt, and cook for 1 minute. Stir in seaweed and remaining 1 tablespoon soy sauce; cook for 1 minute, stirring frequently. Pour in 2 cups water, and bring to a boil. Stir in garlic and remaining 4 cups water. Bring to a boil, cover, and reduce heat. Simmer for 20 minutes. Season to taste with salt.
+
+
+
+
+</instructions>
+</recipe>

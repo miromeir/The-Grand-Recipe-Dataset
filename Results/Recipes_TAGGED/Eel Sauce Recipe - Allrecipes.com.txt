@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Eel Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="0.5 Cup">Sugar</ingredient></ingredients>
+<instructions>
+Heat soy sauce, sugar, and mirin into a small saucepan over medium heat. Cook and stir until liquid is reduced to about 3/4 cup.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Quick and Easy Thai Style Coleslaw Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="0.25 Cup">Rice</ingredient><ingredient amount="1.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="2.0 Tablespoon">Honey</ingredient><ingredient amount="0.25 Cup">Pea</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Pour the coleslaw mix into a large bowl. Pour in the lime juice, rice vinegar, fish sauce, sesame oil, honey, and peanuts. Stir until well blended. If you have a bowl with a lid, put the lid on and shake thoroughly. Taste, and season with salt and pepper. Refrigerate for a few hours, stirring or shaking occasionally, to allow the flavors to blend before serving.
+
+
+
+
+</instructions>
+</recipe>

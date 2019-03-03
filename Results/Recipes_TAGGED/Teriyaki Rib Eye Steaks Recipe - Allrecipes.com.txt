@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Teriyaki Rib Eye Steaks Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Honey</ingredient><ingredient amount="1.0 Teaspoon">Olive Oil</ingredient><ingredient amount="0.25 Teaspoon">Onion Powder</ingredient><ingredient amount="0.25 Teaspoon">Garlic</ingredient><ingredient amount="0.125 Teaspoon">Ginger</ingredient><ingredient amount="2.0 Ounce">Rib Eye Steak</ingredient></ingredients>
+<instructions>
+Whisk together the soy sauce, water, sugar, honey, Worcestershire sauce, vinegar, olive oil, onion powder, garlic powder, and ground ginger in a large bowl. Pierce steaks several times with a fork. Marinate steaks in soy sauce mixture for at least 2 hours.
+
+Cook the steaks in a hot skillet, wok, or hibachi over medium heat; 7 minutes per side for medium. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C).
+
+
+
+
+</instructions>
+</recipe>

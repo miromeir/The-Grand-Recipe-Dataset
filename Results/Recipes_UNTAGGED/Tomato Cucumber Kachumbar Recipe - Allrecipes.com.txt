@@ -1,0 +1,52 @@
+<recipe>
+<title>
+Tomato Cucumber Kachumbar Recipe - Allrecipes.com
+</title>
+<cuisine>
+Indian
+</cuisine>
+<ingredients>
+1 cup halved grape tomatoes
+1 cup diced cucumber
+1/2 cup chopped green onions
+1/2 cup chopped fresh cilantro
+1 tablespoon fresh lemon juice
+1 tablespoon chopped fresh mint
+salt and ground black pepper to taste
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Mix grape tomatoes, cucumber, green onions, cilantro, lemon juice, mint, salt, and pepper together in a large bowl.
+
+
+
+
+</instructions>
+</recipe>
+<recipe>
+<title>
+Tomato Cucumber Kachumbar Recipe - Allrecipes.com
+</title>
+<cuisine>
+Indian
+</cuisine>
+<ingredients>
+1 cup halved grape tomatoes
+1 cup diced cucumber
+1/2 cup chopped green onions
+1/2 cup chopped fresh cilantro
+1 tablespoon fresh lemon juice
+1 tablespoon chopped fresh mint
+salt and ground black pepper to taste
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Mix grape tomatoes, cucumber, green onions, cilantro, lemon juice, mint, salt, and pepper together in a large bowl.
+
+
+
+
+</instructions>
+</recipe>

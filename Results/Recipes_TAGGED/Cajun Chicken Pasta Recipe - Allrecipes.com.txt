@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Cajun Chicken Pasta Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="4.0 Ounce">Pasta</ingredient><ingredient amount="2.0">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="4.0">Mush</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Cup">Cream</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.125 Teaspoon">Garlic</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Cup">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.
+
+Place the chicken and the Cajun seasoning in a plastic bag. Shake to coat. In a large skillet over medium heat, saute the chicken in butter or margarine until almost tender (5 to 7 minutes).
+
+Add the red bell pepper, green bell pepper, mushrooms and green onion. Saute and stir for 2 to 3 minutes. Reduce heat.
+
+Add the cream, basil, lemon pepper, salt, garlic powder and ground black pepper. Heat through. Add the cooked linguine, toss and heat through. Sprinkle with grated Parmesan cheese and serve.
+
+
+
+
+</instructions>
+</recipe>

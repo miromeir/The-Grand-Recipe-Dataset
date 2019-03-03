@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Delicious Easy Chicken Francese Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Flour</ingredient><ingredient amount="4.0">Egg</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="2.0 Cup">Chicken</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="0.25 Cup">Butter</ingredient><ingredient amount="2.0">Juice</ingredient></ingredients>
+<instructions>
+Coat chicken with flour, then egg beat, then saute in a large skillet until almost cooked through. Drain on paper toweling.
+
+Preheat oven to 300 degrees F (150 degrees C).
+
+In a medium saucepan combine the wine, broth, parsley, salt and pepper to taste, butter or margarine and lemon juice over medium low heat. Stir together while heating slowly. When butter or margarine has melted, slowly stir in cornstarch until sauce thickens slightly. Place chicken in a 9x13 inch baking dish and pour sauce over all.
+
+Bake at 300 degrees F (150 degrees C) for about 10 to 15 minutes, or until chicken is cooked through and juices run clear.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Salsa Chicken Rice Casserole Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Rice</ingredient><ingredient amount="4.0">Chicken</ingredient><ingredient amount="2.0 Cup">Monterey Jack</ingredient><ingredient amount="2.0 Cup">Cheddar</ingredient><ingredient amount="1.0 Ounce">Chicken Soup</ingredient><ingredient amount="1.0 Ounce">Cream</ingredient><ingredient amount="1.0">Onion</ingredient></ingredients>
+<instructions>
+Place rice and water in a saucepan, and bring to a boil. Reduce heat to low, cover, and simmer for 20 minutes.
+
+Meanwhile, place chicken breast halves into a large saucepan, and fill the pan with water. Bring to a boil, and cook for 20 minutes, or until done. Remove chicken from water. When cool enough to handle, cut meat into bite-size pieces.
+
+Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.
+
+In a medium bowl, combine Monterey Jack and Cheddar cheeses. In a separate bowl, mix together cream of chicken soup, cream of mushroom soup, onion, and salsa. Layer 1/2 of the rice, 1/2 of the chicken, 1/2 of the soup and salsa mixture, and 1/2 of the cheese mixture in prepared dish. Repeat layers, ending with cheese.
+
+Bake in preheated oven for about 40 minutes, or until bubbly.
+
+
+
+
+</instructions>
+</recipe>

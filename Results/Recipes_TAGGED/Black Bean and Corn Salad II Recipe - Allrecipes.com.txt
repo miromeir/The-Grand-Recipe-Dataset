@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Black Bean and Corn Salad II Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="0.3333333333333333 Cup">Juice</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="1.0">Avocado</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="2.0">Tomato</ingredient><ingredient amount="6.0">Onion</ingredient></ingredients>
+<instructions>
+Place lime juice, olive oil, garlic, salt, and cayenne pepper in a small jar. Cover with lid, and shake until ingredients are well mixed.
+
+In a salad bowl, combine beans, corn, avocado, bell pepper, tomatoes, green onions, and cilantro. Shake lime dressing, and pour it over the salad. Stir salad to coat vegetables and beans with dressing, and serve.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Pesto Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="4.0">Garlic</ingredient><ingredient amount="0.75 Cup">Parmesan Cheese</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="0.25 Cup">Nut</ingredient></ingredients>
+<instructions>
+Combine basil, garlic, Parmesan cheese, olive oil, and nuts in the bowl of a food processor or blender. Blend to a smooth paste. Add parsley if desired.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Tom Ka Gai (Coconut Chicken Soup) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.75 Pound">Chicken</ingredient><ingredient amount="3.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="2.0 Ounce">Coconut Milk</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient><ingredient amount="4.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Tu</ingredient><ingredient amount="2.0 Tablespoon">Onion</ingredient></ingredients>
+<instructions>
+Cut chicken into thin strips and saute in oil for to 2 to 3 minutes until the chicken turns white.
+
+In a pot, bring coconut milk and water to a boil. Reduce heat. Add ginger, fish sauce, lime juice, cayenne powder and turmeric. Simmer until the chicken is done, 10 to 15 minutes.
+
+Sprinkle with scallions and fresh cilantro and serve steaming hot.
+
+
+
+
+</instructions>
+</recipe>

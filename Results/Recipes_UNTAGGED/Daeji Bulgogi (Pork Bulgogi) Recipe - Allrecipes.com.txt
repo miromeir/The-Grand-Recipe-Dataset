@@ -1,0 +1,33 @@
+<recipe>
+<title>
+Daeji Bulgogi (Pork Bulgogi) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients>
+3 tablespoons soy sauce
+2 tablespoons Korean barbeque sauce
+2 tablespoons Korean hot pepper paste
+1 tablespoon white sugar
+1 tablespoon minced ginger root
+2 teaspoons red pepper flakes
+1/2 teaspoon sesame seeds
+1/4 teaspoon ground black pepper
+1 1/2 pounds boneless pork shoulder, thinly sliced
+1 onion, sliced
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Whisk soy sauce, barbeque sauce, hot pepper paste, sugar, ginger root, red pepper flakes, sesame seeds, and black pepper together in a small bowl.
+
+Place pork in a large bowl. Pour soy sauce mixture over pork; toss to coat. Marinate in the refrigerator, at least 3 hours and up to overnight.
+
+Preheat a large skillet or grill pan over medium-high heat. Add pork, discarding marinade. Cook, stirring frequently, until pork begins to brown, about 5 minutes. Stir in onion; cook until soft, about 10 minutes.
+
+
+
+
+</instructions>
+</recipe>

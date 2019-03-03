@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Bow Ties with Sausage, Tomatoes and Cream Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Pasta</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Pound">Ital</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Cup">Cream</ingredient></ingredients>
+<instructions>
+Bring a large pot of lightly salted water to a boil. Cook pasta in boiling water for 8 to 10 minutes, or until al dente; drain.
+
+Heat oil in a large, deep skillet over medium heat. Cook sausage and pepper flakes until sausage is evenly brown. Stir in onion and garlic, and cook until onion is tender. Stir in tomatoes, cream, and salt. Simmer until mixture thickens, 8 to 10 minutes.
+
+Stir cooked pasta into sauce, and heat through. Sprinkle with parsley.
+
+
+
+
+</instructions>
+</recipe>

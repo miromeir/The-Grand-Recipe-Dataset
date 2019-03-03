@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Greek Island Chicken Shish Kebabs Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Inch">Chicken</ingredient><ingredient amount="2.0 Inch">Bell Pepper</ingredient><ingredient amount="1.0 Quart">Onion</ingredient><ingredient amount="12.0">Tomato</ingredient><ingredient amount="12.0">Mush</ingredient></ingredients>
+<instructions>
+Whisk the olive oil, lemon juice, vinegar, garlic, cumin, oregano, thyme, salt, and black pepper together in a large glass or ceramic bowl. Add the chicken and toss to evenly coat. Cover the bowl with plastic wrap; marinate in the refrigerator for at least 2 hours.
+
+Soak wooden skewers in water for about 30 minutes before use.
+
+Preheat an outdoor grill for medium-high heat; lightly oil the grate.
+
+Remove the chicken from the marinade and shake off excess liquid. Discard the remaining marinade. Alternately thread pieces of the marinated chicken with pieces of bell pepper, onion, cherry tomatoes, and mushrooms onto the skewers.
+
+Cook the skewers on the preheated grill, turning frequently until nicely browned on all sides, and the chicken is no longer pink in the center, about 10 minutes.
+
+
+
+
+</instructions>
+</recipe>

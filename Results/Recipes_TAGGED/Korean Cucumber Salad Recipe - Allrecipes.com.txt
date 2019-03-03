@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Korean Cucumber Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Teaspoon">Vegetable Oil</ingredient><ingredient amount="2.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="1.0">Cucumber</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="0.5">Carrot</ingredient></ingredients>
+<instructions>
+In a medium bowl, stir together vinegar, black pepper, and red pepper flakes.
+
+Heat oil in a saucepan over medium-high heat. Stir in sesame seeds, and reduce heat to medium. Cook until seeds are brown, about 5 minutes. Remove seeds with a slotted spoon, and stir into vinegar mixture. Mix in cucumber, green onions, and carrot. Cover, and refrigerate at least 5 minutes.
+
+
+
+
+</instructions>
+</recipe>

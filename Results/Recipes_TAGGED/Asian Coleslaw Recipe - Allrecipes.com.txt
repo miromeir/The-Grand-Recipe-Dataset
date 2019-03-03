@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Asian Coleslaw Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="6.0 Tablespoon">Rice</ingredient><ingredient amount="6.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="5.0 Tablespoon">Peanut Butter</ingredient><ingredient amount="3.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="3.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient><ingredient amount="1.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="5.0 Cup">Cabbage</ingredient><ingredient amount="2.0 Cup">Red Cabbage</ingredient><ingredient amount="2.0 Cup">Cabbage</ingredient><ingredient amount="2.0">Bell Pepper</ingredient><ingredient amount="2.0">Carrot</ingredient><ingredient amount="6.0">Onion</ingredient></ingredients>
+<instructions>
+In a medium bowl, whisk together the rice vinegar, oil, peanut butter, soy sauce, brown sugar, ginger, and garlic.
+
+In a large bowl, mix the green cabbage, red cabbage, napa cabbage, red bell peppers, carrots, green onions, and cilantro. Toss with the peanut butter mixture just before serving.
+
+
+
+
+</instructions>
+</recipe>

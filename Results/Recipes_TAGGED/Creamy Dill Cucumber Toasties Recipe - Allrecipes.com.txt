@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Creamy Dill Cucumber Toasties Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Cream Cheese</ingredient><ingredient amount="1.0 Ounce">Salad Dressing</ingredient><ingredient amount="0.5 Cup">Mayonnaise</ingredient><ingredient amount="1.0">Cucumber</ingredient></ingredients>
+<instructions>
+In a medium bowl, mix together cream cheese, dressing mix and mayonnaise.
+
+Spread a thin layer of the cream cheese mixture on a slice of bread, and top with a slice of cucumber. Sprinkle with dill. Repeat with remaining ingredients.
+
+
+
+
+</instructions>
+</recipe>

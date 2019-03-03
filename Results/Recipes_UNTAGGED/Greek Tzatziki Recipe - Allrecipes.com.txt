@@ -1,0 +1,28 @@
+<recipe>
+<title>
+Greek Tzatziki Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients>
+1 (32 ounce) container plain low-fat yogurt
+1/2 English cucumber with peel, grated
+1 clove garlic, pressed
+2 tablespoons fresh lemon juice
+2 tablespoons extra-virgin olive oil
+2 teaspoons grated lemon zest
+3 tablespoons chopped fresh dill
+1 tablespoon salt, or to taste
+1 tablespoon freshly ground black pepper, or to taste
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Stir together yogurt, grated cucumber, garlic, lemon juice, and olive oil in a bowl. Add lemon zest, dill, salt, and pepper; whisk until smooth. Pour into a serving dish, cover tightly, and refrigerate 8 hours before serving.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Maple Roasted Brussels Sprouts with Bacon Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C).
+
+Place Brussels sprouts in a single layer in a baking dish. Drizzle with olive oil and maple syrup; toss to coat. Sprinkle with bacon; season with salt and black pepper.
+
+Roast in the preheated oven until bacon is crispy and Brussels sprouts are caramelized, 45 minutes, stirring halfway through.
+
+
+
+
+</instructions>
+</recipe>

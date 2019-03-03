@@ -1,0 +1,23 @@
+<recipe>
+<title>
+Quick Tartar Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients>
+1 cup mayonnaise
+2 teaspoons sweet pickle relish
+1 teaspoon prepared yellow mustard
+1 teaspoon lemon juice
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Stir the mayonnaise, relish, mustard, and lemon juice together in a bowl.
+
+
+
+
+</instructions>
+</recipe>

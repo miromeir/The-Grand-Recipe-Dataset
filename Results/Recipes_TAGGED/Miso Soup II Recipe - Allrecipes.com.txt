@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Miso Soup II Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.75 Cup">Onion</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="0.5 Ounce">Tofu</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Cup">Carrot</ingredient><ingredient amount="1.0 Ounce">Spinach</ingredient><ingredient amount="0.25 Cup">Paste</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Pour oil into the bottom of a large saucepan, and place over medium heat. Add onion; saute until tender and almost brown. Add garlic and ginger; saute until fragrant, just a minute or two. Add tofu. Cook, stirring occasionally, until browned; this should take about 5 minutes
+
+Stir in soy sauce, thoroughly coating tofu. Add water and sherry. Bring back up to heat, and add carrots and spinach. Heat through.
+
+Thin miso with some of the soup, and add back into the soup. Simmer over medium low heat for 5 to 10 minutes, stirring occasionally. Season with black pepper to taste. Serve.
+
+
+
+
+</instructions>
+</recipe>

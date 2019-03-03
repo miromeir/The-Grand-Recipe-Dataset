@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Brie Cheese Appetizer Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Cheese</ingredient><ingredient amount="3.0 Tablespoon">Apricot</ingredient><ingredient amount="0.5 Ounce">Pastry</ingredient><ingredient amount="1.0">Egg White</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C). Lightly grease a cookie sheet.
+
+Slice one wheel of Brie cheese in half so you have 2 circles of cheese. Spread apricot or peach preserves on (the cut side) half of one circle of brie. Make sandwich out of the two halves of Brie, so that the preserves are in the center of both halves. Wrap the entire wheel of Brie with one sheet of puffed pastry and flip the entire concoction onto the prepared cooking sheet so the seam is on bottom. Brush the puffed pastry with the egg white.
+
+Bake for 30 minutes, or until the pastry in golden brown. Serve immediately.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,28 @@
+<recipe>
+<title>
+Quick Baked Zucchini Chips Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients>
+2 medium zucchini, cut into 1/4-inch slices
+1/2 cup seasoned dry bread crumbs
+1/8 teaspoon ground black pepper
+2 tablespoons grated Parmesan cheese
+2 egg whites
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Preheat the oven to 475 degrees F (245 degrees C).
+
+In one small bowl, stir together the bread crumbs, pepper and Parmesan cheese. Place the egg whites in a separate bowl. Dip zucchini slices into the egg whites, then coat the breadcrumb mixture. Place on a greased baking sheet.
+
+Bake for 5 minutes in the preheated oven, then turn over and bake for another 5 to 10 minutes, until browned and crispy.
+
+
+
+
+</instructions>
+</recipe>

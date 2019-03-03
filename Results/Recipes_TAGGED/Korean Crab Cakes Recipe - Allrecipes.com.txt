@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Korean Crab Cakes Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Mayonnaise</ingredient><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="2.0 Teaspoon">Fish Sauce</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Tablespoon">Pea</ingredient></ingredients>
+<instructions>
+In a medium bowl, mix together mayonnaise, cilantro, fresh ginger, and fish sauce. Mix in crab, shrimp, and 1/2 cup bread crumbs. Season with salt and pepper to taste.
+
+Place remaining 1 cup breadcrumbs on a plate or shallow bowl. Drop 1/4 of the crab mixture onto breadcrumbs, and turn to coat. Shape into a circle or oval. repeat with remaining crab mixture.
+
+Heat oil in a heavy skillet over medium heat. Cook cakes in oil for about 5 minutes per side, or until golden brown and cooked through.
+
+
+
+
+</instructions>
+</recipe>

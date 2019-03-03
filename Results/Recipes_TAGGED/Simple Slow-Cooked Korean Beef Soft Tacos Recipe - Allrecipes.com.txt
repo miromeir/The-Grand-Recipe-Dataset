@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Simple Slow-Cooked Korean Beef Soft Tacos Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Beef</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="0.5 Cup">Sugar</ingredient><ingredient amount="0.3333333333333333 Cup">Soy Sauce</ingredient><ingredient amount="10.0">Garlic</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="1.0 Inch">Ginger</ingredient><ingredient amount="2.0 Tablespoon">Rice</ingredient><ingredient amount="1.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Put chuck roast into the crock of a slow cooker; add onion, brown sugar, soy sauce, garlic, jalapeno pepper, ginger root, rice vinegar, sesame oil, salt, and pepper.
+
+Cook on High for 8 hours (or on Low for 10 hours). Shred meat with a pair of forks and stir into the liquid in the slow cooker.
+
+Serve with corn tortillas and your favorite toppings.
+
+
+
+
+</instructions>
+</recipe>

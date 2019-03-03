@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Moroccan Chickpea Stew Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Curry Powder</ingredient><ingredient amount="3.0 Inch">Potato</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Cup">Tomato Sauce</ingredient><ingredient amount="1.0 Cup">Raisin</ingredient><ingredient amount="1.0 Ounce">Chickpea</ingredient><ingredient amount="1.0">Kale</ingredient></ingredients>
+<instructions>
+Heat the olive oil in a large pot over medium heat; cook the onion and garlic in the hot oil until the onions are translucent, 5 to 7 minutes. Stir the cumin, coriander, cayenne pepper, garam masala, curry powder, and salt into the onion and garlic; cook together until fragrant, about 1 minute. Add the potatoes, diced tomatoes, tomato sauce, and raisins to the pot. Pour enough water over the mixture to cover; bring to a simmer and cook until the potatoes are soft, 10 to 15 minutes.
+
+Add the chickpeas and kale to the pot; simmer until the kale wilts, about 3 minutes. Sprinkle the cilantro over the stew and immediately remove the pot from the heat.
+
+
+
+
+</instructions>
+</recipe>

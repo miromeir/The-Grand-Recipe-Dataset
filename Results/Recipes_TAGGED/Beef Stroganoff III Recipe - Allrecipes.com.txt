@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Beef Stroganoff III Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="2.0 Pound">Beef</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="4.0 Ounce">Butter</ingredient><ingredient amount="4.0">Onion</ingredient><ingredient amount="4.0 Tablespoon">Flour</ingredient><ingredient amount="1.0 Ounce">Broth</ingredient><ingredient amount="1.0 Teaspoon">Mus</ingredient><ingredient amount="1.0 Ounce">Mush</ingredient><ingredient amount="0.3333333333333333 Cup">Cream</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Remove any fat and gristle from the roast and cut into strips 1/2 inch thick by 2 inches long. Season with 1/2 teaspoon of both salt and pepper.
+
+In a large skillet over medium heat, melt the butter and brown the beef strips quickly, then push the beef strips off to one side. Add the onions and cook slowly for 3 to 5 minutes, then push to the side with the beef strips.
+
+Stir the flour into the juices on the empty side of the pan. Pour in beef broth and bring to a boil, stirring constantly. Lower the heat and stir in mustard. Cover and simmer for 1 hour or until the meat is tender.
+
+Five minutes before serving, stir in the mushrooms, sour cream, and white wine. Heat briefly then salt and pepper to taste.
+
+
+
+
+</instructions>
+</recipe>

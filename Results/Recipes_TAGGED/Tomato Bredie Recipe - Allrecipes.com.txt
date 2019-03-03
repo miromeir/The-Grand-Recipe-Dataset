@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Tomato Bredie Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="3.0 Pound">Mutton</ingredient><ingredient amount="2.0 Tablespoon">Flour</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Pound">Tomato</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="6.0">White Pepper</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="1.0">Bouillon Cube</ingredient><ingredient amount="2.0 Quart">Potato</ingredient></ingredients>
+<instructions>
+Heat oil over medium-high heat in a large, heavy-bottomed saucepan. Dredge meat in flour, and cook in hot oil until well browned.
+
+Stir in onions, and cook until onions are soft, about 5 minutes. Mix in tomatoes. Season with salt, black pepper, white peppercorns, bay leaves, brown sugar, vinegar, Worcestershire sauce, and beef bouillon cube. Cover, reduce heat, and simmer for 1 1/4 hours. Stir occasionally, making sure nothing sticks on the bottom of the pot.
+
+Stir in the potatoes and cook for an additional 45 minutes, until the potatoes are done and the meat is tender.
+
+
+
+
+</instructions>
+</recipe>

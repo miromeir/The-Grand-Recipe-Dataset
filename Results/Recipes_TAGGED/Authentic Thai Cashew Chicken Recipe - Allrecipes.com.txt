@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Authentic Thai Cashew Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Canola</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="2.0 Tablespoon">Oyster Sauce</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="0.3333333333333333 Cup">Chicken</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="4.0">Chicken</ingredient><ingredient amount="1.0">Zucchini</ingredient><ingredient amount="6.0 Ounce">Broccoli</ingredient><ingredient amount="8.0 Quart">Mush</ingredient><ingredient amount="0.5 Cup">Cashew Nut</ingredient></ingredients>
+<instructions>
+Heat the oil in a skillet over medium heat, and cook the onion and yellow bell pepper until tender. Mix in the ketchup, oyster sauce, soy sauce, chicken broth, sugar, and chile paste. Place the chicken, zucchini, squash, broccoli, and mushrooms in the skillet. Continue to cook and stir 10 minutes, until vegetables are tender and chicken juices run clear. Mix in the cashews just before serving.
+
+
+
+
+</instructions>
+</recipe>

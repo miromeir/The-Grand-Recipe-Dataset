@@ -1,0 +1,31 @@
+<recipe>
+<title>
+Sun-Dried Tomato Hummus Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients>
+4 cloves garlic
+1 teaspoon salt
+3 tablespoons tahini paste
+1/4 cup fresh lemon juice
+2 (15.5 ounce) cans garbanzo beans, drained
+1/2 cup olive oil
+1/2 cup oil-packed sun-dried tomatoes, drained
+1/4 cup finely shredded fresh basil
+2 tablespoons olive oil
+1/8 teaspoon paprika (optional)
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Place garlic, salt, tahini, and lemon juice into a food processor; process until smooth. Pour in the garbanzo beans and 1/2 cup olive oil; process until smooth again, scraping the sides of the bowl occasionally. Once smooth, add the sun-dried tomatoes, and pulse until they have been chopped to very small pieces and are incorporated into the hummus. Finally, add the basil, and pulse a few times until mixed in.
+
+Spread the hummus into a shallow serving dish, and make a few decorative grooves on top. Refrigerate at least 1 hour, then drizzle with 2 tablespoons olive oil and sprinkle with paprika before serving.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Bananas Foster II Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Butter</ingredient><ingredient amount="0.6666666666666666 Cup">Sugar</ingredient><ingredient amount="0.5 Teaspoon">Cinnamon</ingredient><ingredient amount="3.0">Banana</ingredient><ingredient amount="0.25 Cup">Walnut</ingredient><ingredient amount="1.0 Pint">Ice Cream</ingredient></ingredients>
+<instructions>
+In a large, deep skillet over medium heat, melt butter. Stir in sugar, rum, vanilla and cinnamon. When mixture begins to bubble, place bananas and walnuts in pan. Cook until bananas are hot, 1 to 2 minutes. Serve at once over vanilla ice cream.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Garbanzo Bean Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Teaspoon">Olive Oil</ingredient><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Cup">Pasta</ingredient></ingredients>
+<instructions>
+Combine the tomatoes, olive oil and 1 1/2 cans of the beans in a large saucepan. Bring to a boil. Puree the remaining 1/2 can of garbanzo beans using a blender or food processor, and stir into the saucepan. Place the sprigs of rosemary into the pan without breaking off the leaves. The sprigs will be removed before serving.
+
+Add acini de pepe pasta and simmer until pasta is soft, stirring gently to prevent sticking. Remove rosemary, and season with salt and pepper.
+
+
+
+
+</instructions>
+</recipe>

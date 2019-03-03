@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Shrimp Scampi with Pasta Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Pasta</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="1.0">Juice</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Teaspoon">Olive Oil</ingredient></ingredients>
+<instructions>
+Bring a large pot of salted water to a boil; cook linguine in boiling water until nearly tender, 6 to 8 minutes. Drain.
+
+Melt 2 tablespoons butter with 2 tablespoons olive oil in a large skillet over medium heat. Cook and stir shallots, garlic, and red pepper flakes in the hot butter and oil until shallots are translucent, 3 to 4 minutes. Season shrimp with kosher salt and black pepper; add to the skillet and cook until pink, stirring occasionally, 2 to 3 minutes. Remove shrimp from skillet and keep warm.
+
+Pour white wine and lemon juice into skillet and bring to a boil while scraping the browned bits of food off of the bottom of the skillet with a wooden spoon. Melt 2 tablespoons butter in skillet, stir 2 tablespoons olive oil into butter mixture, and bring to a simmer. Toss linguine, shrimp, and parsley in the butter mixture until coated; season with salt and black pepper. Drizzle with 1 teaspoon olive oil to serve.
+
+
+
+
+</instructions>
+</recipe>

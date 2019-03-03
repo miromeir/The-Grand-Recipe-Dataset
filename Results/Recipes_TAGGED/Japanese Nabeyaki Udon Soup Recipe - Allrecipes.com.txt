@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Japanese Nabeyaki Udon Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="0.25 Pound">Chicken</ingredient><ingredient amount="2.0">Carrot</ingredient><ingredient amount="0.3333333333333333 Cup">Soy Sauce</ingredient><ingredient amount="0.5 Teaspoon">Sugar</ingredient><ingredient amount="2.0 Ounce">Tofu</ingredient><ingredient amount="0.3333333333333333 Pound">Mush</ingredient><ingredient amount="5.0">Bok Choy</ingredient><ingredient amount="4.0">Egg</ingredient><ingredient amount="2.0">Leek</ingredient></ingredients>
+<instructions>
+Heat dashi stock, chicken, carrots, soy sauce, mirin, sugar, and salt in a pot over medium heat. Simmer until chicken is no longer pink in the center, 5 to 7 minutes. Add tofu, mushrooms, and bok choy, stirring until vegetables are tender, about 5 minutes more.
+
+Stir udon noodles into broth and simmer until tender, 3 to 4 minutes. Add leeks and crack eggs into soup; simmer until eggs are slightly firm, about 5 minutes more.
+
+
+
+
+</instructions>
+</recipe>

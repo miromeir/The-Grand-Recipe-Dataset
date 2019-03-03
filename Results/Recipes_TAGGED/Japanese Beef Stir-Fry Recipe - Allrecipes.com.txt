@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Japanese Beef Stir-Fry Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="2.0 Pound">Round Steak</ingredient><ingredient amount="1.0 Ounce">Broth</ingredient><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="4.0 Cup">Mush</ingredient><ingredient amount="1.0">Bok Choy</ingredient><ingredient amount="2.0">Pepper</ingredient><ingredient amount="3.0">Celery</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="">Grain</ingredient></ingredients>
+<instructions>
+Slice beef into very thin strips.
+
+Mix cornstarch, broth, soy and sugar until smooth. Set aside.
+
+Heat 1 tablespoon oil in saucepot or wok over high heat. Add beef in 2 batches and stir-fry until browned. Set beef aside.
+
+Add 1 tablespoon oil. Add the mushrooms, cabbage, peppers, celery and green onions in 2 batches and stir-fry over medium heat until tender-crisp. Set vegetables aside.
+
+Stir cornstarch mixture and add. Cook until mixture boils and thickens, stirring constantly. Return beef and vegetables to saucepot and heat through. Serve over rice.
+
+
+
+
+</instructions>
+</recipe>

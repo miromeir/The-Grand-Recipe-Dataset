@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Korean Spicy Marinated Pork (Dae Ji Bool Gogi) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Rice</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="0.5 Cup">Pepper</ingredient><ingredient amount="3.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="3.0 Tablespoon">Ginger</ingredient><ingredient amount="2.0 Tablespoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="3.0 Tablespoon">Sugar</ingredient><ingredient amount="3.0 Inch">Onion</ingredient><ingredient amount="0.5 Inch">Onion</ingredient><ingredient amount="1.0 Inch">Pork</ingredient><ingredient amount="0.25 Cup">Canola</ingredient></ingredients>
+<instructions>
+Stir together the vinegar, soy sauce, hot pepper paste, garlic, ginger, red pepper flakes, black pepper, sugar, green onions, and yellow onion in a large bowl. Mix in the pork slices, mixing well until completely coated. Place into a resealable plastic bag, squeeze out any excess air, seal, and marinate in the refrigerator at least 3 hours.
+
+Heat the canola oil in a large skillet over medium-high heat. Add the pork slices in batches, and cook until no longer pink in the center, and lightly browned on the outside, about 5 minutes per batch. Be careful when cooking the meat, the spicy fumes will hurt your nose!
+
+
+
+
+</instructions>
+</recipe>

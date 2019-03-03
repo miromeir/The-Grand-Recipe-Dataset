@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Nikujaga (Japanese-style meat and potatoes) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="8.0">Pea</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="0.25 Pound">Steak</ingredient><ingredient amount="4.0">Potato</ingredient><ingredient amount="2.0 Cup">Soup</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0">Onion</ingredient></ingredients>
+<instructions>
+Put the snow peas in a small saucepan with enough water to cover; bring to a boil and immediately remove from heat. Drain and set aside.
+
+Heat the oil in a large skillet over medium heat; cook the beef in the oil until browned. Add the potatoes; cook and stir until soft, 5 to 7 minutes. Stir the dashi soup, soy sauce, sake, and sugar into the mixture; simmer for 10 minutes.
+
+Reduce heat to low and scatter the chopped onion over the mixture; allow to simmer until the liquid is nearly completely evaporated, about 15 minutes more. Top the mixture with the snow peas to serve.
+
+
+
+
+</instructions>
+</recipe>

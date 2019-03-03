@@ -1,0 +1,18 @@
+<recipe>
+<title>
+West African Peanut Stew Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Pea</ingredient><ingredient amount="1.0">Red Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="5.0 Cup">Chicken</ingredient><ingredient amount="3.0">Sweet Potato</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Cup">Peanut Butter</ingredient></ingredients>
+<instructions>
+Heat the peanut oil in a large pot over medium-high heat; cook and stir the onion, garlic, and ginger in the hot oil until softened, about 5 minutes. Add the chicken; cook and stir until completely browned. Season with the crushed red pepper, salt, and black pepper. Pour the chicken stock over the mixture. Stir the sweet potatoes into the liquid and bring the mixture to a boil; reduce heat to low, cover the pot partially with a lid, and cook at a simmer for 15 minutes.
+
+Stir the tomatoes, collard greens, and peanut butter into the soup. Partially cover the pot again and continue cooking, stirring occasionally, another 20 minutes.
+
+
+
+
+</instructions>
+</recipe>

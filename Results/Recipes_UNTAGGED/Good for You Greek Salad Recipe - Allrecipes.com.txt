@@ -1,0 +1,56 @@
+<recipe>
+<title>
+Good for You Greek Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients>
+3 large ripe tomatoes, chopped
+2 cucumbers, peeled and chopped
+1 small red onion, chopped
+1/4 cup olive oil
+4 teaspoons lemon juice
+1 1/2 teaspoons dried oregano
+salt and pepper to taste
+1 cup crumbled feta cheese
+6 black Greek olives, pitted and sliced
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In shallow salad bowl, or on serving platter, combine tomatoes, cucumber, and onion. Sprinkle with oil, lemon juice, oregano, and salt and pepper to taste. Sprinkle feta cheese and olives over salad. Serve.
+
+
+
+
+</instructions>
+</recipe>
+<recipe>
+<title>
+Good for You Greek Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients>
+3 large ripe tomatoes, chopped
+2 cucumbers, peeled and chopped
+1 small red onion, chopped
+1/4 cup olive oil
+4 teaspoons lemon juice
+1 1/2 teaspoons dried oregano
+salt and pepper to taste
+1 cup crumbled feta cheese
+6 black Greek olives, pitted and sliced
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In shallow salad bowl, or on serving platter, combine tomatoes, cucumber, and onion. Sprinkle with oil, lemon juice, oregano, and salt and pepper to taste. Sprinkle feta cheese and olives over salad. Serve.
+
+
+
+
+</instructions>
+</recipe>

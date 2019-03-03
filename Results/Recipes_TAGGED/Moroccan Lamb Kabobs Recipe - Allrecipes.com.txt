@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Moroccan Lamb Kabobs Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Raisin</ingredient><ingredient amount="5.0 Ounce">Cheese</ingredient><ingredient amount="0.3333333333333333 Cup">Mayonnaise</ingredient><ingredient amount="1.0">Red Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="0.75 Tablespoon">Pepper</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Preheat an outdoor grill for high heat and lightly oil grate.
+
+In a medium bowl, mix together ground lamb, raisins, goat cheese, mayonnaise, red onion, garlic, cilantro, cayenne pepper, cumin, ground coriander, salt and black pepper. Divide the mixture into approximately 6 even portions, and press around skewers.
+
+Place skewers on the grill. Cook approximately 4 minutes per side, or until the cheese has melted, the raisins are tender and lamb has reached desired doneness.
+
+
+
+
+</instructions>
+</recipe>

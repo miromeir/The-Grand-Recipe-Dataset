@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Italian Chicken Cacciatore Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="0.25 Cup">Flour</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="8.0">Chicken</ingredient><ingredient amount="2.0 Ounce">Tomato</ingredient><ingredient amount="2.0 Ounce">Tomato Paste</ingredient><ingredient amount="0.25 Teaspoon">Sugar</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="0.5 Cup">Chicken</ingredient><ingredient amount="0.5 Cup">Olive</ingredient></ingredients>
+<instructions>
+Heat 2 tablespoons olive oil in a skillet over medium heat and cook onion, stirring often, until soft and translucent, about 5 minutes. Transfer to a pot.
+
+Combine flour, 1/2 teaspoon salt, and 1/4 teaspoon pepper in a large bowl. Toss chicken thighs in the flour mixture until evenly coated.
+
+Heat remaining 2 tablespoons olive oil in the skillet over medium heat, add chicken thighs, and brown on one side, without turning, for 5 minutes. Turn and cook until browned on the other side, about 5 minutes more. Transfer browned chicken thighs to the pot.
+
+Pour white wine into the skillet; bring to a boil. Stir to loosen all the browned bits of chicken and flavors in the skillet pour into the pot. Add diced tomatoes, tomato paste, and sugar; season with salt and pepper. Add as much chicken stock as needed to cover the chicken. Cover pot and simmer over medium heat, stirring occasionally, until chicken is no longer pink in the center, about 45 minutes.
+
+Stir in olives, parsley, and basil. Stir to heat through.
+
+
+
+
+</instructions>
+</recipe>

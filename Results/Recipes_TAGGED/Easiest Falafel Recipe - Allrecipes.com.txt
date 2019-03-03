@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Easiest Falafel Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="0.25 Cup">Bread Crumbs</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="1.0 Tablespoon">Curry Powder</ingredient><ingredient amount="1.0 Tablespoon">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient><ingredient amount="0.5 Tablespoon">Pepper</ingredient><ingredient amount="0.25 Cup">Bread Crumbs</ingredient><ingredient amount="1.0 Cup">Olive Oil</ingredient></ingredients>
+<instructions>
+Place garbanzo beans, 1/4 cup panko bread crumbs, onion, 1/4 cup olive oil, egg, parsley, curry powder, garlic powder, lemon juice, and black pepper in a food processor or blender. Puree until coarse crumbles form. Blend more panko crumbs into mixture if it is too moist.
+
+Roll mixture into balls about the size of a golf ball; place on a plate.
+
+Press into patties and coat in panko bread crumbs.
+
+Heat about 1-inch olive oil in a skillet over medium heat.
+
+Pan-fry patties until crispy, about 3 minutes on each side.
+
+
+
+
+</instructions>
+</recipe>

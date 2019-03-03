@@ -1,0 +1,20 @@
+<recipe>
+<title>
+African Chicken Stew Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Potato</ingredient><ingredient amount="1.0 Teaspoon">Coriander Seed</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="0.75 Cup">Peanut Butter</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient></ingredients>
+<instructions>
+In a large skillet with a tight-fitting lid, heat oil over medium high heat. Add chicken, and brown quickly. Remove chicken from pan. Reduce heat to medium low, and add garlic, onion and potato to the pan; saute for 2 to 3 minutes. Season with cumin, coriander, black pepper, red pepper and salt. Do not let garlic brown.
+
+Mix in water and browned chicken, and any accumulated juices. Place lid on skillet and simmer, stirring occasionally, for 10 to 15 minutes.
+
+Remove lid, and stir in the peanut butter and garbanzo beans. Make sure the peanut butter is blended in. Replace lid to simmer for 10 more minutes, or until chicken is cooked through and potatoes are tender. Remove from heat, adjust seasoning, and serve.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Dynamite Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Mayonnaise</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Garlic</ingredient></ingredients>
+<instructions>
+In a small bowl, stir together the mayonnaise, sugar and chili garilc sauce. Use immediately or refrigerate and use within one week.
+
+
+
+
+</instructions>
+</recipe>

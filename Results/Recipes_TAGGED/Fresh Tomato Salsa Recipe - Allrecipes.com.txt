@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Fresh Tomato Salsa Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="3.0">Tomato</ingredient><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="2.0 Teaspoon">Juice</ingredient></ingredients>
+<instructions>
+In a medium bowl, stir together tomatoes, onion, chili peppers, cilantro, salt, and lime juice. Chill for one hour in the refrigerator before serving.
+
+
+
+
+</instructions>
+</recipe>

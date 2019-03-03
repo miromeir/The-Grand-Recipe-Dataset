@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Kimchi Pancakes Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="1.0">Egg</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="0.5 Teaspoon">Sesame Oil</ingredient><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="0.75 Cup">Flour</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient></ingredients>
+<instructions>
+Drain kimchi thoroughly through a sieve and reserve the juice. Chop kimchi finely.
+
+Combine egg, 3 tablespoons kimchi juice, water, brown sugar, salt, and sesame oil in a large bowl. Whisk together. Add green onions and kimchi. Stir in flour just until combined.
+
+Heat oil in a skillet over medium-high heat. Add a few spoonfuls of pancake batter; any size pancake will do. Cook until edges are lightly browned, about 3 minutes. Flip and cook until crispy, 2 to 3 minutes more. Transfer pancake to a serving plate and repeat with remaining batter. Sprinkle bonito flakes on top.
+
+
+
+
+</instructions>
+</recipe>

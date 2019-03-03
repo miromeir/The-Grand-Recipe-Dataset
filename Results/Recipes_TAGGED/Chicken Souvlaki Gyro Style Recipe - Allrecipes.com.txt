@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Chicken Souvlaki Gyro Style Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="">Sou</ingredient><ingredient amount="0.75 Cup">Salad Dressing</ingredient><ingredient amount="3.0 Tablespoon">Juice</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="4.0">Chicken</ingredient><ingredient amount="">Cucumber</ingredient><ingredient amount="0.5 Cup">Cucumber</ingredient><ingredient amount="1.0 Cup">Yogurt</ingredient><ingredient amount="0.25 Cup">Cream</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient><ingredient amount="0.5 Tablespoon">Rice</ingredient><ingredient amount="1.0 Teaspoon">Olive Oil</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0">Red Onion</ingredient><ingredient amount="1.0">Tomato</ingredient><ingredient amount="0.5 Cup">Olive</ingredient><ingredient amount="0.5 Cup">Pepper</ingredient><ingredient amount="1.0 Cup">Cheese</ingredient></ingredients>
+<instructions>
+In a small bowl, mix the balsamic vinaigrette, juice from 1/2 lemon, oregano, and 1/2 teaspoon black pepper. Place chicken in a large resealable plastic bag. Pour marinade over the chicken, seal, and refrigerate for at least 1 hour.
+
+Preheat an outdoor grill for high heat.
+
+Toss the shredded cucumber with 1 teaspoon kosher salt, and allow to sit at least 5 minutes. In a medium bowl, mix the yogurt, sour cream, 1 tablespoon lemon juice, rice vinegar, and olive oil. Season with garlic, fresh dill, and Greek seasoning. Squeeze the cucumber to remove any excess water; stir into sauce. Season to taste with kosher salt and pepper. Refrigerate until ready to use.
+
+Remove chicken from marinade and place on prepared grill. Discard remaining marinade. Cook chicken until juices run clear, about 8 minutes on each side. Remove chicken from heat, and allow to sit about 10 minutes before slicing into thin strips.
+
+Place pita rounds on the grill, and cook for about 2 minutes, until warm, turning frequently to avoid burning. Arrange warmed pita, sliced chicken, lettuce, onion, tomato, olives, and pepperoncini on a serving platter. Serve tzatziki sauce and feta cheese in separate bowls on the side. Stuff pita pockets with chicken and toppings to serve.
+
+
+
+
+</instructions>
+</recipe>

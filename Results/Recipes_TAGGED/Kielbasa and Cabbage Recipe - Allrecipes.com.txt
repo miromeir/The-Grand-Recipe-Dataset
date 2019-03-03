@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Kielbasa and Cabbage Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="3.0 Teaspoon">Caraway Seed</ingredient><ingredient amount="1.0">Cabbage</ingredient></ingredients>
+<instructions>
+In a large skillet, fry bacon over medium high heat until browned, turning once. Remove bacon from pan, reserving drippings, and place on paper towels.
+
+Stir water, sugar, onions, garlic, red pepper flakes, seasoned salt, and caraway seeds into drippings. Add cabbage, and gently stir. Cover, and cook over medium heat for 10 to 15 minutes.
+
+Add kielbasa to the pan. Cook, covered, for an additional 10 to 15 minutes. Crumble bacon over top, and serve hot.
+
+
+
+
+</instructions>
+</recipe>

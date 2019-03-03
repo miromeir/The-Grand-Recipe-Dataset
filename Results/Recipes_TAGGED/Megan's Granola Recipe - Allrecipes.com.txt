@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Megan's Granola Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="8.0 Cup">Rolled Oats</ingredient><ingredient amount="1.0 Cup">Wheat</ingredient><ingredient amount="1.0 Cup">Bran</ingredient><ingredient amount="1.0 Cup">Almond</ingredient><ingredient amount="1.0 Cup">Walnut</ingredient><ingredient amount="0.5 Cup">Sugar</ingredient><ingredient amount="0.75 Cup">Honey</ingredient><ingredient amount="1.0 Cup">Vegetable Oil</ingredient><ingredient amount="1.0 Tablespoon">Cinnamon</ingredient><ingredient amount="2.0 Cup">Raisin</ingredient></ingredients>
+<instructions>
+Preheat the oven to 325 degrees F (165 degrees C). Line two large baking sheets with parchment or aluminum foil.
+
+Combine the oats, wheat germ, oat bran, sunflower seeds, almonds, pecans, and walnuts in a large bowl. Stir together the salt, brown sugar, maple syrup, honey, oil, cinnamon, and vanilla in a saucepan. Bring to a boil over medium heat, then pour over the dry ingredients, and stir to coat. Spread the mixture out evenly on the baking sheets.
+
+Bake in the preheated oven until crispy and toasted, about 20 minutes. Stir once halfway through. Cool, then stir in the raisins or cranberries before storing in an airtight container.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+My Best Clam Chowder Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Onion</ingredient><ingredient amount="1.0 Cup">Celery</ingredient><ingredient amount="2.0 Cup">Potato</ingredient><ingredient amount="1.0 Cup">Carrot</ingredient><ingredient amount="0.75 Cup">Butter</ingredient><ingredient amount="0.75 Cup">Flour</ingredient><ingredient amount="1.0 Quart">Cream</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Drain juice from clams into a large skillet over the onions, celery, potatoes and carrots. Add water to cover, and cook over medium heat until tender.
+
+Meanwhile, in a large, heavy saucepan, melt the butter over medium heat. Whisk in flour until smooth. Whisk in cream and stir constantly until thick and smooth. Stir in vegetables and clam juice. Heat through, but do not boil.
+
+Stir in clams just before serving. If they cook too much they get tough. When clams are heated through, stir in vinegar, and season with salt and pepper.
+
+
+
+
+</instructions>
+</recipe>

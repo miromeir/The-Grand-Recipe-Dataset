@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Greek Pasta Salad I Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="0.75 Teaspoon">Pepper</ingredient><ingredient amount="0.75 Teaspoon">Sugar</ingredient><ingredient amount="2.0 Cup">Macaroni</ingredient><ingredient amount="3.0 Cup">Mush</ingredient><ingredient amount="15.0">Tomato</ingredient><ingredient amount="1.0 Cup">Bell Pepper</ingredient><ingredient amount="0.75 Cup">Cheese</ingredient><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="1.0 Ounce">Olive</ingredient><ingredient amount="0.75 Cup">Pepper</ingredient></ingredients>
+<instructions>
+In a large bowl, whisk together olive oil, vinegar, garlic powder, basil, oregano, black pepper, and sugar. Add cooked pasta, mushrooms, tomatoes, red peppers, feta cheese, green onions, olives, and pepperoni. Toss until evenly coated. Cover, and chill 2 hours or overnight.
+
+
+
+
+</instructions>
+</recipe>

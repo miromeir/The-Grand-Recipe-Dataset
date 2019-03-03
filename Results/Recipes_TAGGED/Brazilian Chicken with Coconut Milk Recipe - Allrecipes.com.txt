@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Brazilian Chicken with Coconut Milk Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Teaspoon">Tu</ingredient><ingredient amount="4.0">Chicken</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="2.0">Pepper</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="3.0">Tomato</ingredient><ingredient amount="1.0 Ounce">Coconut Milk</ingredient><ingredient amount="1.0">Bun</ingredient></ingredients>
+<instructions>
+In a medium bowl, mix the cumin, cayenne pepper, turmeric, and coriander. Place the chicken in the bowl, season with salt and pepper, and rub on all sides with the spice mixture.
+
+Heat 1 tablespoon olive oil in a skillet over medium heat. Place the chicken in the skillet. Cook 10 to 15 minutes on each side, until no longer pink and juices run clear. Remove from heat and set aside.
+
+Heat the remaining olive oil in the skillet. Cook and stir the onion, ginger, jalapeno peppers, and garlic 5 minutes, or until tender. Mix in the tomatoes and continue cooking 5 to 8 minutes. Stir in the coconut milk. Serve over the chicken. Garnish with the parsley.
+
+
+
+
+</instructions>
+</recipe>

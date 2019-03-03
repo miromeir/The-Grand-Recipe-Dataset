@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Cuban Ropa Vieja Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="2.0 Pound">Steak</ingredient><ingredient amount="1.0 Cup">Broth</ingredient><ingredient amount="1.0 Ounce">Tomato Sauce</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Tomato Paste</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient></ingredients>
+<instructions>
+Heat vegetable oil in a large skillet over medium-high heat. Brown the flank steak on each side, about 4 minutes per side.
+
+Transfer beef to a slow cooker. Pour in the beef broth and tomato sauce, then add the onion, bell pepper, garlic, tomato paste, cumin, cilantro, olive oil and vinegar. Stir until well blended. Cover, and cook on High for 4 hours, or on Low for up to 10 hours. When ready to serve, shred meat and serve with tortillas or rice.
+
+
+
+
+</instructions>
+</recipe>

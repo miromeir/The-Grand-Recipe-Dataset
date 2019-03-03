@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Cha Cha's White Chicken Chili Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Pepper</ingredient><ingredient amount="1.0 Ounce">Pepper</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Ounce">Chicken</ingredient><ingredient amount="3.0 Cup">Chicken</ingredient><ingredient amount="3.0 Ounce">Bean</ingredient><ingredient amount="1.0 Cup">Monterey Jack</ingredient></ingredients>
+<instructions>
+Heat the oil in a large saucepan over medium-low heat. Slowly cook and stir the onion until tender. Mix in the garlic, jalapeno, green chile peppers, cumin, oregano and cayenne. Continue to cook and stir the mixture until tender, about 3 minutes. Mix in the chicken broth, chicken and white beans. Simmer 15 minutes, stirring occasionally.
+
+Remove the mixture from heat. Slowly stir in the cheese until melted. Serve warm.
+
+
+
+
+</instructions>
+</recipe>

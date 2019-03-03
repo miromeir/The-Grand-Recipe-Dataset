@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Japanese Chicken Wings Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="3.0 Pound">Chicken</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="1.0 Cup">Flour</ingredient><ingredient amount="1.0 Cup">Butter</ingredient><ingredient amount="3.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+Cut wings in half, dip in egg and coat with flour.
+
+Heat butter in a large, deep skillet over medium-high heat. Fry wings until deep brown. Place in a shallow roasting pan.
+
+In a small bowl combine soy sauce, water, sugar, vinegar, garlic powder and salt. Pour over wings.
+
+Bake in preheated oven for 30 to 45 minutes, basting wings with sauce often.
+
+
+
+
+</instructions>
+</recipe>

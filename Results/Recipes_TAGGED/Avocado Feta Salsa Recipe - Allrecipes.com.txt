@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Avocado Feta Salsa Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="2.0">Tomato</ingredient><ingredient amount="1.0">Avocado</ingredient><ingredient amount="0.25 Cup">Red Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="4.0 Ounce">Cheese</ingredient></ingredients>
+<instructions>
+In a bowl, gently stir together tomatoes, avocados, onion, and garlic. Mix in parsley and oregano. Gently stir in olive oil and vinegar. Then stir in feta. Cover, and chill for 2 to 6 hours.
+
+
+
+
+</instructions>
+</recipe>

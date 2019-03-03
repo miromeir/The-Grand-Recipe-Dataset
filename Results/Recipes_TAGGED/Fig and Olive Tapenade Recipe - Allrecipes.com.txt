@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Fig and Olive Tapenade Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Fig</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.6666666666666666 Cup">Olive</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="0.3333333333333333 Cup">Walnut</ingredient><ingredient amount="1.0 Ounce">Cream Cheese</ingredient></ingredients>
+<instructions>
+Combine figs and water in a saucepan over medium heat. Bring to a boil, and cook until tender, and liquid has reduced. Remove from heat, and stir in the olive oil, balsamic vinegar, rosemary, thyme, and cayenne. Add olives and garlic, and mix well. Season with salt and pepper to taste. Cover, and refrigerate for 4 hours or overnight to allow flavors to blend.
+
+Unwrap cream cheese block, and place on a serving platter. Spoon tapenade over cheese, and sprinkle with walnuts. Serve with slices of French bread or crackers.
+
+
+
+
+</instructions>
+</recipe>

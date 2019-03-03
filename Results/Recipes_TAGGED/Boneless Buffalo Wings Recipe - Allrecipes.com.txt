@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Boneless Buffalo Wings Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Flour</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Teaspoon">Garlic</ingredient><ingredient amount="0.5 Teaspoon">Paprika</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="1.0 Cup">Milk</ingredient><ingredient amount="3.0 Inch">Chicken</ingredient><ingredient amount="0.25 Cup">Pepper</ingredient><ingredient amount="1.0 Tablespoon">Butter</ingredient></ingredients>
+<instructions>
+Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).
+
+Combine flour, salt, black pepper, cayenne pepper, garlic powder, and paprika in a large bowl. Whisk together the egg and milk in a small bowl. Dip each piece of chicken in the egg mixture, and then roll in the flour blend. Repeat so that each piece of chicken is double coated. Refrigerate breaded chicken for 20 minutes.
+
+Fry chicken in the hot oil, in batches. Cook until the exterior is nicely browned, and the juices run clear, 5 to 6 minutes a batch.
+
+Combine hot sauce and butter in a small bowl. Microwave sauce on High until melted, 20 to 30 seconds. Pour sauce over the cooked chicken; mix to coat.
+
+
+
+
+</instructions>
+</recipe>

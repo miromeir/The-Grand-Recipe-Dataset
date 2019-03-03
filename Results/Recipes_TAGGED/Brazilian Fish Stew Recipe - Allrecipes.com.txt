@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Brazilian Fish Stew Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Juice</ingredient><ingredient amount="1.0 Tablespoon">Paprika</ingredient><ingredient amount="2.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="4.0">Bell Pepper</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Ounce">Coconut Milk</ingredient><ingredient amount="1.0">Bun</ingredient></ingredients>
+<instructions>
+Stir together the lime juice, cumin, paprika, garlic, salt, and pepper in a bowl. Add the tilapia and toss to coat. Cover and refrigerate at least 20 minutes, up to 24 hours.
+
+Heat the olive oil in a large pot over medium-high heat. Quickly fry the onions in the oil 1 to 2 minutes. Reduce heat to medium. Add the bell peppers, tilapia, and diced tomatoes to the pot in succeeding layers. Pour the coconut milk over the mixture. Cover the pot and simmer 15 minutes, stirring occasionally. Stir in the cilantro and continue cooking until the tilapia is completely cooked through, another 5 to 10 minutes.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+French Pastry Pie Crust Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="3.0 Cup">Flour</ingredient><ingredient amount="3.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0">Egg</ingredient></ingredients>
+<instructions>
+In a large mixing bowl, combine flour, salt, and sugar. Mix well, then cut in shortening until mixture resembles coarse meal.
+
+In a small bowl, combine egg, vinegar, and 4 tablespoons of water. Whisk together, then add gradually to flour mixture, stirring with a fork. Mix until dough forms a ball. Add one more tablespoon of water if necessary.
+
+Allow dough to rest in refrigerator 10 minutes before rolling out.
+
+
+
+
+</instructions>
+</recipe>

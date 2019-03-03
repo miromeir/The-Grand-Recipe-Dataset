@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Broccoli Beef I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Flour</ingredient><ingredient amount="1.0 Ounce">Broth</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Pound">Round Steak</ingredient><ingredient amount="0.25 Teaspoon">Ginger</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="4.0 Cup">Broccoli</ingredient></ingredients>
+<instructions>
+In a small bowl, combine flour, broth, sugar, and soy sauce. Stir until sugar and flour are dissolved.
+
+In a large skillet or wok over high heat, cook and stir beef 2 to 4 minutes, or until browned. Stir in broth mixture, ginger, garlic, and broccoli. Bring to a boil, then reduce heat. Simmer 5 to 10 minutes, or until sauce thickens.
+
+
+
+
+</instructions>
+</recipe>

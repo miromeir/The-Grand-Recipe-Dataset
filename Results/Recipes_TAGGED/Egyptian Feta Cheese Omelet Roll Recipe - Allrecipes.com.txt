@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Egyptian Feta Cheese Omelet Roll Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="4.0">Egg</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="3.0 Tablespoon">Cheese</ingredient><ingredient amount="1.0 Teaspoon">Milk</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient></ingredients>
+<instructions>
+In a small bowl, beat eggs and pepper together. In another small bowl, combine crumbled cheese with milk.
+
+Heat oil in a large non-stick skillet over medium-high heat. Pour in eggs, and tilt pan until bottom is evenly covered. When edges appear cooked, place feta mixture in a line in the center of eggs. Using a spatula, fold eggs over top and bottom of cheese, then fold sides over.
+
+
+
+
+</instructions>
+</recipe>

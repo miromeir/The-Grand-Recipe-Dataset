@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Thai Chicken Wings Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="5.0 Pound">Chicken</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="0.5 Cup">Sugar</ingredient><ingredient amount="0.25 Cup">Fish Sauce</ingredient><ingredient amount="0.25 Cup">Garlic</ingredient><ingredient amount="0.25 Cup">Pepper</ingredient><ingredient amount="3.0 Teaspoon">Paprika</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C).
+
+Place chicken wings on a non-greased cookie sheet. Bake in the preheated oven for 45 minutes to 1 hour, turning once, until golden brown. Move to serving dish/platter.
+
+In a medium skillet saute garlic and jalapeno peppers in olive oil until soft. Add chicken broth, fish sauce, paprika and sugar. Add cornstarch and let thicken. Stir all together and pour over crispy chicken wings. Enjoy!
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Spinach and Potato Frittata Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="6.0">Potato</ingredient><ingredient amount="1.0 Cup">Spinach</ingredient><ingredient amount="2.0 Tablespoon">Onion</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="6.0">Egg</ingredient><ingredient amount="0.3333333333333333 Cup">Milk</ingredient><ingredient amount="0.5 Cup">Cheddar</ingredient></ingredients>
+<instructions>
+Heat olive oil in a medium skillet over medium heat. Place potatoes in the skillet, cover, and cook about 10 minutes, until tender but firm. Mix in spinach, green onions, and garlic. Season with salt and pepper. Continue cooking 1 to 2 minutes, until spinach is wilted.
+
+In a medium bowl, beat together eggs and milk. Pour into the skillet over the vegetables. Sprinkle with Cheddar cheese. Reduce heat to low, cover, and cook 5 to 7 minutes, or until eggs are firm.
+
+
+
+
+</instructions>
+</recipe>

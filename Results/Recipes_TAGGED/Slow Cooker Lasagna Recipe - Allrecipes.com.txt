@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Slow Cooker Lasagna Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Beef</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="1.0 Ounce">Tomato Sauce</ingredient><ingredient amount="1.0 Ounce">Tomato Paste</ingredient><ingredient amount="12.0 Ounce">Cheese</ingredient><ingredient amount="0.5 Cup">Parmesan Cheese</ingredient><ingredient amount="16.0 Ounce">Mozzarella</ingredient></ingredients>
+<instructions>
+In a large skillet over medium heat cook the ground beef, onion, and garlic until brown. Add the tomato sauce, tomato paste, salt, and oregano and stir until well incorporated. Cook until heated through.
+
+In a large bowl mix together the cottage cheese, grated Parmesan cheese, and shredded mozzarella cheese.
+
+Spoon a layer of the meat mixture onto the bottom of the slow cooker. Add a double layer of the uncooked lasagna noodles. Break to fit noodles into slow cooker. Top noodles with a portion of the cheese mixture. Repeat the layering of sauce, noodles, and cheese until all the ingredients are used.
+
+Cover, and cook on LOW setting for 4 to 6 hours.
+
+
+
+
+</instructions>
+</recipe>

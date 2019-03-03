@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Beer Margaritas Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0 Fluid ounce">Lime</ingredient><ingredient amount="">Ice</ingredient><ingredient amount="1.0">Lime</ingredient></ingredients>
+<instructions>
+Pour limeade, tequila, water, and beer into a large pitcher. Stir until well-blended, and limeade has melted. Add plenty of ice, and garnish with lime wedges. Adjust with additional water, if needed.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,25 @@
+<recipe>
+<title>
+Mom's Cucumber Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients>
+1 cup mayonnaise
+1/4 cup white sugar
+4 teaspoons distilled white vinegar
+1/2 teaspoon dried dill weed
+1/2 teaspoon seasoned salt
+4 medium cucumbers, peeled and sliced
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a large bowl, stir together the mayonnaise, sugar, vinegar, dill, and seasoned salt. Mix in the cucumber slices, tossing to coat.
+
+
+
+
+</instructions>
+</recipe>

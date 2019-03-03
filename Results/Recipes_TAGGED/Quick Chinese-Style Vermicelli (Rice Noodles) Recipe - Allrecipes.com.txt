@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Quick Chinese-Style Vermicelli (Rice Noodles) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Rice</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0">Onion</ingredient></ingredients>
+<instructions>
+Bring a large pot of water to a boil. Add rice noodles, and cook for 2 to 3 minutes or until al dente; do not overcook, or they will become mushy. Drain.
+
+Heat oil in a large skillet over medium heat. Saute garlic until tender. Stir in noodles, and season with soy sauce, chili sauce, salt and pepper. Sprinkle top with chopped green onion.
+
+
+
+
+</instructions>
+</recipe>

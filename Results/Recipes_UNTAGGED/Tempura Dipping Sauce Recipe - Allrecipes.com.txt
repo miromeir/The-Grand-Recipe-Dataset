@@ -1,0 +1,23 @@
+<recipe>
+<title>
+Tempura Dipping Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients>
+1 cup water
+1 tablespoon dashi granules
+1/4 cup mirin (Japanese sweet wine)
+2 tablespoons soy sauce
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a small saucepan, bring water to a boil. Stir in dashi, and cook for 2 minutes. Remove from heat, and stir in mirin and soy sauce.
+
+
+
+
+</instructions>
+</recipe>

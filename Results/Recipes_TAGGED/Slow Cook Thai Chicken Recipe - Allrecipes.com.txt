@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Slow Cook Thai Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="6.0 Inch">Chicken</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="0.5 Cup">Chicken</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="0.6666666666666666 Cup">Peanut Butter</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="3.0">Onion</ingredient><ingredient amount="0.5 Cup">Pea</ingredient></ingredients>
+<instructions>
+Place the chicken breast strips, bell pepper and onion into a slow cooker. Pour in the chicken broth and 1/4 cup of soy sauce, then season with cumin, garlic, red pepper flakes, salt and pepper. Stir to blend, then cover and cook on Low for 4 1/2 to 5 hours.
+
+Remove 1 cup of the liquid from the slow cooker, and mix this with the cornstarch, peanut butter, 1 tablespoon of soy sauce and lime juice. This should blend into a fairly thick sauce. Stir the sauce back into the slow cooker, and place the lid on the pot.
+
+Cook on High for 30 minutes. Garnish with green onions, cilantro and peanuts before serving.
+
+
+
+
+</instructions>
+</recipe>

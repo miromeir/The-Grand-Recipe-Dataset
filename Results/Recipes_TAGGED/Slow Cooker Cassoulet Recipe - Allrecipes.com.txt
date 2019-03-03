@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Slow Cooker Cassoulet Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="2.0 Pound">Chicken</ingredient><ingredient amount="1.0 Quart">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="1.0 Inch">Tu</ingredient></ingredients>
+<instructions>
+Place the chicken into the bottom of a slow cooker. Stir together the onion, garlic, parsley, salt, pepper, cannellini beans, and turkey kielbasa in a large bowl. Pour the mixture over the chicken in the slow cooker, and pour the wine over all the ingredients. Cover, set the cooker to Low, and cook until the chicken is very tender and the cassoulet is thickened, 5 to 6 hours.
+
+
+
+
+</instructions>
+</recipe>

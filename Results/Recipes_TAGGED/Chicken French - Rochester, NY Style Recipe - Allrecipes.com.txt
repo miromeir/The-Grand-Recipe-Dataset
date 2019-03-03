@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Chicken French - Rochester, NY Style Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Flour</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Parmesan Cheese</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="4.0">Chicken</ingredient><ingredient amount="0.25 Cup">Butter</ingredient><ingredient amount="2.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="2.0 Teaspoon">Chicken</ingredient></ingredients>
+<instructions>
+Mix together the flour, salt, and pepper in a shallow bowl. In another bowl, whisk beaten eggs, sugar, and Parmesan cheese until the mixture is thoroughly blended and the sugar has dissolved.
+
+Heat olive oil in a large skillet over medium heat until the oil shimmers. Dip the chicken breasts into the flour mixture, then into the egg mixture, and gently lay them into the skillet. Pan-fry the chicken breasts until golden brown and no longer pink in the middle, about 6 minutes on each side. Remove from the skillet and set aside.
+
+In the same skillet over medium-low heat, melt the butter, and stir in garlic, sherry, lemon juice, and chicken base. Bring the sauce to a simmer, and stir until smooth and slightly thickened, about 5 minutes. Be sure to dissolve any brown flavor bits from the bottom of the skillet as you stir. Return the chicken breasts to the sauce, and gently simmer until no longer pink in the center, about 15 minutes.
+
+To serve, place a chicken breast on a plate, and top with sauce.
+
+
+
+
+</instructions>
+</recipe>

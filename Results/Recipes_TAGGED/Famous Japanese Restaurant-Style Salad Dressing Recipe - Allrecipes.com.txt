@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Famous Japanese Restaurant-Style Salad Dressing Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="0.5 Cup">Pea</ingredient><ingredient amount="0.3333333333333333 Cup">Rice</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient><ingredient amount="2.0 Tablespoon">Celery</ingredient><ingredient amount="4.0 Teaspoon">Soy Sauce</ingredient><ingredient amount="2.0 Teaspoon">Sugar</ingredient><ingredient amount="2.0 Teaspoon">Juice</ingredient><ingredient amount="0.5 Teaspoon">Minced Garlic</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a blender, combine the minced onion, peanut oil, rice vinegar, water, ginger, celery, ketchup, soy sauce, sugar, lemon juice, garlic, salt and pepper . Blend on high speed for about 30 seconds or until all of the ingredients are well-pureed.
+
+
+
+
+</instructions>
+</recipe>

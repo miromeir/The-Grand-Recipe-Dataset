@@ -1,0 +1,50 @@
+<recipe>
+<title>
+Affogato with Cold-Brewed Coffee Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients>
+2/3 cup medium-coarse ground coffee
+3 cups cold water
+2 scoops vanilla ice cream
+2 tablespoons shaved dark chocolate
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Whisk together ground coffee and cold water in a small bowl. Cover with plastic wrap and set aside for 12 hours. Whisk, then strain through a funnel lined with a moistened paper towel into a bowl. Watch Now
+
+Place ice cream scoops in 2 coffee or espresso cups. Pour 1/4 to 1/2 cup cold coffee over the top of each. Garnish with shaved dark chocolate. Watch Now
+
+
+
+
+</instructions>
+</recipe>
+<recipe>
+<title>
+Affogato with Cold-Brewed Coffee Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients>
+2/3 cup medium-coarse ground coffee
+3 cups cold water
+2 scoops vanilla ice cream
+2 tablespoons shaved dark chocolate
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Whisk together ground coffee and cold water in a small bowl. Cover with plastic wrap and set aside for 12 hours. Whisk, then strain through a funnel lined with a moistened paper towel into a bowl.
+
+Place ice cream scoops in 2 coffee or espresso cups. Pour 1/4 to 1/2 cup cold coffee over the top of each. Garnish with shaved dark chocolate.
+
+
+
+
+</instructions>
+</recipe>

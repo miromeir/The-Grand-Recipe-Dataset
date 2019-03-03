@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Lamb Shawarma Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Yogurt</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.125 Teaspoon">Nutmeg</ingredient><ingredient amount="0.125 Teaspoon">Clove</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Place the yogurt, water, lemon juice, vinegar, olive oil, onion, and garlic into a large mixing bowl. Whisk in the salt, black pepper, cumin, nutmeg, clove, mace, and cayenne pepper until evenly blended. Mix in the lamb strips to coat. Cover the bowl with plastic wrap, and marinate in the refrigerator 12 to 24 hours (the longer the better).
+
+Heat a large skillet over high heat. Cook the lamb strips in a single layer in batches until the fat melts and the meat has browned and is no longer pink on the inside, about 5 minutes, turning occasionally.
+
+
+
+
+</instructions>
+</recipe>

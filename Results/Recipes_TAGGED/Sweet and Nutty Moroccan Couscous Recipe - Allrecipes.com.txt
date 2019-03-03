@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Sweet and Nutty Moroccan Couscous Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Vegetable</ingredient><ingredient amount="5.0 Tablespoon">Butter</ingredient><ingredient amount="0.3333333333333333 Cup">Date</ingredient><ingredient amount="0.3333333333333333 Cup">Apricot</ingredient><ingredient amount="0.3333333333333333 Cup">Raisin</ingredient><ingredient amount="2.0 Cup">Couscous</ingredient><ingredient amount="3.0 Teaspoon">Cinnamon</ingredient><ingredient amount="0.5 Cup">Almond</ingredient></ingredients>
+<instructions>
+Pour the vegetable broth into a large saucepan, and bring to a boil. Add the butter, apricots, dates and raisins. Boil for 2 to 3 minutes. Remove from the heat, and stir in the couscous. Cover, and let stand for 5 minutes. Stir in the cinnamon and toasted almonds, and serve.
+
+
+
+
+</instructions>
+</recipe>

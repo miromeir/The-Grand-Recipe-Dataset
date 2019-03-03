@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Okonomiyaki (Japanese Pancake) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Flour</ingredient><ingredient amount="4.0 Cup">Cabbage</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="0.25 Cup">Cheese</ingredient><ingredient amount="0.25 Cup">Tempura</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Bread Crumbs</ingredient><ingredient amount="1.0 Teaspoon">Mayonnaise</ingredient></ingredients>
+<instructions>
+Mix flour and water together in a bowl until smooth. Stir in cabbage, bacon, eggs, sausage, green onions, shrimp, cheese, and tenkasu.
+
+Preheat a griddle to 400 degrees F (200 degrees C); coat with oil. Pour in flour mixture in the shape of a pancake. Cook until golden brown, about 6 minutes per side. Transfer to a serving plate.
+
+Mix soy sauce, ketchup, and vinegar together in a small bowl to make okonomiyaki sauce. Drizzle over pancake. Garnish with panko and mayonnaise.
+
+
+
+
+</instructions>
+</recipe>

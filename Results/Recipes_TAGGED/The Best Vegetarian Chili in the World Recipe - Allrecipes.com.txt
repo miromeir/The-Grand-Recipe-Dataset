@@ -1,0 +1,18 @@
+<recipe>
+<title>
+The Best Vegetarian Chili in the World Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="2.0">Celery</ingredient><ingredient amount="2.0">Bell Pepper</ingredient><ingredient amount="2.0">Pepper</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="2.0 Ounce">Pepper</ingredient><ingredient amount="3.0 Ounce">Tomato</ingredient><ingredient amount="0.25 Cup">Chili Powder</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient></ingredients>
+<instructions>
+Heat the olive oil in a large pot over medium heat. Stir in the onion, and season with bay leaves, cumin, oregano, and salt. Cook and stir until onion is tender, then mix in the celery, green bell peppers, jalapeno peppers, garlic, and green chile peppers. When vegetables are heated through, mix in the vegetarian burger crumbles. Reduce heat to low, cover pot, and simmer 5 minutes.
+
+Mix the tomatoes into the pot. Season chili with chili powder and pepper. Stir in the kidney beans, garbanzo beans, and black beans. Bring to a boil, reduce heat to low, and simmer 45 minutes. Stir in the corn, and continue cooking 5 minutes before serving.
+
+
+
+
+</instructions>
+</recipe>

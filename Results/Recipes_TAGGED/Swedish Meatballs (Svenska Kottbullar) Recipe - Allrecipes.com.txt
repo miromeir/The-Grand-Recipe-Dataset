@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Swedish Meatballs (Svenska Kottbullar) Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="2.0 Day">White Bread</ingredient><ingredient amount="0.5 Cup">Cream</ingredient><ingredient amount="1.0 Teaspoon">Butter</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="0.6666666666666666 Pound">Beef</ingredient><ingredient amount="0.3333333333333333 Pound">Pork</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Teaspoon">Nutmeg</ingredient><ingredient amount="0.125 Teaspoon">Ginger</ingredient><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="0.25 Cup">Chicken</ingredient><ingredient amount="3.0 Tablespoon">Flour</ingredient><ingredient amount="2.0 Cup">Broth</ingredient><ingredient amount="0.5 Ounce">Cream</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+Place the bread crumbs into a small bowl, and mix in the cream. Allow to stand until crumbs absorb the cream, about 10 minutes. While the bread is soaking, melt 1 teaspoon of butter in a skillet over medium heat, and cook and stir the onion until it turns light brown, about 10 minutes. Place onion into a mixing bowl; mix with the ground beef, ground pork, egg, brown sugar, salt, black pepper, nutmeg, allspice, and ginger. Lightly mix in the bread crumbs and cream.
+
+Melt 1 tablespoon of butter in a large skillet over medium heat. Pinch off about 1 1/2 tablespoon of the meat mixture per meatball, and form into balls. Place the meatballs into the skillet, and cook just until the outsides are brown, about 5 minutes, turning the meatballs often. Insides of the meatballs will still be pink. Place browned meatballs into a baking dish, pour in chicken broth, and cover with foil.
+
+Bake in the preheated oven until the meatballs are tender, about 40 minutes. Remove meatballs to a serving dish.
+
+To make brown gravy, pour pan drippings into a saucepan over medium heat. Whisk the flour into the pan drippings until smooth, and gradually whisk in enough beef broth to total about 2 1/2 cups of liquid. Bring the gravy to a simmer, whisking constantly until thick, about 5 minutes. Just before serving, whisk in the sour cream. Season to taste with salt and black pepper. Serve the gravy with the meatballs.
+
+
+
+
+</instructions>
+</recipe>

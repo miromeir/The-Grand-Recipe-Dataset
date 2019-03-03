@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Pasta Primavera with Italian Turkey Sausage Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Pasta</ingredient><ingredient amount="1.0 Inch">Ital</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="2.0">Zucchini</ingredient><ingredient amount="6.0">Tomato</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="2.0 Teaspoon">Bouillon</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Cup">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Bring a large pot of lightly salted water to a boil. Place farfalle in pot and cook 8 to 10 minutes, until al dente; drain.
+
+Place sausage in a large skillet over medium heat and cook until evenly brown; set aside. Heat 1/4 cup oil in skillet. Stir in garlic and onion, and cook until tender. Mix in zucchini, squash, tomatoes, bell pepper and basil. Dissolve bouillon in the mixture. Season with red pepper. Stir in remaining oil. Continue cooking 10 minutes.
+
+Mix pasta, sausage and cheese into skillet. Continue cooking 5 minutes, or until heated through.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Southwest Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="4.0">Chicken</ingredient><ingredient amount="1.0 Ounce">Pepper</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient></ingredients>
+<instructions>
+In a large skillet, heat oil over medium high heat. Brown chicken breasts on both sides. Add tomatoes with green chile peppers, beans and corn. Reduce heat and let simmer for 25 to 30 minutes or until chicken is cooked through and juices run clear. Add a dash of cumin and serve.
+
+
+
+
+</instructions>
+</recipe>

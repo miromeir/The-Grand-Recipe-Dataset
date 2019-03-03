@@ -1,0 +1,42 @@
+<recipe>
+<title>
+Chef John's Creme Fraiche Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients>
+2 cups heavy cream
+3 tablespoons cultured buttermilk
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Combine cream and buttermilk in a glass jar. Cover tightly with cheesecloth (or any breathable material) and let sit at room temperature (70 to 75 degrees F (21 to 24 degrees C)) for 24 hours. Stir, screw on lid, and refrigerate for 24 hours before using.
+
+
+
+
+</instructions>
+</recipe>
+<recipe>
+<title>
+Chef John's Creme Fraiche Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients>
+2 cups heavy cream
+3 tablespoons cultured buttermilk
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Combine cream and buttermilk in a glass jar. Cover tightly with cheesecloth (or any breathable material) and let sit at room temperature (70 to 75 degrees F (21 to 24 degrees C)) for 24 hours. Stir, screw on lid, and refrigerate for 24 hours before using.
+
+
+
+
+</instructions>
+</recipe>

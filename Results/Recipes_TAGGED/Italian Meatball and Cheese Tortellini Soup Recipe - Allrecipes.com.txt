@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Italian Meatball and Cheese Tortellini Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Tablespoon">Garlic</ingredient><ingredient amount="2.0 Quart">Beef</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="0.5 Cup">Green Bean</ingredient><ingredient amount="0.5 Cup">Carrot</ingredient><ingredient amount="0.5 Cup">Kale</ingredient><ingredient amount="1.0 Tablespoon">Ital</ingredient><ingredient amount="1.0 Pound">Meat</ingredient><ingredient amount="1.0 Pound">Tortell</ingredient><ingredient amount="2.0 Tablespoon">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Melt the butter in a large pot over medium-high heat; cook the onion and garlic in the melted butter until tender, 5 to 7 minutes. Pour the beef stock into the pot; add the tomatoes, green beans, carrot, kale, Italian seasoning, and bay leaf. Bring the mixture to a boil. Stir in the meatballs and tortellini; return to a boil and cook another 5 minutes. Ladle into bowls and top each with about 1 teaspoon Parmesan cheese to serve.
+
+
+
+
+</instructions>
+</recipe>

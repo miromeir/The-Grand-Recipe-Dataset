@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Fun Karnal (Beef and Broccoli) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="2.0 Inch">Steak</ingredient><ingredient amount="2.0 Teaspoon">Onion</ingredient><ingredient amount="0.25 Teaspoon">Minced Garlic</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Cup">Rice</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="0.5 Cup">Mush</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="0.5">Bell Pepper</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="3.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Cup">Broccoli</ingredient><ingredient amount="0.25 Cup">Sugar</ingredient><ingredient amount="0.5 Fluid ounce">Oyster Sauce</ingredient><ingredient amount="0.25 Cup">Onion</ingredient></ingredients>
+<instructions>
+Place steak in a bowl; top with minced onion, garlic, and 1 tablespoon soy sauce. Stir to coat.
+
+Bring rice and 4 cups water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes.
+
+Heat vegetable oil in a skillet over medium heat; cook and stir bamboo shoots, mushrooms, 1/4 cup green onion, green bell pepper, red pepper flakes, and 3 tablespoons soy sauce in the hot oil until green bell pepper is slightly tender, 4 to 5 minutes. Add steak, broccoli, and sugar snap peas; cook until beef is browned and no longer pink in the center, about 10 minutes.
+
+Whisk cornstarch and 2 tablespoons water together in a bowl until cornstarch is dissolved. Heat oyster sauce in a saucepan over medium-low heat; slowly stir in cornstarch mixture until sauce is thickened, 3 to 5 minutes. Stir oyster sauce mixture into steak mixture; sprinkle with 1/4 cup green onions. Cook steak mixture until sauce is thickened, 7 to 8 minutes. Serve over rice.
+
+
+
+
+</instructions>
+</recipe>

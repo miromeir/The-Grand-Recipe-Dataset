@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Al Kabsa - Traditional Saudi Rice and Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="0.5 Teaspoon">Cinnamon</ingredient><ingredient amount="0.25 Teaspoon">White Pepper</ingredient><ingredient amount="0.5 Teaspoon">Lime</ingredient><ingredient amount="0.25 Cup">Butter</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="6.0">Garlic</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="0.25 Cup">Tomato</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="3.0">Carrot</ingredient><ingredient amount="2.0">Clove</ingredient><ingredient amount="1.0">Nutmeg</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0">Bouillon</ingredient><ingredient amount="2.0 Cup">Rice</ingredient><ingredient amount="0.25 Cup">Raisin</ingredient><ingredient amount="0.25 Cup">Almond</ingredient></ingredients>
+<instructions>
+Mix together the saffron, cardamom, cinnamon, allspice, white pepper, and lime powder in a small bowl, and set the spice mix aside.
+
+Melt the butter in a large stock pot or Dutch oven over medium heat. Stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Add the chicken pieces and brown them over medium-high heat until lightly browned, about 10 minutes. Mix in the tomato puree.
+
+Stir in the canned tomatoes with their juice, the grated carrots, whole cloves, nutmeg, cumin, coriander, salt, black pepper, and the Kabsa spice mix. Cook for about 3 minutes; pour in the water, and add the chicken bouillon cube.
+
+Bring the sauce to a boil, then reduce the heat to simmer and cover the pot. Simmer until chicken is no longer pink and the juices run clear, about 30 minutes.
+
+Gently stir in the rice. Cover the pot and simmer until rice is tender and almost dry, about 25 minutes; add the raisins and a little more hot water, if necessary. Cover and cook for an additional 5 to 10 minutes or until the rice grains are separate.
+
+Transfer the rice to a large serving platter and arrange the chicken pieces on top. Sprinkle the toasted slivered almonds over the dish.
+
+
+
+
+</instructions>
+</recipe>

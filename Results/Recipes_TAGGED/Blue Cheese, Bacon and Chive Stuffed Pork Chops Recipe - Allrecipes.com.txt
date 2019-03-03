@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Blue Cheese, Bacon and Chive Stuffed Pork Chops Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="2.0">Butter</ingredient><ingredient amount="4.0 Ounce">Cheese</ingredient><ingredient amount="">Garlic</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="">Garnish</ingredient></ingredients>
+<instructions>
+Preheat the oven to 325 degrees F (165 degrees C). Grease a shallow baking dish.
+
+In a small bowl, mix together the blue cheese, bacon and chives. Divide into halves, and pack each half into a loose ball. Place each one into a pocket of a butterflied pork chop, close, and secure with toothpicks. Season each chop with garlic salt and pepper. Keep in mind that the blue cheese will be salty. Place in the prepared baking dish.
+
+Bake for 20 minutes in the preheated oven, or it may take longer if your chops are thicker. Cook until the stuffing is hot, and chops are to your desired degree of doneness. Garnish with fresh parsley and serve.
+
+
+
+
+</instructions>
+</recipe>

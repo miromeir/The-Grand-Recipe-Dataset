@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Hot German Potato Salad III Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="9.0">Potato</ingredient><ingredient amount="0.75 Cup">Onion</ingredient><ingredient amount="2.0 Tablespoon">Flour</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="0.5 Teaspoon">Celery</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 30 minutes. Drain, cool and slice thin.
+
+Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside, reserving drippings.
+
+Saute onions in bacon drippings until they are golden-brown.
+
+In a small bowl, whisk together the flour, sugar, salt, celery seed, and pepper. Add to the sauteed onions and cook and stir until bubbly, then remove from heat. Stir in water and vinegar, then return to the stove and bring to a boil, stirring constantly. Boil and stir for one minute. Carefully stir bacon and sliced potatoes into the vinegar/water mixture, stirring gently until potatoes are heated through.
+
+
+
+
+</instructions>
+</recipe>

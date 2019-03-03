@@ -1,0 +1,16 @@
+<recipe>
+<title>
+The Best Steak Marinade Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="2.0 Teaspoon">Mus</ingredient><ingredient amount="2.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Mix olive oil, balsamic vinegar, Worcestershire sauce, soy sauce, Dijon mustard, and garlic in a small bowl. Season with salt and pepper.
+
+
+
+
+</instructions>
+</recipe>

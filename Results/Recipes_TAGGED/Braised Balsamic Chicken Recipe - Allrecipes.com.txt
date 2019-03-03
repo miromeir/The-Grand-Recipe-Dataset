@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Braised Balsamic Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="6.0">Chicken</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient></ingredients>
+<instructions>
+Season both sides of chicken breasts with garlic salt and pepper.
+
+Heat olive oil in a skillet over medium heat; cook seasoned chicken breasts until chicken is browned, 3 to 4 minutes per side. Add onion; cook and stir until onion is browned, 3 to 4 minutes.
+
+Pour diced tomatoes and balsamic vinegar over chicken; season with basil, oregano, rosemary and thyme. Simmer until chicken is no longer pink and the juices run clear, about 15 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Baked Oatmeal II Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="3.0 Cup">Rolled Oats</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="2.0 Teaspoon">Cinnamon</ingredient><ingredient amount="1.0 Cup">Milk</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="0.5 Cup">Butter</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C). Watch Now
+
+In a large bowl, mix together oats, brown sugar, cinnamon, baking powder, and salt. Beat in milk, eggs, melted butter, and vanilla extract. Stir in dried cranberries. Spread into a 9x13 inch baking dish. Watch Now
+
+Bake in preheated oven for 40 minutes. Watch Now
+
+
+
+
+</instructions>
+</recipe>

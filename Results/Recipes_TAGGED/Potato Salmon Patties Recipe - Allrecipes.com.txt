@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Potato Salmon Patties Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Salmon</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="0.25 Cup">Bread Crumbs</ingredient><ingredient amount="0.25 Cup">Potato</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Celery Salt</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient></ingredients>
+<instructions>
+In a medium bowl, mix salmon, eggs, garlic and herb seasoned dry bread crumbs, dry potato flakes, onion, garlic, dill weed, celery salt, salt, and pepper. Form the mixture into 2 inch balls, and flatten into patties about 1/2 inch thick.
+
+Heat olive oil in a medium skillet over medium heat. In batches, cook patties about 5 minutes on each side, until lightly browned.
+
+
+
+
+</instructions>
+</recipe>

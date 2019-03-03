@@ -1,0 +1,28 @@
+<recipe>
+<title>
+Korean Baked Cauliflower 'Wings' Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Pepper</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0 Tablespoon">Honey</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient><ingredient amount="0.25 Cup">Flour</ingredient><ingredient amount="0.25 Cup">Starch</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient><ingredient amount="0.25 Teaspoon">White Pepper</ingredient><ingredient amount="2.0 Tablespoon">Sesame Seed</ingredient></ingredients>
+<instructions>
+Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper.
+
+Mix gochujang, ketchup, sugar, soy sauce, sesame oil, honey, and garlic together in a bowl. Set sauce aside.
+
+Mix water, rice flour, potato starch, granulated garlic, salt, and white pepper together in a bowl. Add a small amount of additional water if batter is too thick.
+
+Place cauliflower pieces in a bowl and pour batter on top. Toss to coat. Transfer to the prepared baking sheet, leaving space between each piece.
+
+Bake in the preheated oven until some spots form, about 30 minutes.
+
+Transfer baked 'wings' to a large bowl, leaving oven on. Add sauce and toss to coat. Return 'wings' to the baking sheet, leaving space between them. Return to the hot oven until black spots start to appear, about 15 minutes.
+
+Transfer to a serving plate and top with sesame seeds.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Japanese Shrimp Sauce I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Mayonnaise</ingredient><ingredient amount="3.0 Tablespoon">Sugar</ingredient><ingredient amount="3.0 Tablespoon">Rice</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="0.75 Teaspoon">Paprika</ingredient><ingredient amount="0.375 Teaspoon">Garlic</ingredient></ingredients>
+<instructions>
+In a small bowl, combine mayonnaise, white sugar, rice vinegar, melted butter, paprika and garlic powder. Mix well, cover and refrigerate.
+
+
+
+
+</instructions>
+</recipe>

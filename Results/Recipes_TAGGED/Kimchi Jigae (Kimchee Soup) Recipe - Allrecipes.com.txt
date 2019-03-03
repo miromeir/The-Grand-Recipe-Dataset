@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Kimchi Jigae (Kimchee Soup) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="0.5 Pound">Pork</ingredient><ingredient amount="1.0 Ounce">Meat</ingredient><ingredient amount="0.25 Cup">Hot Sauce</ingredient><ingredient amount="1.0 Ounce">Tofu</ingredient><ingredient amount="1.0 Ounce">Mush</ingredient></ingredients>
+<instructions>
+Combine kimchi, water, sugar, and garlic in a large skillet over medium-high heat. Bring to a boil. Stir in pork belly, luncheon meat, and kochujang. Add tofu and mushrooms; stir carefully so you don't break up the tofu. Reduce heat to medium-low. Cook until kimchi is softened and pork is slightly pink in the center, 20 to 30 minutes.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Thai Chicken Pizza Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Peanut Sauce</ingredient><ingredient amount="0.25 Cup">Peanut Butter</ingredient><ingredient amount="8.0 Ounce">Chicken</ingredient><ingredient amount="1.0 Cup">Cheese</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="0.5 Cup">Bean Sprout</ingredient><ingredient amount="0.5 Cup">Carrot</ingredient><ingredient amount="1.0 Tablespoon">Pea</ingredient></ingredients>
+<instructions>
+Preheat the oven to 400 degrees F (200 degrees C).
+
+In a small bowl, stir together the peanut sauce and peanut butter. Spread over the pizza crust. Arrange strips of chicken on top. Sprinkle on the green onions and cheese.
+
+Bake for 8 to 12 minutes in the preheated oven, until cheese is melted and bubbly. Top with bean sprouts, carrot shreds and peanuts, if using. Slice into wedges and serve.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Turkish Red Lentil 'Bride' Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Butter</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="1.0 Teaspoon">Paprika</ingredient><ingredient amount="1.0 Cup">Lentil</ingredient><ingredient amount="2.0 Tablespoon">Tomato Paste</ingredient><ingredient amount="8.0 Cup">Vegetable</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Melt the butter in a large saucepan over low heat. Cook the onions in the hot butter until they are golden brown, about 15 minutes.
+
+Stir the paprika, lentils, and bulgur into the onions and coat with the butter.
+
+Add the tomato paste, vegetable stock, and cayenne pepper; bring to a boil and cook until soft and creamy, about 1 hour.
+
+Crumble the dried mint leaves into the soup; stir the soup and remove from heat.
+
+Ladle into bowls and garnish with lemon slices and fresh mint to serve.
+
+
+
+
+</instructions>
+</recipe>

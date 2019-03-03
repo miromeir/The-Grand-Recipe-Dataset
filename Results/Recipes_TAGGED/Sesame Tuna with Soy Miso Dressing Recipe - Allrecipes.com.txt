@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Sesame Tuna with Soy Miso Dressing Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="0.75 Cup">Sesame Seed</ingredient><ingredient amount="1.0 Teaspoon">White Pepper</ingredient><ingredient amount="1.0 Teaspoon">Onion Powder</ingredient><ingredient amount="1.0 Cup">Flour</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="3.0 Fluid ounce">Milk</ingredient><ingredient amount="2.0 Inch">Steak</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Ounce">Soup</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient></ingredients>
+<instructions>
+In a shallow bowl, mix together 1/2 cup of sesame seeds, seasoning salt, white pepper, onion powder, wasabi powder, kosher salt and flour; set aside. In a separate bowl, mix together the eggs and milk.
+
+Dip tuna steaks in the egg mixture, then dredge in the flour mixture until well coated on both sides. Press on as many extra sesame seeds as possible, so it is well coated. Heat the vegetable oil in a large heavy skillet over medium-high heat. Fry tuna steaks for 2 minutes per side, and immediately remove from heat. The inside of the fish should still be red.
+
+To make the soy miso dressing, mix together the miso soup mix and soy sauce. Heat in a small saucepan or microwave, and drizzle over steaks.
+
+
+
+
+</instructions>
+</recipe>

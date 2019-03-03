@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Mediterranean Vegetable Stew Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Cup">Red Onion</ingredient><ingredient amount="2.0 Cup">Pepper</ingredient><ingredient amount="2.0">Garlic Clove</ingredient><ingredient amount="1.0 Cup">Mush</ingredient><ingredient amount="1.0 Inch">Egg</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="0.5 Cup">Olive</ingredient><ingredient amount="1.0 Ounce">Chickpea</ingredient></ingredients>
+<instructions>
+In a large skillet, heat 1 Tb. oil. Saute onion and pepper until soft, about 10 minutes. Add 1 Tb. oil, garlic, mushrooms and eggplant. Simmer, stirring occasionally, until eggplant is softened but not mushy, about 15 minutes. Add tomatoes, olives, chickpeas and rosemary. Simmer until heated through, about 10 minutes. Stir in parsley. Sprinkle feta cheese over stew if desired.
+
+
+
+
+</instructions>
+</recipe>

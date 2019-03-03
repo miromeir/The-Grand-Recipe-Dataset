@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Fajita Marinade I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="2.0 Teaspoon">Soy Sauce</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a large resealable plastic bag, mix together the lime juice, water, olive oil, garlic, soy sauce, salt, and liquid smoke flavoring. Stir in cayenne and black pepper.
+
+Place desired meat in the marinade, and refrigerate at least 2 hours, or overnight. Cook as desired.
+
+
+
+
+</instructions>
+</recipe>

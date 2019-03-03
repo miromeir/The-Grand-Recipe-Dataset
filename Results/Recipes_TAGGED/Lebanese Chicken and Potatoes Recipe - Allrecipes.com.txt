@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Lebanese Chicken and Potatoes Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="8.0">Chicken</ingredient><ingredient amount="8.0 Quart">Potato</ingredient><ingredient amount="">White Pepper</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="1.0 Cup">Juice</ingredient></ingredients>
+<instructions>
+Preheat oven to 425 degrees F (220 degrees C).
+
+Place chicken and potatoes in a large baking dish. Season generously with salt and white pepper.
+
+In a bowl, stir together garlic, olive oil, and lemon juice. Pour over chicken and potatoes. Cover dish with foil.
+
+Bake in preheated oven for 30 minutes. Remove foil, increase heat to 475 degrees F (245 degrees C), and cook until chicken and potatoes are golden, about 30 minutes.
+
+
+
+
+</instructions>
+</recipe>

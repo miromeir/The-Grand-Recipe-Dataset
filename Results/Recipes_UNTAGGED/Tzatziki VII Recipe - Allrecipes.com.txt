@@ -1,0 +1,32 @@
+<recipe>
+<title>
+Tzatziki VII Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients>
+1 (32 ounce) container plain yogurt
+2 cucumbers
+1 medium head garlic
+1/4 cup extra virgin olive oil
+3 tablespoons lemon juice
+1 teaspoon chopped fresh dill weed
+salt and pepper to taste
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Place the yogurt in a large square of double cheesecloth. Tie the cheesecloth at the top and let any excess liquid drain for about 4 hours.
+
+Peel cucumbers; remove seeds with a spoon. Shred the cucumbers, then squeeze to drain excess liquid.
+
+Peel and mince garlic.
+
+In a medium-sized bowl, whisk together the olive oil, lemon juice, dill, salt and pepper. Add yogurt, cucumbers and garlic and stir until evenly combined. Refrigerate until ready to use.
+
+
+
+
+</instructions>
+</recipe>

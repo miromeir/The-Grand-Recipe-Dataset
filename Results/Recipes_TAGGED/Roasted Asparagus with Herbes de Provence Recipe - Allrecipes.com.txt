@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Roasted Asparagus with Herbes de Provence Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="1.0">Asparagus</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Tablespoon">Herb</ingredient><ingredient amount="">Sea Salt</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil.
+
+Toss the asparagus with olive oil, Herbes de Provence, salt, and pepper. Spread the asparagus onto the baking sheet in a single layer.
+
+Roast in preheated oven until tender and lightly browned, about 12 minutes.
+
+
+
+
+</instructions>
+</recipe>

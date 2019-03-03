@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Addictive Sesame Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0">Sesame Oil</ingredient><ingredient amount="2.0 Tablespoon">Flour</ingredient><ingredient amount="1.0 Teaspoon">Canola</ingredient><ingredient amount="4.0 Inch">Chicken</ingredient><ingredient amount="1.0 Quart">Vegetable Oil</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0 Teaspoon">Paste</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Sesame Seed</ingredient></ingredients>
+<instructions>
+Combine the 2 tablespoons soy sauce, the dry sherry, dash of sesame oil, flour, 2 tablespoons cornstarch, 2 tablespoons water, baking powder, baking soda, and canola oil in a large bowl. Mix well; stir in the chicken. Cover and refrigerate for 20 minutes.
+
+Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).
+
+Combine the 1/2 cup water, chicken broth, vinegar, 1/4 cup cornstarch, sugar, 2 tablespoons soy sauce, 2 tablespoons sesame oil, red chili paste, and garlic in a small saucepan. Bring to a boil, stirring constantly. Turn heat to low and keep warm, stirring occasionally.
+
+Fry the marinated chicken in batches until cooked through and golden brown, 3 to 5 minutes. Drain on paper towels.
+
+Transfer the chicken to a large platter, top with sauce, and sprinkle with sesame seeds.
+
+
+
+
+</instructions>
+</recipe>

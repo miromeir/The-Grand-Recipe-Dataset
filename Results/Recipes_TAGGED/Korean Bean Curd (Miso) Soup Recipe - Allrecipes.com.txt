@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Korean Bean Curd (Miso) Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Paste</ingredient><ingredient amount="1.0 Tablespoon">Garlic</ingredient><ingredient amount="0.5 Tablespoon">Pepper</ingredient><ingredient amount="1.0">Zucchini</ingredient><ingredient amount="1.0">Potato</ingredient><ingredient amount="0.25 Quart">Mush</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Ounce">Tofu</ingredient></ingredients>
+<instructions>
+In a large saucepan over medium heat, combine water, denjang, garlic paste, dashi and gochujang. Bring to a boil and let boil 2 minutes. Stir in zucchini, potato, mushrooms and onions and let boil 5 to 7 minutes more. Stir in tofu and cook until tofu has expanded and vegetables are tender.
+
+
+
+
+</instructions>
+</recipe>

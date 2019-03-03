@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Seven Layer Dip I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Beef</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="4.0 Cup">Monterey Jack</ingredient><ingredient amount="1.0 Ounce">Cream</ingredient><ingredient amount="1.0 Cup">Guacamole</ingredient><ingredient amount="1.0 Ounce">Olive</ingredient><ingredient amount="0.5 Cup">Tomato</ingredient><ingredient amount="0.5 Cup">Onion</ingredient></ingredients>
+<instructions>
+In a large skillet, brown ground beef. Set aside to drain and cool to room temperature.
+
+Spread the beans into the bottom of a 9x13 inch serving tray that is about 1 1/2 inches deep. Sprinkle 2 cups of shredded cheese on top of beans. Sprinkle beef on top of cheese. Spread sour cream very slowly on top of beef. Spread guacamole on top of sour cream. Pour salsa over guacamole and spread evenly. Sprinkle remaining shredded cheese. Sprinkle black olives, tomatoes, and green onions on top.
+
+You can serve this dish immediately, or refrigerate it over night and serve cold. I think it tastes better at room temperature.
+
+
+
+
+</instructions>
+</recipe>

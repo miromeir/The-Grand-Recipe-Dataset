@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Slow Cooker Pernil Pork Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="4.0">Garlic</ingredient><ingredient amount="1.0 Quart">Onion</ingredient><ingredient amount="2.0 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Teaspoon">Pepper</ingredient><ingredient amount="">Olive Oil</ingredient><ingredient amount="1.0 Pound">Pork</ingredient><ingredient amount="1.0">Lime</ingredient></ingredients>
+<instructions>
+Place the garlic, onion, oregano, cumin, chile pepper, salt, and pepper into a blender. Pour in the olive oil and vinegar. Puree until smooth. Spread this mixture all over the pork loin, and place into a slow cooker.
+
+Cook on Low until the pork is fork tender, 6 to 8 hours. When ready, cut the pork into chunks, or shred; garnish with lime wedges to serve.
+
+
+
+
+</instructions>
+</recipe>

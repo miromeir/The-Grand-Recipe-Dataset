@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Baked Tofu Bites Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Tofu</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="1.0">Hot Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="0.25 Teaspoon">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Preheat oven to 375 degrees F (190 degrees C). Lightly spray a non-stick baking sheet with oil.
+
+Slice tofu into 1/2-inch slices, and gently press excess water out of tofu. Cut sliced tofu into 1/2-inch cubes.
+
+In a bowl, stir together the soy sauce, maple syrup, ketchup, vinegar, and hot sauce. Stir in sesame seeds, garlic powder, black pepper, and liquid smoke. Gently stir tofu cubes into sauce. Cover, and marinate at least 5 minutes.
+
+Place the tofu on the baking sheet in a single layer. Bake in a preheated oven for 15 minutes. Turn tofu, and bake until the tofu turns golden brown, about 15 minutes more.
+
+
+
+
+</instructions>
+</recipe>

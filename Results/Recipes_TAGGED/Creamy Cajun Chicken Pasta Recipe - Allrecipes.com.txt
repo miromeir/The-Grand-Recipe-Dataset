@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Creamy Cajun Chicken Pasta Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="4.0 Ounce">Pasta</ingredient><ingredient amount="2.0">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="0.5">Bell Pepper</ingredient><ingredient amount="4.0">Mush</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Cup">Cream</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.125 Teaspoon">Garlic</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Bring a large pot of lightly salted water to a boil. Add linguini pasta, and cook for 8 to 10 minutes, or until al dente; drain.
+
+Meanwhile, place chicken and Cajun seasoning in a bowl, and toss to coat.
+
+In a large skillet over medium heat, saute chicken in butter until no longer pink and juices run clear, about 5 to 7 minutes. Add green and red bell peppers, sliced mushrooms and green onions; cook for 2 to 3 minutes. Reduce heat, and stir in heavy cream. Season the sauce with basil, lemon pepper, salt, garlic powder and ground black pepper, and heat through.
+
+In a large bowl, toss linguini with sauce. Sprinkle with grated Parmesan cheese.
+
+
+
+
+</instructions>
+</recipe>

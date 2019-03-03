@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Thai Pork with Peanut Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Flour</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="4.0 Inch">Pork</ingredient><ingredient amount="0.3333333333333333 Cup">Chicken</ingredient><ingredient amount="0.5 Cup">Coconut Milk</ingredient><ingredient amount="2.0 Tablespoon">Peanut Butter</ingredient><ingredient amount="1.0 Tablespoon">Honey</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="0.25 Cup">Bell Pepper</ingredient><ingredient amount="0.25 Cup">Pea</ingredient></ingredients>
+<instructions>
+On a plate, combine the flour, cumin, cayenne pepper and 1/2 teaspoon of salt. Stir to distribute the spices. Coat the pork chops with the flour mixture, and shake off any excess.
+
+Heat the oil in a large skillet over medium-high heat. Place the pork chops in the hot skillet, and fry for about 4 minutes per side, until cooked through.
+
+While the pork chops cook, stir together the chicken broth, coconut milk, peanut butter, honey, ginger and 1/4 teaspoon of salt. Remove the pork chops to a serving platter, and keep warm.
+
+Pour the peanut sauce into the skillet. Cook, stirring constantly for 2 minutes, or until thickened. Pour peanut sauce over the chops, and garnish with green onion, bell pepper, peanuts and cilantro.
+
+
+
+
+</instructions>
+</recipe>

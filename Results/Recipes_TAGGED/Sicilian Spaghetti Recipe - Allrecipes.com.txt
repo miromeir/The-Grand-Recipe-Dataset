@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Sicilian Spaghetti Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="4.0 Tablespoon">Olive Oil</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Cup">Bread Crumbs</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="4.0 Tablespoon">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.
+
+Meanwhile, in a medium skillet, heat olive oil over medium heat and add garlic and anchovies to cook for about 2 minutes; stir constantly.
+
+Stir in breadcrumbs and turn off heat. Add parsley and black ground pepper; mix together.
+
+Toss anchovy sauce with hot pasta and sprinkle with cheese; serve.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Spicy Indian Chicken Curry Yummy Recipe - Allrecipes.com
+</title>
+<cuisine>
+Indian
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="4.0">Chicken</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient><ingredient amount="2.0 Tablespoon">Curry Powder</ingredient><ingredient amount="0.5 Inch">Cinnamon</ingredient><ingredient amount="6.0">Clove</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient><ingredient amount="15.0">Pepper</ingredient><ingredient amount="2.0 Teaspoon">Coriander Seed</ingredient></ingredients>
+<instructions>
+Heat oil in a small pot over medium heat. Add chicken, onion, and ginger garlic paste. Season with curry powder, cinnamon stick, cardamom pods, bay leaves, cloves, red pepper flakes, black peppercorns, and coriander seeds. Cover, and simmer for about 30 minutes, stirring occasionally. At this point, gravy will be runny; if you want to thicken, remove lid, and cook until liquid is reduced.
+
+
+
+
+</instructions>
+</recipe>

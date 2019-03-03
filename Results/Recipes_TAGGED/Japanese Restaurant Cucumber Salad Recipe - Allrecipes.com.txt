@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Japanese Restaurant Cucumber Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Rice</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0 Teaspoon">Paste</ingredient><ingredient amount="2.0 Inch">Cucumber</ingredient></ingredients>
+<instructions>
+Whisk sugar, rice vinegar, sesame oil, chile paste, and salt together in a bowl. Add cucumbers and stir to coat. Allow salad to marinate for 30 minutes before serving at room temperature.
+
+
+
+
+</instructions>
+</recipe>

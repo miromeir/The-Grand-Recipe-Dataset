@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Pasta e Fagioli I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Cup">Onion</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="2.0 Ounce">Tomato</ingredient><ingredient amount="3.0 Cup">Chicken</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Pound">Pasta</ingredient></ingredients>
+<instructions>
+Heat oil in 4-quart Dutch oven over medium heat until hot. Add onion and garlic and cook for 5 minutes or until onion is tender.
+
+Add undrained tomatoes, undrained cannellini beans, chicken broth, parsley, basil and pepper to Dutch oven and bring to a boil over high heat, stirring occasionally. Let boil for approximately 1 minute and then let simmer for 10 minutes, covered.
+
+Add pasta to Dutch oven and simmer approximately 10 to 12 minutes or until pasta is tender. Serve immediately and enjoy.
+
+
+
+
+</instructions>
+</recipe>

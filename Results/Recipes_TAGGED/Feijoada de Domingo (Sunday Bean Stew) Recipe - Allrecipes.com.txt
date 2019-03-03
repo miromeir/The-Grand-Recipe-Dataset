@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Feijoada de Domingo (Sunday Bean Stew) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="2.0 Pound">Bean</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Pound">Beef</ingredient><ingredient amount="0.5 Pound">Pork</ingredient><ingredient amount="0.25 Pound">Pork</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="2.0">Bun</ingredient></ingredients>
+<instructions>
+Combine 6 quarts water, black beans, bay leaves, salt, and pepper in a large saucepan. Bring to boil; simmer for 50 minutes.
+
+Bring remaining 2 quarts water to boil in a large saucepan. Stir in dried beef, pork ribs, and pig's feet; simmer until flavors combine, about 25 minutes. Add smoked sausage, spicy sausage, large bacon pieces, pork belly, pig's ear, and pig's tails; simmer until meat mixture is softened, about 25 minutes.
+
+Stir meat mixture to the bean mixture; simmer until flavors combine, about 45 minutes.
+
+Heat vegetable oil in a large skillet over medium heat; add garlic. Cook until warmed through, about 45 seconds; transfer to bean mixture. Add small bacon pieces to the skillet; cook and stir until lightly golden, about 2 minutes. Stir in onion; cook until onion is soft and browned, about 5 minutes. Stir in parsley.
+
+Stir the onion mixture into the bean mixture; simmer until tender, about 25 minutes. Transfer meat mixture to a serving dish. Pour beans into a separate serving dish.
+
+
+
+
+</instructions>
+</recipe>

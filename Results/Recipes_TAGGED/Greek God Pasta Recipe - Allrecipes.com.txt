@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Greek God Pasta Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Rotini</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="2.0 Tablespoon">Bell Pepper</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="3.0 Cup">Tomato Sauce</ingredient><ingredient amount="1.0 Cup">Olive</ingredient><ingredient amount="0.5 Cup">Mozzarella</ingredient><ingredient amount="2.0 Tablespoon">Cheese</ingredient></ingredients>
+<instructions>
+Preheat the oven to 400 degrees F (200 degrees C).
+
+Bring a large pot of lightly salted water to a boil. Add rotini pasta, and cook until al dente, about 8 minutes. Drain and pour into a deep casserole dish.
+
+Stir tomatoes, green pepper, green onion, olives and tomato sauce into the pasta. Season with basil and oregano and mix until evenly blended. Sprinkle mozzarella and feta cheese over the top.
+
+Bake for 30 minutes in the preheated oven, until cheese is melted and bubbly. Let stand for a few minutes before serving.
+
+
+
+
+</instructions>
+</recipe>

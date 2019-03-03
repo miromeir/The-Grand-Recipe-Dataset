@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Bread and Celery Stuffing Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">White Bread</ingredient><ingredient amount="0.75 Cup">Margarine</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="4.0">Celery</ingredient><ingredient amount="2.0 Teaspoon">Poultry</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient></ingredients>
+<instructions>
+Let bread slices air dry for 1 to 2 hours, then cut into cubes.
+
+In a Dutch oven, melt butter or margarine over medium heat. Cook onion and celery until soft. Season with poultry seasoning, salt, and pepper. Stir in bread cubes until evenly coated. Moisten with chicken broth; mix well.
+
+Chill, and use as a stuffing for turkey, or bake in a buttered casserole dish at 350 degrees F (175 degrees C) for 30 to 40 minutes.
+
+
+
+
+</instructions>
+</recipe>

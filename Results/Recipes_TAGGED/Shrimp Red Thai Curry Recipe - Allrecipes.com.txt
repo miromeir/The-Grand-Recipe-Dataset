@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Shrimp Red Thai Curry Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Coconut Milk</ingredient><ingredient amount="2.0 Tablespoon">Paste</ingredient><ingredient amount="1.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="1.0">Pepper</ingredient></ingredients>
+<instructions>
+In a wok, combine coconut milk, curry paste, fish sauce, and minced pepper. Slowly bring to a simmer over medium low heat, stirring frequently.
+
+Reduce heat to low, and add shrimp. Cook uncovered, stirring frequently, until prawns are cooked and flavors mellow, about 15 minutes.
+
+
+
+
+</instructions>
+</recipe>

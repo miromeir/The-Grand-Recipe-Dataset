@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Japanese-Style Deep-Fried Shrimp Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient><ingredient amount="1.0 Cup">Flour</ingredient><ingredient amount="1.0 Teaspoon">Paprika</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="1.0 Quart">Vegetable Oil</ingredient></ingredients>
+<instructions>
+Place the shrimp in a bowl and season with salt, pepper and garlic powder. In a small bowl, stir together the flour and paprika. Place eggs and panko crumbs into separate bowls.
+
+Heat the oil in a deep-fryer or deep skillet to 375 degrees F (190 degrees C). Dip each shrimp into the flour mixture, then into the egg, and finally into the panko crumbs to coat. Fry a few at a time until golden brown. This should take no longer than 5 minutes. Remove with a slotted spoon and drain on paper towels before serving.
+
+
+
+
+</instructions>
+</recipe>

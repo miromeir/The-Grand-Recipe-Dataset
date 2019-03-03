@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Moroccan Harira (Bean Soup) Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="6.0 Cup">Beef</ingredient><ingredient amount="1.0 Cup">Lentil</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Cinnamon</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="1.0 Teaspoon">Tu</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0">Bun</ingredient><ingredient amount="1.0">Bun</ingredient><ingredient amount="1.0">Juice</ingredient></ingredients>
+<instructions>
+Stir beef stock and lentils together in a large pot; bring to a boil, reduce heat to low, and keep at a simmer while preparing onion.
+
+Heat olive oil in a skillet over medium heat. Cook and stir onion, cinnamon stick, ginger, turmeric, cumin, and black pepper in the hot oil until the onion is translucent, about 5 minutes; add to stock mixture.
+
+Pour garbanzo beans, kidney beans, tomatoes, and quinoa into the stock mixture; stir and bring mixture to a boil. Stir parsley and cilantro into the stock mixture; reduce heat to low and cook mixture at a simmer until the lentils are tender, about 45 minutes. Drizzle lemon juice over the soup before serving.
+
+
+
+
+</instructions>
+</recipe>

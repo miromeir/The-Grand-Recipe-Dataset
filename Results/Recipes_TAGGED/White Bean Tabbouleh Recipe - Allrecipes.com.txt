@@ -1,0 +1,18 @@
+<recipe>
+<title>
+White Bean Tabbouleh Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Wheat</ingredient><ingredient amount="1.0 Cup">Spinach</ingredient><ingredient amount="1.0">Tomato</ingredient><ingredient amount="0.5">Bell Pepper</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="1.0">Juice</ingredient><ingredient amount="1.0 Teaspoon">Sea Salt</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Place the bulgur wheat in a large bowl, stir the boiling water into it, cover, and let stand until the water is absorbed and the wheat is fluffy, about 30 minutes.
+
+In a large salad bowl, lightly stir together the parsley, spinach, tomato, yellow bell pepper, onion, garlic, cannellini beans, olive oil, lemon juice, sea salt, and black pepper. Add the bulgur, lightly stir to thoroughly combine the salad, and refrigerate until chilled, about 1 hour.
+
+
+
+
+</instructions>
+</recipe>

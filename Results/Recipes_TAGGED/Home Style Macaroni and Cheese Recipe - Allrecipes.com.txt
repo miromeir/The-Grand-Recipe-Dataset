@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Home Style Macaroni and Cheese Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="7.0 Ounce">Macaroni</ingredient><ingredient amount="0.25 Cup">Butter</ingredient><ingredient amount="3.0 Tablespoon">Flour</ingredient><ingredient amount="2.0 Cup">Milk</ingredient><ingredient amount="1.0 Ounce">Cream Cheese</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Teaspoon">Mus</ingredient><ingredient amount="2.0 Cup">Cheddar</ingredient><ingredient amount="1.0 Cup">Bread Crumbs</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C).
+
+Bring a large pot of lightly salted water to a boil. Add macaroni pasta and cook for 8 to 10 minutes or until al dente; drain.
+
+In a 3 quart saucepan over medium heat, melt butter and stir in flour. Cook for about 1 minute, until smooth and bubbly; stirring occasionally. Mix in milk, cream cheese, salt, pepper, and Dijon mustard. Continue cooking until sauce is thickened. Add cooked macaroni and Cheddar cheese.
+
+Pour into 2 quart casserole dish. In small bowl mix together bread crumbs, butter and parsley; spread over macaroni and cheese. Bake for 15 to 20 minutes or until golden brown and heated through.
+
+
+
+
+</instructions>
+</recipe>

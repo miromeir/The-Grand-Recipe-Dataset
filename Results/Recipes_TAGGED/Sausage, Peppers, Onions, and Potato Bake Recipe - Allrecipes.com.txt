@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Sausage, Peppers, Onions, and Potato Bake Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="2.0 Teaspoon">Olive Oil</ingredient><ingredient amount="2.0 Inch">Ital</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="4.0">Potato</ingredient><ingredient amount="2.0">Bell Pepper</ingredient><ingredient amount="2.0">Bell Pepper</ingredient><ingredient amount="3.0">Onion</ingredient><ingredient amount="0.5 Cup">Chicken</ingredient><ingredient amount="1.0 Teaspoon">Ital</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C).
+
+Heat 2 teaspoons olive oil in a large skillet over medium heat, and cook and stir the sausage until browned. Transfer the cooked sausage to a large baking dish. Pour 1/4 cup of olive oil into the skillet, and cook the potatoes, stirring occasionally, until browned, about 10 minutes. Place the potatoes into the baking dish, leaving some oil. Cook and stir the green and red peppers and onions in the hot skillet until they are beginning to soften, about 5 minutes. Add the vegetables to the baking dish. Pour wine and chicken stock over the vegetables and sausage, and sprinkle with Italian seasoning, salt, and pepper. Gently stir the sausage, potatoes, and vegetables together.
+
+Bake in the preheated oven until hot and bubbling, 20 to 25 minutes. Serve hot.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Rice with Herbes de Provence Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients>
+1 cup white rice
+2 cups chicken stock
+1 1/2 teaspoons herbes de Provence
+1 pinch sea salt
+1 pinch pepper
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a medium saucepan stir together rice, chicken stock, herbes de Provence, salt, and pepper. Set over high heat, and bring to a simmer; cover, and cook 20 minutes. Fluff with a fork, and serve.
+
+
+
+
+</instructions>
+</recipe>

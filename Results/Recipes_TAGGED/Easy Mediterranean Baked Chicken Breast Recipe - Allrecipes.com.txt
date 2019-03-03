@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Easy Mediterranean Baked Chicken Breast Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Chicken</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="1.0">Garlic</ingredient></ingredients>
+<instructions>
+Season chicken breasts with salt and pepper on all sides and place in a bowl or lidded container. Combine olive oil, lemon juice, garlic, oregano, and thyme in a small bowl and pour marinade over chicken breasts. Marinate for 10 minutes at room temperature.
+
+Preheat oven to 400 degrees F (200 degrees C). Set one oven rack about 6 inches from the heat source.
+
+Place chicken breasts into a baking dish and pour marinade on top.
+
+Bake chicken on the middle rack of the preheated oven until no longer pink in the center and the juices run clear, 35 to 45 minutes, depending upon thickness. Move baking dish to the top rack and broil chicken until well browned, about 5 minutes.
+
+
+
+
+</instructions>
+</recipe>

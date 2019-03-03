@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Tilapia Feta Florentine Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="2.0 Teaspoon">Olive Oil</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="2.0 Ounce">Spinach</ingredient><ingredient amount="0.25 Cup">Olive</ingredient><ingredient amount="2.0 Tablespoon">Cheese</ingredient><ingredient amount="0.125 Teaspoon">White Pepper</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="2.0 Teaspoon">Juice</ingredient><ingredient amount="1.0">Paprika</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C).
+
+Heat olive oil in a large skillet over medium heat; cook and stir onion and garlic in the hot oil until onion is soft, about 5 minutes. Add spinach to skillet; cook and stir until spinach is wilted and cooked down, 5 more minutes. Stir olives, feta cheese, lemon rind, salt, oregano, and white pepper into spinach. Cook until feta cheese has melted and flavors have blended, about 5 more minutes.
+
+Spread spinach mixture into a 9x13-inch baking dish. Arrange tilapia fillets over spinach mixture. Mix butter and lemon juice in a small bowl and drizzle over fish; sprinkle with paprika.
+
+Bake fish in the preheated oven until the flesh is opaque and flakes easily, 20 to 25 minutes.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Best Hamburger Ever Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Beef</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="0.5 Cup">Cheddar</ingredient><ingredient amount="1.0 Teaspoon">Soy Sauce</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="1.0 Ounce">Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Garlic</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Preheat a grill for high heat.
+
+In a large bowl, mix together the ground beef, onion, cheese, soy sauce, Worcestershire sauce, egg, onion soup mix, garlic, garlic powder, parsley, basil, oregano, rosemary, salt, and pepper. Form into 4 patties.
+
+Grill patties for 5 minutes per side on the hot grill, or until well done. Serve on buns with your favorite condiments.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Lucy's Quick Tonkatsu Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient><ingredient amount="0.5 Teaspoon">Ginger</ingredient></ingredients>
+<instructions>
+Combine the ketchup, soy sauce, Worcestershire sauce, sherry, sugar, garlic powder, and ginger in a microwave-safe coffee mug or glass measuring cup. Stir well with a fork and microwave on high for 1 minute. Stir again and set aside.
+
+Let stand for 1 hour to allow the flavors to incorporate.
+
+
+
+
+</instructions>
+</recipe>

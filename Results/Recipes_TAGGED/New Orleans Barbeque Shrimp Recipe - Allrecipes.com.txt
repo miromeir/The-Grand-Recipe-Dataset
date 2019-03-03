@@ -1,0 +1,18 @@
+<recipe>
+<title>
+New Orleans Barbeque Shrimp Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Onion Powder</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.3333333333333333 Teaspoon">Paprika</ingredient><ingredient amount="0.5 Cup">Butter</ingredient><ingredient amount="4.0">Garlic</ingredient></ingredients>
+<instructions>
+In a small bowl, stir together the garlic powder, onion powder, basil, thyme, rosemary, cayenne pepper and paprika. Set aside.
+
+Melt the butter in a large skillet over medium heat. Add garlic; cook and stir until fragrant, about 1 minute. Add the shrimp and cook for a couple of minutes. Season with the spice mixture and continue to cook and stir for a few minutes. Pour in the beer and Worcestershire sauce; simmer until shrimp is cooked through, about 1 more minute. Taste and season with salt before serving.
+
+
+
+
+</instructions>
+</recipe>

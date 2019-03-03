@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Grilled Peanut Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Peanut Butter</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient><ingredient amount="2.0 Teaspoon">Soy Sauce</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.3333333333333333 Teaspoon">Curry Powder</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="4.0">Chicken</ingredient></ingredients>
+<instructions>
+Preheat grill for high heat.
+
+In a bowl, mix the peanut butter, lime juice, soy sauce, garlic, curry powder, and cayenne pepper.
+
+Lightly oil the grill grate. Place chicken on grate, and brush with 1/2 the sauce. Grill 6 to 8 minutes. Turn chicken, and brush with remaining sauce. Continue grilling 6 to 8 minutes, until chicken juices run clear.
+
+
+
+
+</instructions>
+</recipe>

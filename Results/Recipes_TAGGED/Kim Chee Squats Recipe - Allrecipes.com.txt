@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Kim Chee Squats Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="2.0 Pound">Cabbage</ingredient><ingredient amount="2.0 Tablespoon">Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Chili Powder</ingredient><ingredient amount="2.0 Teaspoon">Ginger</ingredient><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="2.0 Teaspoon">Sugar</ingredient><ingredient amount="1.0">Sesame Oil</ingredient></ingredients>
+<instructions>
+Place the cabbage into a large dish, and sprinkle with salt. Let stand for 3 to 4 hours. The cabbage will wilt.
+
+After the cabbage has been sitting, massage it with your hands until it is even softer. Drain off the liquid. Mix in the green onion, garlic, chili powder, ginger, soy sauce, vinegar, and sugar. Transfer to a large glass jar, and refrigerate for 24 hours before using. This will keep for about a week in the refrigerator. Sprinkle with sesame oil before serving.
+
+
+
+
+</instructions>
+</recipe>

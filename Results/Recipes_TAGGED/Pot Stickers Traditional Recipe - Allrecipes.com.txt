@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Pot Stickers Traditional Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="0.5 Pound">Pork</ingredient><ingredient amount="0.5">Cabbage</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Ginger</ingredient><ingredient amount="2.0">Chestnut</ingredient><ingredient amount="0.5 Teaspoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0 Ounce">Wonton</ingredient><ingredient amount="5.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Teaspoon">Rice</ingredient></ingredients>
+<instructions>
+Crumble pork into a large, deep skillet. Cook over medium high heat until evenly brown. Drain and set aside.
+
+In a medium bowl, mix together the pork, cabbage, green onion, ginger, water chestnuts, salt, sugar and sesame oil. Chill in the refrigerator 6 to 8 hours, or overnight.
+
+Place a tablespoon of the pork mixture into each of the wonton wrappers. Fold the wrappers, and seal the edges with a moistened fork.
+
+In a large, deep skillet, heat 3 tablespoons vegetable oil over medium high heat. Place the pot stickers into the oil seam sides up. Heat 30 seconds to a minute. Pour water into the skillet. Gently boil 7 to 8 minutes, until oil and water begins to sizzle, then add remaining oil. When the bottoms begin to brown, remove pot stickers from heat.
+
+In a small serving bowl, mix together the chili oil, soy sauce, and vinegar, adjusting proportions to taste.
+
+
+
+
+</instructions>
+</recipe>

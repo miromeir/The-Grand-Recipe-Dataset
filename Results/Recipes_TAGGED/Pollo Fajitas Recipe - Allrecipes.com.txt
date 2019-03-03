@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Pollo Fajitas Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Teaspoon">Chili Powder</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="0.5">Juice</ingredient></ingredients>
+<instructions>
+In a medium bowl, combine Worcestershire sauce, vinegar, soy sauce, chili powder, garlic and hot pepper sauce. Place chicken in sauce, and turn once to coat. Marinate for 30 minutes at room temperature, or cover and refrigerate for several hours.
+
+Heat oil in a large skillet over high heat. Add chicken strips to the pan, and saute for 5 minutes. Add the onion and green pepper, and saute another 3 minutes. Remove from heat, and sprinkle with lemon juice.
+
+
+
+
+</instructions>
+</recipe>

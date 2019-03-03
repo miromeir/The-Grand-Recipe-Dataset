@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Thai Peanut Butter Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.6666666666666666 Cup">Peanut Butter</ingredient><ingredient amount="0.3333333333333333 Cup">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Combine all ingredients in a large bowl and stir well. Transfer to a serving bowl and spoon over seafood of your choosing.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,23 @@
+<recipe>
+<title>
+Sticky Nut Recipe
+</title>
+<details>
+AUTHOR: I Heart Eating
+PREP TIME: 5 minutes
+COOK TIME: 11 minutes
+TOTAL TIME: 16 minutes
+COURSE: Dessert
+CUISINE: American
+KEYWORD: nuts
+SERVINGS: 12 servings
+</details>
+<ingredients><ingredient amount="0.25">Butter</ingredient></ingredients>
+<instructions>
+Add all of the ingredients except the nuts to a heavy saucepan.
+Heat over medium heat until boiling.
+Stir to combine.
+Add nuts, and continue cooking for 1 more minute.
+Let cool before using. The syrup will thicken as it cools.
+</instructions>
+<cuisine>American</cuisine></recipe>

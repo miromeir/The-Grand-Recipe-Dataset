@@ -1,0 +1,34 @@
+<recipe>
+<title>
+Moroccan Cooked Pepper Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients>
+2 green bell peppers
+3 tablespoons olive oil
+4 fresh tomatoes, peeled and chopped
+2 teaspoons sugar
+1 1/2 teaspoons paprika
+1 teaspoon fresh parsley
+1/2 teaspoon cumin
+1/2 teaspoon salt
+1/4 teaspoon garlic powder
+ground black pepper to taste
+1 (2.25 ounce) can sliced green olives
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Preheat the oven broiler.
+
+Place the green bell peppers on a baking sheet, and broil, turning occasionally, 5 minutes, or until tender and scorched on all sides. Remove from heat, peel, and chop.
+
+Heat the olive oil in a skillet, and mix in the peppers and tomatoes. Stir in sugar. Season with paprika, parsley, cumin, salt, garlic powder, and pepper. Continue cooking until tomatoes are heated through. Serve topped with olives.
+
+
+
+
+</instructions>
+</recipe>

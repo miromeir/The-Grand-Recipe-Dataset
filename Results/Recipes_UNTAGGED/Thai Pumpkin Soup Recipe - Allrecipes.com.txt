@@ -1,0 +1,31 @@
+<recipe>
+<title>
+Thai Pumpkin Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients>
+1 tablespoon vegetable oil
+1 tablespoon butter
+1 clove garlic, chopped
+4 shallots, chopped
+2 small fresh red chili peppers, chopped
+1 tablespoon chopped lemon grass
+2 1/8 cups chicken stock
+4 cups peeled and diced pumpkin
+1 1/2 cups unsweetened coconut milk
+1 bunch fresh basil leaves
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a medium saucepan, heat oil and butter over low heat. Cook garlic, shallots, chilies, and lemongrass in oil until fragrant (be careful not to burn the garlic). Stir in chicken stock, coconut milk, and pumpkin; bring to a boil. Cook until pumpkin softens.
+
+In a blender, blend the soup in batches to a smooth or slightly chunky consistency, whatever you prefer. Serve with basil leaves.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Make-Ahead Moroccan Lamb Stew Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Teaspoon">Cinnamon</ingredient><ingredient amount="0.5 Teaspoon">Ginger</ingredient><ingredient amount="0.25 Teaspoon">Clove</ingredient><ingredient amount="0.25 Teaspoon">Nutmeg</ingredient><ingredient amount="0.25 Teaspoon">Tu</ingredient><ingredient amount="0.125 Teaspoon">Curry Powder</ingredient><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Ounce">Broth</ingredient><ingredient amount="1.0 Ounce">Chicken</ingredient><ingredient amount="2.0 Ounce">Beef</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Tablespoon">Honey</ingredient><ingredient amount="3.0">Carrot</ingredient><ingredient amount="2.0">Sweet Potato</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="0.5 Cup">Apricot</ingredient><ingredient amount="1.0 Cup">Lentil</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Combine cinnamon, cumin, ginger, cloves, nutmeg, turmeric, curry powder, and salt in a large bowl. Mix in the ground lamb. For most flavorful results, allow mixture to rest, refrigerated, overnight.
+
+Melt butter in a large pot over medium heat. Cook the onion in the butter until soft and just beginning to brown, 5 to 10 minutes. Mix the spiced lamb mixture to the onions. Cook and stir until meat is browned, about 5 minutes.
+
+Pour the beef broth, chicken broth, and consomme into the pot. Stir in the tomatoes, honey, carrots, sweet potatoes, garbanzo beans, dried apricots and lentils. Bring to boil; reduce heat to low.
+
+Simmer stew for 30 minutes or until the vegetables and lentils are cooked and tender. Season with black pepper to taste.
+
+
+
+
+</instructions>
+</recipe>

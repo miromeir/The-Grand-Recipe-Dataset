@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Garlic and Herb Marinade Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="0.3333333333333333 Cup">Vegetable Oil</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Ital</ingredient><ingredient amount="1.0 Teaspoon">Poultry</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a medium bowl, combine the water, vinegar, oil, garlic, thyme, Italian-style seasoning, poultry seasoning, rosemary, salt and ground black pepper. Mix well and apply to your favorite meat.
+
+
+
+
+</instructions>
+</recipe>

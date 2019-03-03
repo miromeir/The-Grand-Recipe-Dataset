@@ -1,0 +1,25 @@
+<recipe>
+<title>
+Japanese Soup with Tofu and Mushrooms Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients>
+3 cups prepared dashi stock
+1/4 cup sliced shiitake mushrooms
+1 tablespoon miso paste
+1 tablespoon soy sauce
+1/8 cup cubed soft tofu
+1 green onion, chopped
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a medium saucepan, bring stock to a boil; reduce heat to simmer, add mushrooms, and cook for 3 minutes. In a small bowl, mix miso paste and soy sauce together; stir into stock along with tofu. Simmer 5 minutes, and serve topped with with green onion.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,22 @@
+<recipe>
+<title>
+The Real Deal Korean Beef Ribs Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="4.0 Inch">Short Ribs</ingredient><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="0.5 Cup">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Honey</ingredient><ingredient amount="2.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="2.0 Tablespoon">Pepper</ingredient><ingredient amount="1.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0 Tablespoon">Plum</ingredient></ingredients>
+<instructions>
+Wash the ribs, removing any stray bits of bone, and allow to drain for 30 minutes.
+
+Whisk together the soy sauce, sugar, honey, garlic, pepper, water, sesame oil, and plum wine until the sugar has dissolved; pour the mixture into a 1 gallon plastic zipper bag. Place the ribs into the marinade, squeeze all the air out of the bag, zip it up, and refrigerate at least 24 hours.
+
+The next day, remove the ribs from the refrigerator and allow to come to room temperature before grilling. Remove the ribs from the marinade and discard the marinade.
+
+Preheat an outdoor grill for medium-high heat, and lightly oil the grate. Grill the ribs until browned and no longer pink inside, 4 to 6 minutes per side.
+
+
+
+
+</instructions>
+</recipe>

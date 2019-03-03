@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Magpie's Easy Falafel Cakes Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="0.5">Onion</ingredient><ingredient amount="1.0 Teaspoon">Olive Oil</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="0.3333333333333333 Cup">Cream</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="0.75 Teaspoon">Hot Sauce</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient></ingredients>
+<instructions>
+Cook the onions in 1 1/2 teaspoons of olive oil in a skillet over medium heat until soft and translucent.
+
+Pulse the garbanzo beans, imitation sour cream, cornmeal, garlic, cumin, coriander, salt, and hot sauce in a food processor until smooth. Transfer to a bowl and stir in the onions; cover and chill for 30 minutes.
+
+Place 1/4 cup cornmeal in a shallow dish. Form the garbanzo bean dough into 6 patties, 1/2-inch thick; roll the cakes in cornmeal.
+
+Heat 2 tablespoons of olive oil in a large skillet over medium heat. Cook the falafel cakes until browned on both sides, about 5 minutes per side.
+
+
+
+
+</instructions>
+</recipe>

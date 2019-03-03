@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Japanese Okonomiyaki Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="4.0">Egg</ingredient><ingredient amount="3.0 Cup">Flour</ingredient><ingredient amount="1.0">Cabbage</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient></ingredients>
+<instructions>
+Fry the bacon in a large skillet over medium heat until slightly crispy. Remove to paper towels to drain and set aside.
+
+In a large bowl, stir together the water and eggs. Gradually stir in the flour and salt until smooth. Add the cabbage and ginger; stir until evenly distributed.
+
+Heat a skillet over medium heat and coat with cooking spray. Pour about 1/4 of the batter into the center of the skillet. Place 4 slices of cooked bacon in the center. Use a spatula to shape the pancake into a circle. Fry for about 5 minutes or until the edges are dry. Flip and cook on the other side until the center is stable and it is browned on both sides. Remove from the pan and drizzle with tonkatsu sauce to serve. Continue with remaining batter and bacon.
+
+
+
+
+</instructions>
+</recipe>

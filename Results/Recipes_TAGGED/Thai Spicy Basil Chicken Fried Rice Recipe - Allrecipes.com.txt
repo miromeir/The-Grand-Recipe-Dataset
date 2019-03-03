@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Thai Spicy Basil Chicken Fried Rice Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Oyster Sauce</ingredient><ingredient amount="2.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="0.5 Cup">Pea</ingredient><ingredient amount="4.0 Cup">Rice</ingredient><ingredient amount="6.0">Garlic Clove</ingredient><ingredient amount="2.0">Pepper</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Cucumber</ingredient></ingredients>
+<instructions>
+Whisk together the oyster sauce, fish sauce, and sugar in a bowl.
+
+Heat the oil in a wok over medium-high heat until the oil begins to smoke. Add the garlic and serrano peppers, stirring quickly. Stir in the chicken, bell pepper, onion and oyster sauce mixture; cook until the chicken is no longer pink. Raise heat to high and stir in the chilled rice; stir quickly until the sauce is blended with the rice. Use the back of a spoon to break up any rice sticking together.
+
+Remove from heat and mix in the basil leaves. Garnish with sliced cucumber and cilantro as desired.
+
+
+
+
+</instructions>
+</recipe>

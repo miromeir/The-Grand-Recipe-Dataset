@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Garlic Dill New Potatoes Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients>
+8 medium red potatoes, cubed
+3 tablespoons butter, melted
+1 tablespoon chopped fresh dill
+2 teaspoons minced garlic
+1/4 teaspoon salt
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Place the potatoes in a steamer basket, and set in a pan over an inch of boiling water. Cover, and steam for about 10 minutes, until potatoes are tender but not mushy.
+
+In a small bowl, stir together the butter, dill, garlic, and salt. Transfer the potatoes to a serving bowl, and pour the seasoned butter over them. Toss gently until they are well-coated.
+
+
+
+
+</instructions>
+</recipe>

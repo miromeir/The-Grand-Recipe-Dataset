@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Spicy Thai Vegetable Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Rice</ingredient><ingredient amount="3.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="0.25 Cup">Ginger</ingredient><ingredient amount="1.0 Cup">Carrot</ingredient><ingredient amount="4.0 Cup">Broccoli</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0 Ounce">Coconut Milk</ingredient><ingredient amount="6.0 Cup">Vegetable</ingredient><ingredient amount="3.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="3.0">Pepper</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient><ingredient amount="0.75 Cup">Yogurt</ingredient><ingredient amount="">Garnish</ingredient></ingredients>
+<instructions>
+Bring the rice and water to a boil in a pot. Cover, reduce heat to low, and simmer 45 minutes.
+
+Heat the olive oil in a large pot over medium heat, and cook the onion, garlic, ginger, and carrots 5 minutes, until tender. Mix in broccoli, red bell pepper, coconut milk, broth, wine, fish sauce, soy sauce, Thai chile peppers, lemon grass, garlic sauce, and saffron. Simmer 25 minutes.
+
+Pour soup in batches into a blender or food processor, and blend until smooth and creamy. Return to the pot, and mix in yogurt and cooked rice. Top with cilantro to serve.
+
+
+
+
+</instructions>
+</recipe>

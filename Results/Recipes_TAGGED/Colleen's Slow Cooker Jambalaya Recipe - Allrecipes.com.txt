@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Colleen's Slow Cooker Jambalaya Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="1.0 Inch">Chicken</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0 Cup">Celery</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a slow cooker, mix the chicken, sausage, tomatoes with juice, onion, green bell pepper, celery, and broth. Season with oregano, parsley, Cajun seasoning, cayenne pepper, and thyme.
+
+Cover, and cook 7 to 8 hours on Low, or 3 to 4 hours on High. Stir in the shrimp during the last 30 minutes of cook time.
+
+
+
+
+</instructions>
+</recipe>

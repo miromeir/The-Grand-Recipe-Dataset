@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Garlic Aioli Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="0.75 Cup">Mayonnaise</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Mix mayonnaise, garlic, lemon juice, salt, and pepper in a bowl. Cover and refrigerate for at least 30 minutes before serving.
+
+
+
+
+</instructions>
+</recipe>

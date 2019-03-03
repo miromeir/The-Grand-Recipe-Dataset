@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Slow Cooker Mongolian Beef Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Steak</ingredient><ingredient amount="2.0 Teaspoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="3.0 Inch">Onion</ingredient><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="0.5 Cup">Sugar</ingredient><ingredient amount="0.5 Teaspoon">Ginger</ingredient><ingredient amount="0.5 Cup">Hoisin Sauce</ingredient></ingredients>
+<instructions>
+Place flank steak and cornstarch into a resealable plastic bag. Shake the bag to evenly coat the flank steak with the cornstarch. Allow to steak rest for 10 minutes.
+
+Heat olive oil in a large skillet over medium-high heat. Cook and stir steak until evenly browned, 2 to 4 minutes. Place onion, garlic, flank steak, green onions, soy sauce, water, brown sugar, ginger, and hoisin sauce in a slow cooker. Cook on Low setting for about 4 hours.
+
+
+
+
+</instructions>
+</recipe>

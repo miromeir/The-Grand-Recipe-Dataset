@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Apple Pork Chops Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="4.0 Inch">Pork</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0">Apple</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="0.5 Teaspoon">Mus</ingredient><ingredient amount="0.125 Teaspoon">Clove</ingredient></ingredients>
+<instructions>
+Preheat oven to 375 degrees F (190 degrees C).
+
+Heat oil in large skillet. Saute onion in oil for 1 minute, or until tender. Remove onion and set aside. Brown pork chops on both sides in oil.
+
+Place chops in an 8x12 inch baking dish and sprinkle them with salt and pepper. Cover the chops with the apples and cooked onion.
+
+In a small bowl, combine brown sugar, mustard, cloves and water. Pour over chops. Cover and bake in the preheated oven for 30 to 45 minutes. Enjoy!
+
+
+
+
+</instructions>
+</recipe>

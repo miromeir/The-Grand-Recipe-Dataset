@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Pizza Dough I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="3.0 Cup">Flour</ingredient><ingredient amount="1.0 Ounce">Yeast</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Cup">Warm Water</ingredient></ingredients>
+<instructions>
+Combine flour, salt, sugar, and yeast in a large bowl. Mix in oil and warm water. Spread out on a large pizza pan. Top as desired.
+
+Bake at 375 degrees C (190 degrees C) for 20 to 25 minutes.
+
+
+
+
+</instructions>
+</recipe>

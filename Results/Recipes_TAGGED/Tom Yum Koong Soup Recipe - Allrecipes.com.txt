@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Tom Yum Koong Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="12.0">Mush</ingredient><ingredient amount="1.0 Ounce">Mush</ingredient><ingredient amount="4.0">Lime</ingredient><ingredient amount="1.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="1.0">Juice</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Paste</ingredient><ingredient amount="1.0 Tablespoon">Paste</ingredient></ingredients>
+<instructions>
+Trim lemongrass and cut into matchstick size pieces.
+
+To make stock: Add the shrimp heads and shells to water, then cook for 20 minutes. Turn the fire off. Soak the heads and shells for further 20 minutes before discarding.
+
+Trim lemongrass and cut into matchstick size pieces.
+
+Add stock, lemon grass, kaffir lime leaves, galangal, chili padi, fish sauce, lime juice, sugar, and chili paste to a pot and bring to a boil. After boiling for 5 minutes, add shrimps and both mushrooms. Cook for further 10 minutes. Garnish with coriander leaves.
+
+
+
+
+</instructions>
+</recipe>

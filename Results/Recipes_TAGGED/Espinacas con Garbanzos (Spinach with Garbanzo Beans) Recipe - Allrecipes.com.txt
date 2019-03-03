@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Espinacas con Garbanzos (Spinach with Garbanzo Beans) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="1.0 Ounce">Spinach</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient></ingredients>
+<instructions>
+Heat the olive oil in a skillet over medium-low heat. Cook the garlic and onion in the oil until translucent, about 5 minutes. Stir in the spinach, garbanzo beans, cumin, and salt. Use your stirring spoon to lightly mash the beans as the mixture cooks. Allow to cook until thoroughly heated.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,72 @@
+<recipe>
+<title>
+Extra Easy Hummus Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients>
+1 (15 ounce) can garbanzo beans, drained, liquid reserved
+1 clove garlic, crushed
+2 teaspoons ground cumin
+1/2 teaspoon salt
+1 tablespoon olive oil
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a blender or food processor combine garbanzo beans, garlic, cumin, salt and olive oil. Blend on low speed, gradually adding reserved bean liquid, until desired consistency is achieved.
+
+
+
+
+</instructions>
+</recipe>
+<recipe>
+<title>
+Extra Easy Hummus Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients>
+1 (15 ounce) can garbanzo beans, drained, liquid reserved
+1 clove garlic, crushed
+2 teaspoons ground cumin
+1/2 teaspoon salt
+1 tablespoon olive oil
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a blender or food processor combine garbanzo beans, garlic, cumin, salt and olive oil. Blend on low speed, gradually adding reserved bean liquid, until desired consistency is achieved.
+
+
+
+
+</instructions>
+</recipe>
+<recipe>
+<title>
+Extra Easy Hummus Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients>
+1 (15 ounce) can garbanzo beans, drained, liquid reserved
+1 clove garlic, crushed
+2 teaspoons ground cumin
+1/2 teaspoon salt
+1 tablespoon olive oil
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a blender or food processor combine garbanzo beans, garlic, cumin, salt and olive oil. Blend on low speed, gradually adding reserved bean liquid, until desired consistency is achieved.
+
+
+
+
+</instructions>
+</recipe>

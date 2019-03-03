@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Soondubu Jjigae (Korean Soft Tofu Stew) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="0.5 Teaspoon">Vegetable Oil</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Pound">Beef</ingredient><ingredient amount="21.0 Ounce">Tofu</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="3.0">Onion</ingredient></ingredients>
+<instructions>
+Place a clay pot over medium-high heat. Add garlic, oil, and red pepper power; cook and stir until fragrant, about 2 minutes. Stir in ground beef; cook until browned, 3 to 5 minutes.
+
+Scoop tofu into the pot using a spoon. Add water, salt, and pepper. Bring to a boil; reduce heat and simmer for 5 minutes.
+
+Crack egg into the center of the pot. Sprinkle green onions over the soup. Simmer until egg starts to set, about 3 minutes.
+
+
+
+
+</instructions>
+</recipe>

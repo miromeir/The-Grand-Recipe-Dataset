@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Lola's Horchata Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Grain</ingredient><ingredient amount="0.5 Cup">Milk</ingredient><ingredient amount="0.5 Tablespoon">Cinnamon</ingredient><ingredient amount="0.6666666666666666 Cup">Sugar</ingredient></ingredients>
+<instructions>
+Pour the rice and water into the bowl of a blender; blend until the rice just begins to break up, about 1 minute. Let rice and water stand at room temperature for a minimum of 3 hours.
+
+Strain the rice water into a pitcher and discard the rice. Stir the milk, vanilla, cinnamon, and sugar into the rice water. Chill and stir before serving over ice.
+
+
+
+
+</instructions>
+</recipe>

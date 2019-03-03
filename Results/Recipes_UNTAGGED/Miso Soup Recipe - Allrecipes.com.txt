@@ -1,0 +1,48 @@
+<recipe>
+<title>
+Miso Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients>
+2 teaspoons dashi granules
+4 cups water
+3 tablespoons miso paste
+1 (8 ounce) package silken tofu, diced
+2 green onions, sliced diagonally into 1/2 inch pieces
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a medium saucepan over medium-high heat, combine dashi granules and water; bring to a boil. Reduce heat to medium, and whisk in the miso paste. Stir in tofu. Separate the layers of the green onions, and add them to the soup. Simmer gently for 2 to 3 minutes before serving.
+
+
+
+
+</instructions>
+</recipe>
+<recipe>
+<title>
+Miso Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients>
+2 teaspoons dashi granules
+4 cups water
+3 tablespoons miso paste
+1 (8 ounce) package silken tofu, diced
+2 green onions, sliced diagonally into 1/2 inch pieces
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a medium saucepan over medium-high heat, combine dashi granules and water; bring to a boil. Reduce heat to medium, and whisk in the miso paste. Stir in tofu. Separate the layers of the green onions, and add them to the soup. Simmer gently for 2 to 3 minutes before serving.
+
+
+
+
+</instructions>
+</recipe>

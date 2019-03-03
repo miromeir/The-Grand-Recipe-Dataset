@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Indian Peanut Stew Recipe - Allrecipes.com
+</title>
+<cuisine>
+Indian
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Rice</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="3.0 Tablespoon">Ginger</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Cup">Peanut Butter</ingredient></ingredients>
+<instructions>
+Place rice and water in a large saucepan and bring to a boil. Cover, and reduce heat to low. Simmer until rice is tender and water has absorbed, about 30 minutes.
+
+Heat olive oil in a large saucepan over medium-low heat. Add onion, and cook until soft and golden, stirring frequently. Add garlic and ginger, and cook until fragrant, about 5 minutes. Stir in tomatoes, and season with cayenne pepper. Increase heat to medium, and bring to a gentle simmer. Stir in peanut butter and heat through. The mixture will thicken. Serve over rice.
+
+
+
+
+</instructions>
+</recipe>

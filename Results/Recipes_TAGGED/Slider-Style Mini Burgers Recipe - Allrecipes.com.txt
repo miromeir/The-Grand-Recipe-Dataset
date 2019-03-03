@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Slider-Style Mini Burgers Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="2.0 Pound">Beef</ingredient><ingredient amount="1.0 Ounce">Onion</ingredient><ingredient amount="0.5 Cup">Mayonnaise</ingredient><ingredient amount="2.0 Cup">Cheddar</ingredient></ingredients>
+<instructions>
+Preheat an oven to 350 degrees F (175 degrees C). Cover a baking sheet with aluminum foil and spray with cooking spray.
+
+Mix together the ground beef and onion soup mix in a large skillet; cook and stir over medium-high heat until the beef is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease. Remove from heat. Stir the mayonnaise and Cheddar cheese into the ground beef mixture.
+
+Lay the bottoms of the dinner rolls on the prepared baking sheet. Spread the cheese and beef mixture on the bottom half of each roll. Replace the tops. Cover with another sheet of aluminum foil sprayed with cooking spray.
+
+Bake in the preheated oven until the burgers are heated through and cheese melts, about 30 minutes. Serve with sliced pickles.
+
+
+
+
+</instructions>
+</recipe>

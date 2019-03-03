@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Chicken Costa Brava Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Pineapple</ingredient><ingredient amount="10.0">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Teaspoon">Cinnamon</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0 Quart">Onion</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="2.0 Cup">Olive</ingredient><ingredient amount="1.0">Bell Pepper</ingredient></ingredients>
+<instructions>
+Drain pineapple, reserving juice. Sprinkle with salt.
+
+In a large frying pan, brown chicken in oil. Combine cumin and cinnamon, and sprinkle over chicken. Add garlic and onion; cook until onion is soft. Add reserved pineapple juice, tomatoes, olives, and salsa. Cover, and simmer 25 minutes.
+
+Mix cornstarch with water; stir into pan juices. Add bell pepper, and simmer until sauce boils and thickens. Stir in pineapple chunks, and heat through.
+
+
+
+
+</instructions>
+</recipe>

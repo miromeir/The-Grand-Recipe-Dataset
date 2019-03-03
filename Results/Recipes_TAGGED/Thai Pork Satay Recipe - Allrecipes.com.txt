@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Thai Pork Satay Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Peanut Butter</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Pound">Pork Tenderloin</ingredient><ingredient amount="1.0 Ounce">Chestnut</ingredient><ingredient amount="1.0 Inch">Bell Pepper</ingredient><ingredient amount="1.0 Inch">Bell Pepper</ingredient><ingredient amount="1.0">Onion</ingredient></ingredients>
+<instructions>
+In a medium bowl, mix peanut butter, green onions, soy sauce, lemon juice, brown sugar, garlic, coriander, and cayenne pepper; add pork, and stir to coat. Cover, and marinate in the refrigerator at least 30 minutes.
+
+Preheat grill for high heat. Thread marinated pork, water chestnuts, green bell pepper, red bell pepper, and sweet onion alternately onto skewers. Transfer remaining marinade to a small saucepan, bring to a boil, and cook for several minutes.
+
+Lightly oil grate. Cook skewers for 10 minutes, or to desired doneness. Turn skewers while grilling to cook evenly, and brush with boiled marinade during last few minutes.
+
+
+
+
+</instructions>
+</recipe>

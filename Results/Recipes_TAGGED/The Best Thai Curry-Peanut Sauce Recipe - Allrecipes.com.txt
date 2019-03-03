@@ -1,0 +1,16 @@
+<recipe>
+<title>
+The Best Thai Curry-Peanut Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="2.0 Tablespoon">Paste</ingredient><ingredient amount="1.0 Cup">Peanut Butter</ingredient><ingredient amount="0.75 Cup">Sugar</ingredient><ingredient amount="0.5 Teaspoon">Chili Powder</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Tablespoon">Fish Sauce</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="3.0 Ounce">Coconut Milk</ingredient></ingredients>
+<instructions>
+Heat the oil in a large skillet over medium heat. Stir in the garlic, and cook until the aroma of the garlic has mellowed, about 1 minute. Add the red curry paste, and stir for 1 minute more. Whisk in the peanut butter, brown sugar, chili powder, cayenne pepper, fish sauce, sesame oil, and coconut milk. Bring to a simmer, whisking occasionally, until the sauce has thickened and is smooth.
+
+
+
+
+</instructions>
+</recipe>

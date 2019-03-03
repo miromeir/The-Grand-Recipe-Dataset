@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Black Bean and Couscous Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Couscous</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="3.0 Tablespoon">Olive Oil</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="8.0">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Bring chicken broth to a boil in a 2 quart or larger sauce pan and stir in the couscous. Cover the pot and remove from heat. Let stand for 5 minutes.
+
+In a large bowl, whisk together the olive oil, lime juice, vinegar and cumin. Add green onions, red pepper, cilantro, corn and beans and toss to coat.
+
+Fluff the couscous well, breaking up any chunks. Add to the bowl with the vegetables and mix well. Season with salt and pepper to taste and serve at once or refrigerate until ready to serve.
+
+
+
+
+</instructions>
+</recipe>

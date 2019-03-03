@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Red Garlic Mashed Potatoes Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="8.0">Potato</ingredient><ingredient amount="2.0 Teaspoon">Garlic</ingredient><ingredient amount="0.5 Cup">Butter</ingredient><ingredient amount="0.25 Cup">Cream</ingredient><ingredient amount="0.25 Teaspoon">Steak</ingredient><ingredient amount="0.25 Teaspoon">Garlic</ingredient><ingredient amount="0.125 Teaspoon">Sugar</ingredient></ingredients>
+<instructions>
+Place the potatoes into a large pot, and fill with enough water to cover. Add 1 teaspoon of the crushed garlic to the water for flavor. Bring to a boil, and cook for about 10 minutes, or until easily pierced with a fork.
+
+Drain the potatoes, and add the butter. Mash until the butter is melted. Mix in the half-and-half, steak seasoning, garlic powder, sugar, and remaining garlic. Mix potatoes with an electric mixer until smooth.
+
+
+
+
+</instructions>
+</recipe>

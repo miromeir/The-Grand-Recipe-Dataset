@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Mediterranean Kale Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="12.0 Cup">Kale</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="1.0 Teaspoon">Soy Sauce</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Place a steamer insert into a saucepan, and fill with water to just below the bottom of the steamer. Cover, and bring the water to a boil over high heat. Add the kale, recover, and steam until just tender, 7 to 10 minutes depending on thickness.
+
+Whisk together the lemon juice, olive oil, garlic, soy sauce, salt, and black pepper in a large bowl. Toss steamed kale into dressing until well coated.
+
+
+
+
+</instructions>
+</recipe>

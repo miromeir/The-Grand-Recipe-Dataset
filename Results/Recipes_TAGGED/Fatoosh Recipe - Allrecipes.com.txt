@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Fatoosh Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="2.0">Onion</ingredient><ingredient amount="1.0">Cucumber</ingredient><ingredient amount="3.0">Tomato</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+Toast pitas 5 to 10 minutes in the preheated oven, until crisp. Remove from heat, and break into bite size pieces.
+
+In a large bowl, toss together toasted pita pieces, romaine lettuce, green onions, cucumber, and tomatoes.
+
+In a small bowl, mix the parsley, garlic, sumac powder, lemon juice, olive oil, salt, pepper, and mint. Pour over the pita mixture, and toss just before serving.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Andalusian Gazpacho Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0">Cucumber</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="5.0">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="3.0">Tomato</ingredient><ingredient amount="2.0">Celery</ingredient><ingredient amount="2.0 Cup">Bean</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Fluid ounce">Tomato Juice</ingredient></ingredients>
+<instructions>
+In a 4-quart serving bowl or soup tureen, combine cucumber, bell pepper, green onion, garlic, tomatoes, celery, navy beans, olive oil, vinegar and tomato juice Season with cumin, parsley, basil, oregano and salt. Adjust spices and seasonings to taste. Chill in refrigerator at least 4 hours before serving cold.
+
+
+
+
+</instructions>
+</recipe>

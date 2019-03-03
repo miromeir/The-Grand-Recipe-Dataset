@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Pollo (Chicken) Fricassee from Puerto Rico Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Adobo</ingredient><ingredient amount="5.0">Potato</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="5.0">Garlic</ingredient><ingredient amount="1.0">Bun</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient></ingredients>
+<instructions>
+Wash the chicken and pat dry; place into a large bowl. Season with adobo seasoning, sazon seasoning, and salt. Place the legs into a slow cooker, and cover with the potato slices.
+
+Puree the red pepper, green pepper, onion, garlic, cilantro, olive oil, wine, cumin, and oregano in a blender. Pour over the chicken and add the bay leaves.
+
+Cook on Low for 6 to 8 hours, until the chicken is easily removed from the bone.
+
+
+
+
+</instructions>
+</recipe>

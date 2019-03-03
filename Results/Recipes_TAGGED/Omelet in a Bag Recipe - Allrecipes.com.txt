@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Omelet in a Bag Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="2.0">Egg</ingredient><ingredient amount="2.0">Ham</ingredient><ingredient amount="0.5 Cup">Cheddar</ingredient><ingredient amount="1.0 Tablespoon">Onion</ingredient><ingredient amount="1.0 Tablespoon">Bell Pepper</ingredient><ingredient amount="2.0 Tablespoon">Tomato</ingredient><ingredient amount="2.0">Mush</ingredient></ingredients>
+<instructions>
+Crack the eggs into a large resealable freezer bag. Press out most of the air, and seal. Shake or squeeze to beat the eggs. Open the bag, and add the ham, cheese, onion, green pepper, tomato, salsa, and mushrooms. Squeeze out as much of the air as you can, and seal the bag.
+
+Bring a large pot of water to a boil. Place up to 8 bags at a time into the boiling water. Cook for exactly 13 minutes. Open the bag, and let the omelet roll out onto a plate. The omelet should roll out easily.
+
+
+
+
+</instructions>
+</recipe>

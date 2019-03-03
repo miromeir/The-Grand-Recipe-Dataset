@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Vegetarian Phad Thai Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Rice</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="4.0">Egg</ingredient><ingredient amount="2.0 Tablespoon">Pea</ingredient><ingredient amount="1.0 Cup">Peanut Butter</ingredient><ingredient amount="0.3333333333333333 Cup">Soy Sauce</ingredient><ingredient amount="1.0 Cup">Milk</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="0.3333333333333333 Cup">Juice</ingredient><ingredient amount="2.0 Tablespoon">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Paprika</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Pound">Bean Sprout</ingredient><ingredient amount="1.0 Cup">Carrot</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="0.5 Cup">Pea</ingredient><ingredient amount="1.0">Lime</ingredient></ingredients>
+<instructions>
+Submerge the rice noodles in a large bowl of hot water for about an hour.
+
+Pour 1/2 tablespoon of oil into a large skillet, and add eggs. Scramble into medium-sized pieces, and transfer to plate. Set aside.
+
+In a saucepan, mix together peanut oil, peanut butter, water, soy sauce, milk, brown sugar, and lemon juice. Season with garlic powder and paprika. Heat until sauce is smooth. Season liberally with cayenne pepper.
+
+Drain noodles; noodles should be very flexible, but still relatively firm. Heat remaining 1 1/2 tablespoons vegetable oil in a large saucepan or wok. Cook noodles in oil, stirring constantly, until they are tender, about 2 minutes. Stir in peanut sauce, sprouts, carrots, scallions, ground peanuts, and the scrambled eggs. Continue to cook over low heat until vegetables are crisp-tender, about 5 minutes. Serve immediately, garnished with lime wedges.
+
+
+
+
+</instructions>
+</recipe>

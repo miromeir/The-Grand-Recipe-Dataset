@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Chicken Hekka Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="0.75 Cup">Sugar</ingredient><ingredient amount="0.75 Cup">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="3.0">Carrot</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="0.5 Pound">Mush</ingredient><ingredient amount="1.0 Inch">Rice</ingredient></ingredients>
+<instructions>
+Cut chicken meat into bite size pieces. In a medium bowl combine the sugar, soy sauce, and mirin wine. Mix well, and set aside.
+
+In a skillet or wok, heat oil over medium-high heat. Squeeze juice from grated ginger into wok, add grated ginger, and stir fry until brown. Discard ginger fibers. Increase heat to high, and stir in chicken. Season with soy sauce mixture, and cook for 2 more minutes.
+
+One at a time add the carrots, onions, bamboo shoots, mushrooms, and watercress. Stir after each addition. Add rice noodles; cook, stirring, for about 3 more minutes, or until done.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Moroccan Chicken Sann Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="0.5 Cup">Juice</ingredient><ingredient amount="0.5 Cup">Honey</ingredient><ingredient amount="2.0 Teaspoon">Curry Powder</ingredient><ingredient amount="0.5 Teaspoon">Ginger</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="3.0 Pound">Chicken</ingredient><ingredient amount="1.0 Cup">Rice</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="8.0">Apricot</ingredient></ingredients>
+<instructions>
+Whisk together the soy sauce, lemon juice, sherry, honey, thyme, curry powder. dried oregano, ground ginger, ground black pepper, and garlic. Place the marinade with the chicken into a resealable bag, and marinate for at least 30 minutes or up to 24 hours.
+
+Bring the brown rice and water to a boil in a saucepan over high heat. Reduce the heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 45 to 50 minutes.
+
+Heat the olive oil in a large skillet over medium-high heat, and cook the chicken pieces until browned on all sides. Sprinkle the chicken with prunes and apricots; pour the marinade into the skillet. Bring to a simmer, cover, and cook for 30 minutes. Uncover and simmer until the sauce is slightly thickened, the chicken is no longer pink at the bone, and the juices run clear, about 15 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C). Serve over the brown rice.
+
+
+
+
+</instructions>
+</recipe>

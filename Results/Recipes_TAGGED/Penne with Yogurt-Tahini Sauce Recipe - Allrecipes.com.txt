@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Penne with Yogurt-Tahini Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Tahini</ingredient><ingredient amount="0.125 Cup">Juice</ingredient><ingredient amount="1.0 Cup">Yogurt</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Mush</ingredient><ingredient amount="0.5">Bell Pepper</ingredient><ingredient amount="1.0 Ounce">Pasta</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+In a large pot of lightly salted boiling water, cook pasta 10 to 12 minutes, or until al dente.
+
+While pasta is cooking, stir together tahini and lemon juice. Place in a food processor with yogurt, water, and garlic cloves; process until smooth.
+
+Heat the oil in a saute pan over medium heat. Add the onion, and cook until soft. Add the mushrooms, and cook until soft. During the final few minutes of cooking add the bell pepper; the pepper should be still crispish.
+
+Drain the pasta. Toss with the yogurt-tahini sauce, chopped parsley, and freshly ground black pepper. Serve the vegetable saute over the noodles.
+
+
+
+
+</instructions>
+</recipe>

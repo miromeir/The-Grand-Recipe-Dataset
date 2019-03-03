@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Tacos in Pasta Shells Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Beef</ingredient><ingredient amount="1.0 Ounce">Cream Cheese</ingredient><ingredient amount="1.0 Teaspoon">Chili Powder</ingredient><ingredient amount="18.0">Pasta</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="1.0 Cup">Cheddar</ingredient><ingredient amount="1.0 Cup">Monterey Jack</ingredient><ingredient amount="1.0 Cup">Cream</ingredient></ingredients>
+<instructions>
+In a large skillet, brown beef over medium heat until no longer pink; drain. Add cream cheese, salt and chili powder; mix and simmer for 5 minutes.
+
+Meanwhile, bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Toss cooked shells in butter.
+
+Preheat oven to 350 degrees F (175 degrees C).
+
+Fill shells with beef mixture and arrange in a 9x13 inch baking dish; pour taco sauce over shells. Cover with foil and bake in preheated oven for 15 minutes.
+
+Remove dish from oven and top with Cheddar cheese, Monterey Jack cheese and tortilla chips; return dish to oven to cook for 15 minutes more.
+
+Top with sour cream and onions; serve.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Beef Curry Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Meat</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="2.0 Tablespoon">Margarine</ingredient><ingredient amount="6.0 Cup">Beef</ingredient><ingredient amount="2.0 Tablespoon">Curry Powder</ingredient><ingredient amount="2.0">Potato</ingredient></ingredients>
+<instructions>
+In a large saucepan or pot, brown the beef cubes and onions in butter or margarine.
+
+Add the beef stock, curry and bay leaves. Cook at low heat for 30 minutes.
+
+Add the potatoes, vinegar, and salt. Simmer for 45 minutes to 1 hour, until all is tender. Serve hot!!
+
+
+
+
+</instructions>
+</recipe>

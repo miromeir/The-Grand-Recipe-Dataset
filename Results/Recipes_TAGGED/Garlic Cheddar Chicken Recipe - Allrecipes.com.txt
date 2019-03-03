@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Garlic Cheddar Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Butter</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="0.75 Cup">Bread Crumbs</ingredient><ingredient amount="0.5 Cup">Parmesan Cheese</ingredient><ingredient amount="1.0 Cup">Cheddar</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="8.0 Pound">Chicken</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+Melt the butter in a saucepan over low heat, and cook the garlic until tender, about 5 minutes.
+
+In a shallow bowl, mix the bread crumbs, Parmesan cheese, Cheddar cheese, parsley, oregano, pepper, and salt.
+
+Dip each chicken breast in the garlic butter to coat, then press into the bread crumb mixture. Arrange the coated chicken breasts in a 9x13 inch baking dish. Drizzle with any remaining butter and top with any remaining bread crumb mixture.
+
+Bake 30 minutes in the preheated oven, or until chicken is no longer pink and juices run clear.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Japanese Onion Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="0.5">Celery</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="0.5">Carrot</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="0.25 Teaspoon">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Chicken</ingredient><ingredient amount="3.0 Teaspoon">Bouillon</ingredient><ingredient amount="1.0 Cup">Mush</ingredient><ingredient amount="1.0 Cup">Mush</ingredient></ingredients>
+<instructions>
+In a large saucepan or stockpot, combine the celery, onion, carrot, ginger, garlic, and a few of the mushrooms. Add chicken stock, beef bouillon, and water. Place the pot over high heat, and bring to a rolling boil. When the mixture reaches boiling, cover, reduce heat to medium, and cook for 45 minutes.
+
+Place all of the remaining mushrooms into a separate pot. When the boiling mixture is done, place a strainer over the pot with the mushrooms in it. Strain the cooked soup into the pot with the mushrooms. Discard strained materials.
+
+Serve the broth with mushrooms in small porcelain bowls, and sprinkle fresh chives over the top. Use Asian soup spoons for an elegant effect.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Company Couscous Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Couscous</ingredient><ingredient amount="3.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.25 Cup">Bell Pepper</ingredient><ingredient amount="4.0">Onion</ingredient><ingredient amount="1.0 Cup">Tomato</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="0.25 Cup">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+Stir couscous into boiling water and return water to a boil. Cover and remove pot from heat. Let stand 5 minutes, then fluff with a fork.
+
+While the couscous is cooking, heat oil in a large skillet over medium heat. Stir in garlic, green onions and peppers; saute briefly. Stir in tomatoes, basil, cooked couscous, salt and pepper. Mix together and transfer to a 1 1/2 quart casserole dish. Splash some balsamic vinegar on top.
+
+Bake in a preheated 350 degrees F (175 degrees C) oven for 20 minutes. Sprinkle with Parmesan cheese while still warm.
+
+
+
+
+</instructions>
+</recipe>

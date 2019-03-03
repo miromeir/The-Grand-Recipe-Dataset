@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Jollof Rice Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Ounce">Tomato</ingredient><ingredient amount="0.5 Ounce">Tomato Paste</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0 Cup">Rice</ingredient><ingredient amount="1.0 Cup">Carrot</ingredient><ingredient amount="0.5 Inch">Green Bean</ingredient><ingredient amount="0.25 Teaspoon">Nutmeg</ingredient></ingredients>
+<instructions>
+Pour oil into large saucepan. Cook onion in oil over medium-low heat until translucent.
+
+Stir in stewed tomatoes and tomato paste, and season with salt, black pepper, cayenne pepper, red pepper flakes, Worcestershire sauce and rosemary. Cover, and bring to a boil. Reduce heat, stir in water, and add chicken pieces. Simmer for 30 minutes.
+
+Stir in rice, carrots, and green beans, and season with nutmeg. Bring to a boil, then reduce heat to low. Cover, and simmer until the chicken is fork-tender and the rice is cooked, 25 to 30 minutes.
+
+
+
+
+</instructions>
+</recipe>

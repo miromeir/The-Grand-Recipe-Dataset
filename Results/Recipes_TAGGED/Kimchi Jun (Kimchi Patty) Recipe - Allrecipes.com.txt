@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Kimchi Jun (Kimchi Patty) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.5">Onion</ingredient><ingredient amount="1.0 Cup">Flour</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="">Dip</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="0.5 Teaspoon">Sesame Seed</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Sesame Oil</ingredient></ingredients>
+<instructions>
+Mix kimchi and onion together in a large bowl; add flour and mix well for 1 minute. Pour water over kimchi mixture and stir until batter is evenly combined.
+
+Heat a skillet over medium heat; add about 1 teaspoon vegetable oil. Scoop about 1/4 cup batter into the hot skillet, creating a pancake that is 1/4-inch thick; flatten and smooth the edges using a spatula. Cook pancake for 3 minutes; flip, pressing lightly, and cook for 2 minutes more. Repeat with remaining vegetable oil and batter.
+
+Whisk green onion, soy sauce, sesame seeds, red pepper powder, and sesame oil together in a bowl; serve alongside pancake.
+
+
+
+
+</instructions>
+</recipe>

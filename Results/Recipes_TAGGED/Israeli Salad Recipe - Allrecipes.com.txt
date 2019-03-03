@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Israeli Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="6.0">Cucumber</ingredient><ingredient amount="4.0">Tomato</ingredient><ingredient amount="5.0">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="0.3333333333333333 Cup">Garlic</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient></ingredients>
+<instructions>
+Toss the cucumbers, tomatoes, onions, bell pepper, garlic, parsley, and mint together in a bowl. Drizzle the olive oil and lemon juice over the salad and toss to coat. Season with salt and pepper to serve.
+
+
+
+
+</instructions>
+</recipe>

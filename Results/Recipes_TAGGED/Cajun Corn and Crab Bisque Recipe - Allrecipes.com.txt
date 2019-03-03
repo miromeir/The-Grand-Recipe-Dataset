@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Cajun Corn and Crab Bisque Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Butter</ingredient><ingredient amount="3.0 Tablespoon">Flour</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="1.0">Celery</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="2.0 Cup">Milk</ingredient><ingredient amount="2.0 Cup">Cream</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="">Onion</ingredient></ingredients>
+<instructions>
+Melt the butter in a small saucepan over medium heat; then gradually whisk in the flour. Cook 5 to 7 minutes, whisking constantly, until a golden roux forms; set aside.
+
+Heat the oil in a Dutch oven over medium heat. Combine the onion, garlic, and celery and cook 1 minute. Add the Cajun seasoning to taste. Stir in the broth, corn, and bay leaf. Bring to a simmer, then pour in the milk, cream, and liquid crab boil. When the mixture begins to simmer, reduce heat to low and simmer 7 minutes. Stir in the roux, 1 tablespoon at a time, blending thoroughly. Continue to cook, on low heat, whisking until mixture thickens. Stir in crabmeat, green onions, and Worcestershire sauce. Simmer 6 to 8 minutes more. Season with salt and pepper to taste.
+
+
+
+
+</instructions>
+</recipe>

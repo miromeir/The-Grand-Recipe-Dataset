@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Thai Style BBQ Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="3.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient><ingredient amount="1.0">Juice</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="6.0">Chicken</ingredient></ingredients>
+<instructions>
+In a medium nonporous bowl, combine the garlic, ginger, lime zest, lime juice, crushed red pepper flakes, water, soy sauce, Worcestershire sauce and sugar. Mix well and place the chicken in the sauce, turning several times to coat. Cover and marinate in the refrigerator for 4 to 24 hours.
+
+Preheat an outdoor grill for high heat and lightly oil grate.
+
+Grill chicken over high heat for 6 to 8 minutes per side, or until internal temperature reaches 180 degrees F (80 degrees C). Discard any remaining marinade.
+
+
+
+
+</instructions>
+</recipe>

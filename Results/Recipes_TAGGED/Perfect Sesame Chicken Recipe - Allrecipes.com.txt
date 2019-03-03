@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Perfect Sesame Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Flour</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Teaspoon">Vegetable Oil</ingredient><ingredient amount="1.0">Sesame Oil</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0 Teaspoon">Paste</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Quart">Olive Oil</ingredient><ingredient amount="2.0 Tablespoon">Sesame Seed</ingredient></ingredients>
+<instructions>
+Sift flour, 2 tablespoons cornstarch, baking soda, and baking powder into a bowl. Pour in low-sodium soy sauce, sherry, 2 tablespoons water, vegetable oil, and a dash of sesame oil; stir until smooth. Stir in chicken until coated with the batter, then cover, and refrigerate for 20 minutes.
+
+Meanwhile, bring chicken broth, sugar, vinegar, dark soy sauce, sesame oil, chile paste, and garlic to a boil in a saucepan over high heat. Dissolve 1/4 cup cornstarch into 1/2 cup of water, and stir into boiling sauce. Simmer until the sauce thickens and turns clear, about 2 minutes. Reduce heat to low, and keep sauce warm.
+
+Heat olive oil in a deep fryer or large saucepan to a temperature of 375 degrees F (190 degrees C).
+
+Drop in the battered chicken pieces, a few at a time, and fry until they turn golden brown and float to the top of the oil, 3 to 4 minutes. Drain on a paper towel lined plate. To serve, place fried chicken pieces onto a serving platter, and pour the hot sauce overtop. Sprinkle with toasted sesame seeds to garnish.
+
+
+
+
+</instructions>
+</recipe>

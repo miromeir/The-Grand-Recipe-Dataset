@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Moroccan-Style Stuffed Acorn Squash Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="2.0">Acorn</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="2.0">Celery</ingredient><ingredient amount="2.0">Carrot</ingredient><ingredient amount="1.0 Cup">Bean</ingredient><ingredient amount="0.5 Cup">Raisin</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Ounce">Chicken</ingredient><ingredient amount="1.0 Cup">Couscous</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+Arrange squash halves cut side down on a baking sheet. Bake 30 minutes, or until tender. Dissolve the sugar in the melted butter. Brush squash with the butter mixture, and keep squash warm while preparing the stuffing.
+
+Heat the olive oil in a skillet over medium heat. Stir in the garlic, celery, and carrots, and cook 5 minutes. Mix in the garbanzo beans and raisins. Season with cumin, salt, and pepper, and continue to cook and stir until vegetables are tender.
+
+Pour the chicken broth into the skillet, and mix in the couscous. Cover skillet, and turn off heat. Allow couscous to absorb liquid for 5 minutes. Stuff squash halves with the skillet mixture to serve.
+
+
+
+
+</instructions>
+</recipe>

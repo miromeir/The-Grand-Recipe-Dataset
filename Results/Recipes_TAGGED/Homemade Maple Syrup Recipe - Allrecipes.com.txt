@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Homemade Maple Syrup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient></ingredients>
+<instructions>
+Bring the water, white sugar, and brown sugar to a boil in a saucepan over medium-high heat. Reduce heat to medium-low, and stir in the maple extract; simmer 3 minutes longer.
+
+
+
+
+</instructions>
+</recipe>

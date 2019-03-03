@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Egg Drop Soup I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="4.0">Bouillon</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="1.0 Tablespoon">Onion</ingredient></ingredients>
+<instructions>
+In a medium saucepan, combine water, bouillon, and parsley and onion flakes. Bring to a boil.
+
+Lightly beat eggs together. Gradually stir into soup.
+
+Remove about half a cup of the soup. Stir in cornstarch until there are no lumps, and return to the soup. Boil until soup thickens.
+
+
+
+
+</instructions>
+</recipe>

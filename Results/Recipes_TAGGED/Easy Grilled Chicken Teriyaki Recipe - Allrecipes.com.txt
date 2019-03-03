@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Easy Grilled Chicken Teriyaki Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="4.0">Chicken</ingredient><ingredient amount="1.0 Cup">Teriyaki Sauce</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="2.0 Teaspoon">Garlic</ingredient><ingredient amount="2.0 Teaspoon">Sesame Oil</ingredient></ingredients>
+<instructions>
+Place chicken, teriyaki sauce, lemon juice, garlic, and sesame oil in a large resealable plastic bag. Seal bag, and shake to coat. Place in refrigerator for 24 hours, turning every so often.
+
+Preheat grill for high heat.
+
+Lightly oil the grill grate. Remove chicken from bag, discarding any remaining marinade. Grill for 6 to 8 minutes each side, or until juices run clear when chicken is pierced with a fork.
+
+
+
+
+</instructions>
+</recipe>

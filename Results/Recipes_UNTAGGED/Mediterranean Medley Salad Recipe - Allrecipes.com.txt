@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Mediterranean Medley Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients>
+4 cups roughly chopped raw vegetables (I like a combination of carrots, red onions, cucumbers, tomatoes, green or red bell peppers, and zucchini)
+2 ounces feta cheese, crumbled
+1/4 cup sliced Kalamata olives
+1/2 cup torn basil leaves
+2 tablespoons extra-virgin olive oil
+1 tablespoon balsamic vinegar
+1 pinch Salt and freshly ground black pepper, to taste
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Toss all ingredients together.
+
+
+
+
+</instructions>
+</recipe>

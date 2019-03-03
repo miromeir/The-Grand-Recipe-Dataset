@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Bissara Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="0.3333333333333333 Cup">Olive Oil</ingredient><ingredient amount="3.0 Cup">Pea</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="2.0 Teaspoon">Paprika</ingredient><ingredient amount="1.0">Pepper</ingredient></ingredients>
+<instructions>
+Fry garlic in the vegetable oil in a large pot over low heat until lightly browned. Pour in water and olive oil; stir in split peas, parsley, chili pepper, paprika, cumin, salt, and pepper. Bring to a boil, then reduce heat to low, and simmer for about 55 minutes, stirring occasionally so that the peas do not stick to the bottom of the pot. When the peas are tender, mash them with a wooden spoon until smooth; stir in additional water to reach desired consistency.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Shrimp Pad Thai Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Rice</ingredient><ingredient amount="1.0 Teaspoon">Vegetable Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="1.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="0.25 Pound">Bean Sprout</ingredient><ingredient amount="0.5 Cup">Pea</ingredient><ingredient amount="0.25 Pound">Bean Sprout</ingredient><ingredient amount="0.5 Cup">Pea</ingredient></ingredients>
+<instructions>
+In a medium bowl, soak the noodles in cold water for 15 min; drain. Cover noodles with hot water, and soak for 15 minutes; drain. Rinse with cold water, drain, and set aside.
+
+Heat oil in a wok or large heavy skillet over medium heat. Saute onion and garlic until onion is soft and translucent, about 5 minutes. Add shrimp, and cook until pink. Stir in ketchup, fish sauce, sugar, lemon juice and vinegar. Pour in the beaten egg, and cook without stirring until egg is partially set. Add drained noodles, 1/4 pound bean sprouts, and 1/2 cup peanuts. Mix while cooking until noodles are tender.
+
+
+
+
+</instructions>
+</recipe>

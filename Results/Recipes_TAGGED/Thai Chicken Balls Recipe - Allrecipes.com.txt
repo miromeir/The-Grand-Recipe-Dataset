@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Thai Chicken Balls Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="2.0 Pound">Chicken</ingredient><ingredient amount="1.0 Cup">Bread Crumbs</ingredient><ingredient amount="4.0">Onion</ingredient><ingredient amount="1.0 Tablespoon">Coriander Seed</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient></ingredients>
+<instructions>
+In a large bowl, mix together the chicken and bread crumbs. Season with green onion, ground coriander, cilantro, chili sauce and lemon juice; mix well.
+
+Using damp hands, form mixture into evenly shaped balls that are either small enough to eat with your fingers, or large enough to use as burgers.
+
+Heat oil in a large skillet over medium heat. Fry the chicken balls in batches until well browned all over.
+
+
+
+
+</instructions>
+</recipe>

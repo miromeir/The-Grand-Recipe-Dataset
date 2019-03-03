@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Marrakesh Vegetable Curry Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0">Sweet Potato</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="2.0">Carrot</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="6.0 Tablespoon">Olive Oil</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Tu</ingredient><ingredient amount="1.0 Tablespoon">Curry Powder</ingredient><ingredient amount="1.0 Teaspoon">Cinnamon</ingredient><ingredient amount="0.75 Tablespoon">Sea Salt</ingredient><ingredient amount="0.75 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="0.25 Cup">Almond</ingredient><ingredient amount="1.0">Zucchini</ingredient><ingredient amount="2.0 Tablespoon">Raisin</ingredient><ingredient amount="1.0 Cup">Orange</ingredient><ingredient amount="10.0 Ounce">Spinach</ingredient></ingredients>
+<instructions>
+In a large Dutch oven place sweet potato, eggplant, peppers, carrots, onion, and three tablespoons oil. Saute over medium heat for 5 minutes.
+
+In a medium saucepan place 3 tablespoons olive oil, garlic, turmeric, curry powder, cinnamon, salt and pepper and saute over medium heat for 3 minutes.
+
+Pour garlic and spice mixture into the Dutch oven with vegetables in it. Add the garbanzo beans, almonds, zucchini, raisins, and orange juice. Simmer 20 minutes, covered.
+
+Add spinach to pot and cook for 5 more minutes. Serve!
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Sweet and Spicy Shrimps Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="1.0 Tablespoon">Minced Ginger</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Sesame Oil</ingredient><ingredient amount="0.5 Tablespoon">Paste</ingredient></ingredients>
+<instructions>
+Combine soy sauce, 2 minced scallions, garlic, sesame seeds, cornstarch, ginger, mirin, sugar, red pepper flakes, and sesame oil in a bowl to make marinade.
+
+Place shrimp in a large resealable plastic bag; pour in marinade. Seal the bag and shake to coat shrimp. Place in refrigerator and marinate for 15 to 20 minutes.
+
+Heat a skillet over medium-high heat; add shrimp. Cook, turning and basting a few times with leftover marinade, 5 to 7 minutes. Transfer shrimp to a bowl, reserving oil in the skillet.
+
+Pour 3 tablespoons of the marinade and gochujang to the skillet over medium heat. Cook and stir until thickened, about 2 minutes. Brush glaze over cooked shrimp or use as a dip. Sprinkle the remaining minced scallion on top.
+
+
+
+
+</instructions>
+</recipe>

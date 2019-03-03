@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Sauteed Swiss Chard with Parmesan Cheese Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="0.5">Red Onion</ingredient><ingredient amount="1.0">Chard</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient><ingredient amount="2.0 Tablespoon">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Melt butter and olive oil together in a large skillet over medium-high heat. Stir in the garlic and onion, and cook for 30 seconds until fragrant. Add the chard stems and the white wine. Simmer until the stems begin to soften, about 5 minutes. Stir in the chard leaves, and cook until wilted. Finally, stir in lemon juice and Parmesan cheese; season to taste with salt if needed.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Japanese Soup with Tofu and Mushrooms Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Mush</ingredient><ingredient amount="1.0 Tablespoon">Paste</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="0.125 Cup">Tofu</ingredient><ingredient amount="1.0">Onion</ingredient></ingredients>
+<instructions>
+In a medium saucepan, bring stock to a boil; reduce heat to simmer, add mushrooms, and cook for 3 minutes. In a small bowl, mix miso paste and soy sauce together; stir into stock along with tofu. Simmer 5 minutes, and serve topped with with green onion.
+
+
+
+
+</instructions>
+</recipe>

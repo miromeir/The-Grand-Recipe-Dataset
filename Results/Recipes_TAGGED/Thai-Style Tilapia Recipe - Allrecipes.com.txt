@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Thai-Style Tilapia Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Coconut Milk</ingredient><ingredient amount="6.0">Almond</ingredient><ingredient amount="2.0 Tablespoon">Onion</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="0.5 Teaspoon">Tu</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a food processor or blender, combine the coconut milk, almonds, onion, ginger, turmeric, lemon grass, and 1/4 teaspoon of salt. Process until smooth.
+
+Heat a large non-stick skillet over medium-high heat. Season the fish fillets with salt and pepper on both sides, then place them skin-side up in the skillet. Pour the pureed sauce over the fish. Use a spatula to coat the fish evenly with the sauce. Sprinkle with red pepper flakes.
+
+Reduce heat to medium, cover, and simmer for about 15 minutes, until the puree is thickened and fish flakes easily with a fork.
+
+
+
+
+</instructions>
+</recipe>

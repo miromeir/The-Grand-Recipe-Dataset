@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Zucchini Alfredo Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Egg</ingredient><ingredient amount="3.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="4.0 Cup">Zucchini</ingredient><ingredient amount="0.5 Cup">Milk</ingredient><ingredient amount="4.0 Ounce">Cream Cheese</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Bring a large pot of lightly salted water to a boil. Add egg noodles and cook for 8 to 10 minutes or until al dente; drain.
+
+Heat the oil in a skillet over medium heat. Stir in garlic, and cook 2 minutes. Mix in zucchini, and cook 10 minutes, until some of the moisture has evaporated.
+
+Pour the milk into the skillet, and stir in cream cheese until melted. Mix in basil. Season with salt and pepper, and sprinkle with Parmesan cheese. Serve over the cooked pasta.
+
+
+
+
+</instructions>
+</recipe>

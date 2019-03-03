@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Bechamel Chicken Pasta Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Pasta</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="2.0">Chicken</ingredient><ingredient amount="0.5 Cup">Pea</ingredient><ingredient amount="1.0">Bun</ingredient><ingredient amount="1.0 Ounce">Tomato Paste</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="5.0 Tablespoon">Butter</ingredient><ingredient amount="1.0">Bouillon</ingredient><ingredient amount="5.0 Tablespoon">Flour</ingredient><ingredient amount="3.0 Cup">Milk</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0 Cup">Mozzarella</ingredient></ingredients>
+<instructions>
+Bring a large pot of lightly salted water to a boil, cook the penne pasta 10 to 12 minutes, until al dente, and drain.
+
+Preheat oven to 350 degrees F (175 degrees C).
+
+Heat the oil in a skillet over medium heat, and saute the onion, green bell pepper, and garlic until tender. Stir in the chicken, and cook until almost done. Mix in the peas, cilantro, dill, tomato paste, and enough water to make a thick sauce. Continue to cook and stir until chicken is no longer pink and juices run clear, and all the ingredients are heated through. Season with salt and pepper to taste.
+
+To prepare the bechamel sauce, melt the butter in a saucepan over medium heat. Dissolve the chicken bouillon cube in the melted butter. Stirring constantly, blend in the flour until smooth. Mix in the milk, season with pepper, and continue to cook and stir until the sauce is thick enough to coat the back of a spoon.
+
+In a bowl, mix the cooked pasta with 1/2 the bechamel sauce. Place 1/2 the pasta in a baking dish, layer with 1/2 the chicken mixture, and 1/2 the mozzarella cheese. Layer with the remaining pasta, remaining chicken mixture, and remaining bechamel sauce. Top with remaining mozzarella cheese.
+
+Bake 30 minutes in the preheated oven, or until bubbly.
+
+
+
+
+</instructions>
+</recipe>

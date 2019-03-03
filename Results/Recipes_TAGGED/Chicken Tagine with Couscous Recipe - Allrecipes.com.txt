@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Chicken Tagine with Couscous Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Inch">Chicken</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="0.5 Cup">Apricot</ingredient><ingredient amount="0.3333333333333333 Cup">Raisin</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Tomato Paste</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="2.0 Tablespoon">Flour</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="1.0 Teaspoon">Cinnamon</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Teaspoon">Curry Powder</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Cup">Couscous</ingredient></ingredients>
+<instructions>
+Place the chicken, onions, apricots, and raisins into a slow cooker. In a bowl, whisk together the chicken broth, tomato paste, lemon juice, flour, ginger, cumin, cinnamon, black pepper, curry powder, and cayenne. Pour the mixture over the chicken in the cooker. Cover, set the cooker to High, and cook 2 1/2 hours; or set the cooker to Low and cook for 5 hours.
+
+Place the couscous into a saucepan, stir in the boiling water, cover, and let stand until the water is absorbed and the couscous is tender, about 5 minutes. Fluff the pasta with a fork. Scoop onto plates, and serve with chicken tagine.
+
+
+
+
+</instructions>
+</recipe>

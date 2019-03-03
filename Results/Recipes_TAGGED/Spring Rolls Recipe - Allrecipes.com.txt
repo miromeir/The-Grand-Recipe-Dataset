@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Spring Rolls Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Vermicelli</ingredient><ingredient amount="4.0">Egg</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Ounce">Mush</ingredient><ingredient amount="1.0 Pound">Pork</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0">Carrot</ingredient><ingredient amount="3.0 Ounce">Bean Sprout</ingredient><ingredient amount="2.0">Pepper</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="3.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="20.0 Inch">Rice</ingredient></ingredients>
+<instructions>
+Soak the vermicelli 30 minutes in warm water; drain.
+
+In a large bowl, mix the vermicelli, eggs, onion, mushrooms, shrimp, pork, vegetable oil, carrot, crabmeat, bean sprouts, pepper, soy sauce, fish sauce and garlic.
+
+One by one, moisten the rice wrappers with a damp tea towel and fill with 2 to 3 tablespoons of the vermicelli mixture. Roll the wrappers, and allow them to set for 30 minutes.
+
+In a large saucepan, heat the oil to 375 degrees F (190 degrees C).
+
+Fry the spring rolls one or two at a time until golden brown, about 3 minutes. Drain on paper towels.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Zimbabwean Chicken and Vegetable Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="4.0 Cup">Vegetable</ingredient><ingredient amount="0.5 Cup">Peanut Butter</ingredient><ingredient amount="2.0 Cup">Tomato</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Cup">Cabbage</ingredient><ingredient amount="1.0 Cup">Sweet Potato</ingredient><ingredient amount="1.0 Cup">Carrot</ingredient><ingredient amount="1.0 Cup">Tu</ingredient><ingredient amount="1.0 Cup">Okra</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient></ingredients>
+<instructions>
+Heat the olive oil over medium heat in a large soup pot; cook and stir the onion in the hot oil until translucent, about 5 minutes. Whisk 1/2 cup of vegetable stock and the peanut butter into the onions until the mixture is smooth. Beat in remaining vegetable stock, diced tomatoes with their liquid, and crushed red pepper flakes; bring to a boil, reduce heat to medium low, and cook at a simmer for 30 minutes, stirring occasionally.
+
+Stir in the cabbage, sweet potato, carrot, and turnip; simmer, stirring occasionally, until the vegetables are tender, about 30 more minutes. Stir in the okra and chicken and simmer until the okra is tender, about 30 additional minutes.
+
+
+
+
+</instructions>
+</recipe>

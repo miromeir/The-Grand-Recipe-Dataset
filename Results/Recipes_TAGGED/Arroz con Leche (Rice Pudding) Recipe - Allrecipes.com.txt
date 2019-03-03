@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Arroz con Leche (Rice Pudding) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Rice</ingredient><ingredient amount="2.0 Cup">Milk</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0">Cinnamon</ingredient></ingredients>
+<instructions>
+Combine water and rice in a bowl. Let soak, at least 30 minutes.
+
+Bring water and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender and liquid has been absorbed, 20 to 25 minutes.
+
+Stir milk, sugar, salt, and cinnamon stick into the saucepan. Simmer until thick and the consistency of pudding, about 20 minutes. Discard cinnamon stick before serving.
+
+
+
+
+</instructions>
+</recipe>

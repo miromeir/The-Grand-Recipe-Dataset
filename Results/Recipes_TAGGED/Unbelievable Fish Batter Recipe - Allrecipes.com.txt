@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Unbelievable Fish Batter Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Flour</ingredient><ingredient amount="0.5 Cup">Milk</ingredient></ingredients>
+<instructions>
+Whisk together the flour, milk, water, baking powder, and salt in a bowl until smooth.
+
+
+
+
+</instructions>
+</recipe>

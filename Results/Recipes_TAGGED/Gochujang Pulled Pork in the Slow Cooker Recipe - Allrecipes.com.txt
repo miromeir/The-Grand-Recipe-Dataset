@@ -1,0 +1,30 @@
+<recipe>
+<title>
+Gochujang Pulled Pork in the Slow Cooker Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.6666666666666666 Cup">Pepper</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="0.5 Cup">Apple</ingredient><ingredient amount="0.5 Cup">Chicken</ingredient><ingredient amount="0.25 Cup">Honey</ingredient><ingredient amount="0.25 Cup">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Mus</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Cinnamon</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Pound">Pork</ingredient><ingredient amount="0.25 Cup">Butter</ingredient><ingredient amount="1.0 Tablespoon">Flour</ingredient><ingredient amount="8.0">Ham</ingredient><ingredient amount="3.0">Onion</ingredient></ingredients>
+<instructions>
+Combine gochujang, onion, vinegar, chicken stock, honey, brown sugar, ginger, soy sauce, mustard, garlic, cinnamon, salt, thyme, and black pepper together in a large bowl and mix well.
+
+Dredge pork in the gochujang sauce on all sides. Pour sauce into a slow cooker and add the pork. Spoon some of the sauce on top of the pork. Cover and cook on Low until pork roast shreds easily with a fork, about 8 hours.
+
+Preheat oven to 350 degrees F (175 degrees C).
+
+Place roast in a large bowl and shred the meat with 2 forks. Pour the sauce from the slow cooker into a pot over medium-high heat. Cover and bring to a boil. Uncover; reduce heat to a simmer.
+
+Mix 1 tablespoon butter and flour in a small bowl; combine with the sauce in the pot and mix well. Cook until heated through and slightly thickened, about 5 minutes. Remove from heat and stir again.
+
+Spread remaining 3 tablespoons butter over insides of buns. Place on a baking sheet.
+
+Toast in the preheated oven until golden brown, 5 to 7 minutes.
+
+Pour the sauce into the bowl with the shredded pork and mix. Top pork with green onions. Spoon pork over the toasted buns.
+
+
+
+
+</instructions>
+</recipe>

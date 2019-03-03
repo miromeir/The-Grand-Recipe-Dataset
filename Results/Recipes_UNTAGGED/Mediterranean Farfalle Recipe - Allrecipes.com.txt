@@ -1,0 +1,32 @@
+<recipe>
+<title>
+Mediterranean Farfalle Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients>
+1 (12 ounce) package farfalle pasta
+1 pound chorizo sausage, crumbled
+1/4 cup fresh basil leaves, cut into thin strips
+1/2 cup pine nuts
+2 cloves garlic, minced
+1/2 cup grated Parmesan cheese
+1 cup diced tomato
+1/2 cup olive oil
+3/8 cup red wine
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Cook pasta in salted, boiling water until al dente.
+
+While the pasta is cooking, brown ham over medium heat. Add nuts and brown them also; do not burn! Add garlic, and remove from heat.
+
+Drain pasta. In a large bowl, toss together pasta, ham mixture, basil, cheese, and tomatoes. Whisk together olive oil and vinegar; pour over pasta, and toss. Serve.
+
+
+
+
+</instructions>
+</recipe>

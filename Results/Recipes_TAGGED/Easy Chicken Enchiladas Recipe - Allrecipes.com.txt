@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Easy Chicken Enchiladas Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Cream Cheese</ingredient><ingredient amount="2.0 Cup">Chicken</ingredient><ingredient amount="1.0 Pint">Bean</ingredient><ingredient amount="6.0 Inch">Flour</ingredient><ingredient amount="2.0 Cup">Colby-Jack</ingredient></ingredients>
+<instructions>
+Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.
+
+In a small saucepan over medium heat, combine the cream cheese and salsa. Cook, stirring until melted and well blended. Stir in chicken and pinto beans. Fill tortillas with the mixture, roll and place into the prepared baking dish. Spread cheese over the top. Cover with aluminum foil.
+
+Bake for 30 minutes, or until heated through. Garnish with your favorite toppings such as lettuce and tomatoes, or sour cream.
+
+
+
+
+</instructions>
+</recipe>

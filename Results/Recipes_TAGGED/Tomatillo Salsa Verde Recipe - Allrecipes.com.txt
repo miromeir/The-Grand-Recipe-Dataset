@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Tomatillo Salsa Verde Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="1.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="1.0">Pepper</ingredient></ingredients>
+<instructions>
+Place tomatillos, onion, garlic, and chile pepper into a saucepan. Season with cilantro, oregano, cumin, and salt; pour in water. Bring to a boil over high heat, then reduce heat to medium-low, and simmer until the tomatillos are soft, 10 to 15 minutes.
+
+Using a blender, carefully puree the tomatillos and water in batches until smooth.
+
+
+
+
+</instructions>
+</recipe>

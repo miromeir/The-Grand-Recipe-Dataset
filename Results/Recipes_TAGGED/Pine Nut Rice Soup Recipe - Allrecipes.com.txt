@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Pine Nut Rice Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Nut</ingredient><ingredient amount="2.0 Cup">Grain</ingredient><ingredient amount="1.0 Tablespoon">Nut</ingredient><ingredient amount="1.0 Cup">Date</ingredient><ingredient amount="0.5 Teaspoon">Sugar</ingredient></ingredients>
+<instructions>
+Using a blender or food processor, finely blend 1 cup pine nuts, rice and 2 cups of water.
+
+Pour blended pine nut mixture into a thick bottomed saucepan and add 4 cups of water. Bring to a boil, stirring frequently. Once boiling, reduce heat to low and let cook for 10 minutes, or until heated through. While it is heating through be sure to keep stirring so it does not burn.
+
+Prior to serving, garish with pine nuts and diced dates, and season with sugar and salt.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,23 @@
+<recipe>
+<title>
+Fried Kimchi Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients>
+1 cup kimchi, chopped into bite-sized pieces, or to taste
+1/2 teaspoon sesame oil, or to taste
+1 1/2 teaspoons white vinegar
+1 tablespoon white sugar, or to taste
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Heat a nonstick skillet to medium-high heat. Add kimchi. Saute until fragrant and slightly yellow, about 5 minutes. Add sesame oil; cook until kimchi is coated, 2 to 3 minutes. Pour in vinegar to coat the bottom of the skillet. Increase heat slightly; bring vinegar to a boil. Add sugar. Reduce heat to low; cook until sugar dissolves and kimchi is browned, about 3 minutes.
+
+
+
+
+</instructions>
+</recipe>

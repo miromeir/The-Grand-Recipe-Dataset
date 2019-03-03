@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Thai Ginger Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="3.0 Cup">Coconut Milk</ingredient><ingredient amount="0.5 Pound">Chicken</ingredient><ingredient amount="3.0 Tablespoon">Ginger</ingredient><ingredient amount="2.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="2.0 Tablespoon">Onion</ingredient></ingredients>
+<instructions>
+Pour the coconut milk and water into a saucepan, and bring to a boil. Add the chicken strips, and reduce heat to medium. Simmer for about 3 minutes, just until the chicken is cooked through. Stir in the ginger, fish sauce and lime juice. Sprinkle in the green onions and cilantro, and serve.
+
+
+
+
+</instructions>
+</recipe>

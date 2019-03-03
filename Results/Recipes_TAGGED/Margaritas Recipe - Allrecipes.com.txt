@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Margaritas Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Lime</ingredient></ingredients>
+<instructions>
+Fill blender with crushed ice. Pour in limeade concentrate, tequila and triple sec. Blend until smooth. Pour into glasses and serve.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Tofu Keema Recipe - Allrecipes.com
+</title>
+<cuisine>
+Indian
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Tofu</ingredient><ingredient amount="3.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Teaspoon">Cumin Seed</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="1.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="1.0 Cup">Pea</ingredient><ingredient amount="2.0 Teaspoon">Curry Powder</ingredient><ingredient amount="1.0 Cup">Tomato</ingredient><ingredient amount="1.0">Pepper</ingredient></ingredients>
+<instructions>
+Place tofu in a colander, and cover with a plate. Weight down with a skillet or some other heavy object. Let drain for 30 minutes. Place in the freezer for 24 hours.
+
+Remove tofu from freezer, and defrost. Mince, and set aside.
+
+Heat oil in a large skillet over medium heat; add cumin seeds, and cook until the seeds begin to sputter. Cook onion, ginger, garlic in oil until browned. Stir in tofu, peas, and curry powder; cook, stirring frequently, for 5 minutes. Then stir in tomatoes and salt. Cover, and cook for 15 minutes. Stir in chopped pepper, and cook for 2 to 3 minutes.
+
+
+
+
+</instructions>
+</recipe>

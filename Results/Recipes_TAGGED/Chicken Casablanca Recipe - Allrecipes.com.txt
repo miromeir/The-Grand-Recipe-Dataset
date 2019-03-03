@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Chicken Casablanca Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="2.0">Celery</ingredient><ingredient amount="1.0">Carrot</ingredient><ingredient amount="1.0 Quart">Butter</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Ras El Hanout</ingredient><ingredient amount="2.0 Teaspoon">Cinnamon</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Cup">Pea</ingredient><ingredient amount="0.3333333333333333 Cup">Raisin</ingredient></ingredients>
+<instructions>
+Heat olive oil in a deep pot over medium heat.
+
+Cook chicken breasts in hot oil until browned on both sides, but still slightly underdone in the center, 3 to 5 minutes per side; remove to a cutting board to cool.
+
+Stir onion into the oil in the pot; saute until lightly browned, 5 to 7 minutes. Add garlic and cook until fragrant, about 1 minute more.
+
+Stir celery and carrot into the onion mixture; saute together until until the celery and carrot begin to soften, 2 to 3 minutes. Reduce heat to low, place a cover on the pot, and sweat the vegetable mixture until softened completely, about 10 minutes.
+
+Pour butternut squash soup and chicken broth into the pot; stir and bring to a simmer. Season the soup mixture with ras el hanout, cinnamon, salt, and pepper; stir. Replace cover to the pot and cook mixture at a simmer for 40 minutes.
+
+Cut the partially cooked chicken breasts into chunks; add to the soup mixture along with any juices that have collected on the cutting board. Stir peas and raisins into the soup mixture; simmer until the chicken pieces are no longer pink in the center, about 15 minutes more.
+
+
+
+
+</instructions>
+</recipe>

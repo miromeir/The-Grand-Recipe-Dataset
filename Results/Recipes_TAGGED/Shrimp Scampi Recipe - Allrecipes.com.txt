@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Shrimp Scampi Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Pasta</ingredient><ingredient amount="0.5 Cup">Butter</ingredient><ingredient amount="4.0">Minced Garlic</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.75 Cup">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Bring a large pot of salted water to a boil. Stir in pasta and return pot to boil. Cook until al dente. Drain well.
+
+Melt butter in a large saucepan over medium heat. Stir in garlic and shrimp. Cook, stirring constantly, for 3 to 5 minutes.
+
+Stir in wine and pepper. Bring to a boil and cook for 30 seconds while stirring constantly.
+
+Mix shrimp with drained pasta in a serving bowl. Sprinkle with cheese and parsley. Serve immediately.
+
+
+
+
+</instructions>
+</recipe>

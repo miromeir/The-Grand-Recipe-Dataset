@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Creamy Italian White Bean Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Celery</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Chicken</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="1.0">Spinach</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient></ingredients>
+<instructions>
+In a large saucepan, heat oil. Cook onion and celery in oil for 5 to 8 minutes, or until tender. Add garlic, and cook for 30 seconds, continually stirring. Stir in beans, chicken broth, pepper, thyme and 2 cups water. Bring to a boil, reduce heat, and then simmer for 15 minutes.
+
+With slotted spoon, remove 2 cups of the bean and vegetable mixture from soup and set aside.
+
+In blender at low speed, blend remaining soup in small batches until smooth, (it helps to remove the center piece of the blender lid to allow steam to escape.) Once blended pour soup back into stock pot and stir in reserved beans.
+
+Bring to a boil, occasionally stirring. Stir in spinach and cook 1 minute or until spinach is wilted. Stir in lemon juice and remove from heat and serve with fresh grated Parmesan cheese on top.
+
+
+
+
+</instructions>
+</recipe>

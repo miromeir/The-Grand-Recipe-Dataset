@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Mom's Spicy Cucumber Kimchee Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Pepper</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="2.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0">Beef</ingredient><ingredient amount="4.0">Cucumber</ingredient><ingredient amount="1.0 Tablespoon">Sesame Seed</ingredient></ingredients>
+<instructions>
+Combine gochujang, white sugar, 1 tablespoon sesame seeds, and 2 teaspoons sesame oil in a small bowl to make a seasoned gochujang paste.
+
+Whisk vinegar, soy sauce, 1 teaspoon toasted sesame oil, and instant beef stock together in a large bowl. Stir in seasoned gochujang paste. Add cucumbers; stir until coated. Sprinkle with 1 tablespoon toasted sesame seeds.
+
+Let cucumbers marinate in the refrigerator before serving, at least 1 hour.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Chi Tan T'ang (Egg Drop Soup) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="8.0">Bouillon</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="3.0">Egg</ingredient></ingredients>
+<instructions>
+In a large saucepan, dissolve bouillon in hot water. Mix cornstarch with a small amount of water, and stir into bouillon. Add soy sauce, vinegar, and green onion. Bring to a boil, then simmer, stirring occasionally. Gradually pour the beaten eggs into the saucepan while stirring. Serve at once.
+
+
+
+
+</instructions>
+</recipe>

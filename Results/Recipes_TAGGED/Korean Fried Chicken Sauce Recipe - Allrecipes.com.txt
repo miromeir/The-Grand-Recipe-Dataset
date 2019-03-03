@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Korean Fried Chicken Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="2.0">Onion</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="1.0">Juice</ingredient><ingredient amount="2.0 Tablespoon">Honey</ingredient><ingredient amount="1.0 Tablespoon">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Whisk ketchup, green onion, garlic, lemon juice, honey, chile-garlic sauce, red pepper flakes, and black pepper together in a saucepan over medium-high heat; add enough water to reach desired sauce consistency. Bring sauce to a simmer; reduce heat to medium-low, and simmer until thick and flavors blend, about 5 minutes. Cool to room temperature and season with salt.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Fish Fillets Italiano Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="0.5 Cup">Olive</ingredient></ingredients>
+<instructions>
+In a large frying pan, heat oil over medium heat. Saute onions and garlic in olive oil until softened.
+
+Stir in tomatoes, olives, parsley, and wine. Simmer for 5 minutes.
+
+Place fillets in sauce. Simmer for about 5 more minutes, or until fish turns white.
+
+
+
+
+</instructions>
+</recipe>

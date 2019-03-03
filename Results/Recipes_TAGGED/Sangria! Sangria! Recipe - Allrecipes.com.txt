@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Sangria! Sangria! Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Bran</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="0.3333333333333333 Cup">Orange</ingredient><ingredient amount="1.0">Orange</ingredient><ingredient amount="1.0">Lime</ingredient><ingredient amount="0.25 Cup">Sugar</ingredient><ingredient amount="2.0 Cup">Carbonated Water</ingredient></ingredients>
+<instructions>
+In a large pitcher or bowl, mix together the brandy, lemon juice, lemonade concentrate, orange juice, red wine, triple sec, and sugar. Float slices of lemon, orange and lime, and maraschino cherries in the mixture. Refrigerate overnight for best flavor. For a fizzy sangria, add club soda just before serving.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Teriyaki Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient></ingredients>
+<instructions>
+Combine soy sauce, sake, mirin and sugar in a small saucepan over medium heat and stir until sugar is dissolved. Can be used immediately or cooled and refrigerated.
+
+
+
+
+</instructions>
+</recipe>

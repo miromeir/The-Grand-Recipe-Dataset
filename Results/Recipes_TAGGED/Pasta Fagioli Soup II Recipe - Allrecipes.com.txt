@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Pasta Fagioli Soup II Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Spinach</ingredient><ingredient amount="2.0 Ounce">Chicken</ingredient><ingredient amount="1.0 Ounce">Tomato Sauce</ingredient><ingredient amount="1.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Pound">Pasta</ingredient></ingredients>
+<instructions>
+In a large stock pot, combine diced tomatoes, beans, spinach, chicken broth, tomato sauce, water, garlic, bacon, parsley, garlic powder, salt, pepper, and basil. Bring to a boil, and let simmer for 40 minutes, covered.
+
+Add pasta and cook uncovered until pasta is tender, approximately 10 minutes. Ladle soup into individual serving bowls, sprinkle cheese on top, and serve.
+
+
+
+
+</instructions>
+</recipe>

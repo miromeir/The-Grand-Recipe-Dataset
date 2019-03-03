@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Russian Tea Cakes I Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Butter</ingredient><ingredient amount="6.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Cup">Flour</ingredient><ingredient amount="1.0 Cup">Walnut</ingredient><ingredient amount="0.3333333333333333 Cup">Sugar</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+In a medium bowl, cream butter and vanilla until smooth. Combine the 6 tablespoons confectioners' sugar and flour; stir into the butter mixture until just blended. Mix in the chopped walnuts. Roll dough into 1 inch balls, and place them 2 inches apart on an ungreased cookie sheet.
+
+Bake for 12 minutes in the preheated oven. When cool, roll in remaining confectioners' sugar. I also like to roll mine in the sugar a second time.
+
+
+
+
+</instructions>
+</recipe>

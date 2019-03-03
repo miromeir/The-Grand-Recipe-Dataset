@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Roasted Veggie Pasta Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="0.25 Pound">Asparagus</ingredient><ingredient amount="2.0">Bell Pepper</ingredient><ingredient amount="0.25 Pound">Mush</ingredient><ingredient amount="10.0">Garlic</ingredient><ingredient amount="0.5 Quart">Tomato</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.25 Cup">Parmesan Cheese</ingredient><ingredient amount="2.0 Tablespoon">Tapenade</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C). Prepare asparagus by trimming woody base and cutting diagonally into 4 inch pieces.
+
+In a roasting pan, combine asparagus, bell pepper, mushrooms, roasted garlic and tomato. Sprinkle with rosemary and oregano, then drizzle with olive oil. Bake in preheated oven for 15 minutes.
+
+Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Toss with Parmesan cheese, tapenade and roasted vegetables.
+
+
+
+
+</instructions>
+</recipe>

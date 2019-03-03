@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Asian Ginger Dressing Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="3.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient><ingredient amount="0.75 Cup">Olive Oil</ingredient><ingredient amount="0.3333333333333333 Cup">Rice</ingredient><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="3.0 Tablespoon">Honey</ingredient></ingredients>
+<instructions>
+In a 1 pint glass jar or larger, combine the garlic, ginger, olive oil, rice vinegar, soy sauce, honey, and water. Cover the jar with a tight fitting lid, and shake well. Remove lid, and heat jar in the microwave for 1 minute just to dissolve the honey. Let cool, and shake well before serving. Store covered in the refrigerator.
+
+
+
+
+</instructions>
+</recipe>

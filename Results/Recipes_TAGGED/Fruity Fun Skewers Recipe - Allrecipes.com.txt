@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Fruity Fun Skewers Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="0.25">Cantal</ingredient><ingredient amount="2.0">Banana</ingredient><ingredient amount="1.0">Apple</ingredient></ingredients>
+<instructions>
+Thread the strawberries, cantaloupe, banana and apple pieces alternately onto skewers, placing at least 2 pieces of fruit on each skewer. Arrange the fruit skewers decoratively on a serving platter.
+
+
+
+
+</instructions>
+</recipe>

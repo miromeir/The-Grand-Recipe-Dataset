@@ -1,0 +1,16 @@
+<recipe>
+<title>
+D's Famous Salsa Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Tomato</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="1.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="0.5">Juice</ingredient></ingredients>
+<instructions>
+Place the tomatoes, onion, garlic, lime juice, salt, green chiles, and cilantro in a blender or food processor. Blend on low to desired consistency.
+
+
+
+
+</instructions>
+</recipe>

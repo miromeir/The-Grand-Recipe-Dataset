@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Pastry Cream Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Milk</ingredient><ingredient amount="0.25 Cup">Sugar</ingredient><ingredient amount="2.0">Egg Yolk</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="0.3333333333333333 Cup">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient></ingredients>
+<instructions>
+In a heavy saucepan, stir together the milk and 1/4 cup of sugar. Bring to a boil over medium heat.
+
+In a medium bowl, whisk together the egg yolks and egg. Stir together the remaining sugar and cornstarch; then stir them into the egg until smooth. When the milk comes to a boil, drizzle it into the bowl in a thin stream while mixing so that you do not cook the eggs. Return the mixture to the saucepan, and slowly bring to a boil, stirring constantly so the eggs don' t curdle or scorch on the bottom.
+
+When the mixture comes to a boil and thickens, remove from the heat. Stir in the butter and vanilla, mixing until the butter is completely blended in. Pour into a heat-proof container and place a piece of plastic wrap directly on the surface to prevent a skin from forming. Refrigerate until chilled before using.
+
+
+
+
+</instructions>
+</recipe>

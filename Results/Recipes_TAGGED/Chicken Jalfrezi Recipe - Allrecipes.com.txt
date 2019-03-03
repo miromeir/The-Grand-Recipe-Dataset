@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Chicken Jalfrezi Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="3.0 Teaspoon">Tu</ingredient><ingredient amount="1.0 Teaspoon">Chili Powder</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="2.0 Tablespoon">Clarified Butter</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient></ingredients>
+<instructions>
+Heat the oil in a large deep skillet over medium-high heat. Add onions and garlic, and cook for about 2 minutes. Add the chicken, and season with turmeric, chili powder and salt. Fry gently, scraping the bottom of the pan frequently and turning the chicken.
+
+Pour in the tomatoes with their juice, cover the pan, and simmer over medium heat for 20 minutes. Uncover, and simmer for another 10 minutes to let the excess liquid evaporate.
+
+Add the ghee, cumin, ground coriander, ginger and cilantro, and simmer for another 5 to 7 minutes. Serve the chicken pieces with sauce spooned over the top.
+
+
+
+
+</instructions>
+</recipe>

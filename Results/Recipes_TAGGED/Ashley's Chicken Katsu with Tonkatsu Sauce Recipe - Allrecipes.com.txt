@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Ashley's Chicken Katsu with Tonkatsu Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="">Chicken</ingredient><ingredient amount="2.0 Cup">Vegetable Oil</ingredient><ingredient amount="0.5 Cup">Flour</ingredient><ingredient amount="0.5 Cup">Bread Crumbs</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="2.0 Inch">Chicken</ingredient><ingredient amount="1.0">Onion</ingredient></ingredients>
+<instructions>
+For the sauce, stir together the Worcestershire sauce, ketchup, and soy sauce, and a pinch of pepper to taste. Set aside.
+
+Heat oil in deep-fryer to 350 degrees F (175 degrees C).
+
+Place flour and panko bread crumbs onto separate plates and season with salt and pepper. Place the beaten egg in a medium bowl. Dip flattened chicken pieces first into flour, then egg, and lastly bread crumbs.
+
+Fry breaded chicken breasts in preheated oil until golden brown and no longer pink in center, about 8 minutes. Transfer to a paper towel-lined plate to absorb excess oil. Slice chicken into thin strips and top with a drizzle of sauce and a sprinkling of sliced green onions. Serve remaining sauce on the side for dipping.
+
+
+
+
+</instructions>
+</recipe>

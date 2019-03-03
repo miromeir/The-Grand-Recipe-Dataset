@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Chinese Pork Dumplings Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Rice</ingredient><ingredient amount="1.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="1.0 Pound">Pork</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="50.0">Dumpling</ingredient><ingredient amount="1.0 Cup">Vegetable Oil</ingredient></ingredients>
+<instructions>
+Combine 1/2 cup soy sauce, rice vinegar, 1 tablespoon chives, sesame seeds, and chile sauce in a small bowl. Set aside.
+
+Mix pork, garlic, egg, 2 tablespoons chives, soy sauce, sesame oil, and ginger in a large bowl until thoroughly combined. Place a dumpling wrapper on a lightly floured work surface and spoon about 1 tablespoon of the filling in the middle. Wet the edge with a little water and crimp together forming small pleats to seal the dumpling. Repeat with remaining dumpling wrappers and filling.
+
+Heat 1 to 2 tablespoons vegetable oil in a large skillet over medium-high heat. Place 8 to 10 dumplings in the pan and cook until browned, about 2 minutes per side. Pour in 1 cup of water, cover and cook until the dumplings are tender and the pork is cooked through, about 5 minutes. Repeat for remaining dumplings. Serve with soy sauce mixture for dipping.
+
+
+
+
+</instructions>
+</recipe>

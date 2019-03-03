@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Lamb Ribs with Honey and Wine Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="2.0">Onion</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="1.0 Tablespoon">Honey</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="2.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="1.0 Teaspoon">Cinnamon</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Place lamb in a 9x13-inch baking dish.
+
+Combine onions, white wine, soy sauce, lemon juice, honey, olive oil, garlic, cinnamon, salt, and pepper in a small bowl. Mix well and pour mixture all over lamb. Cover with plastic wrap and marinate in the refrigerator for 1 hour.
+
+Preheat oven to 400 degrees F (200 degrees C).
+
+Roast lamb in the preheated oven until browned and tender, about 1 hour 10 minutes.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,31 @@
+<recipe>
+<title>
+Kim Chee Squats Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients>
+2 pounds coarsely chopped Chinese cabbage
+1 tablespoon salt
+2 tablespoons chopped green onion
+1 clove garlic, crushed
+1 tablespoon chili powder
+2 teaspoons minced fresh ginger root
+1/2 cup light soy sauce
+1/2 cup white wine vinegar
+2 teaspoons white sugar
+1 dash sesame oil
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Place the cabbage into a large dish, and sprinkle with salt. Let stand for 3 to 4 hours. The cabbage will wilt.
+
+After the cabbage has been sitting, massage it with your hands until it is even softer. Drain off the liquid. Mix in the green onion, garlic, chili powder, ginger, soy sauce, vinegar, and sugar. Transfer to a large glass jar, and refrigerate for 24 hours before using. This will keep for about a week in the refrigerator. Sprinkle with sesame oil before serving.
+
+
+
+
+</instructions>
+</recipe>

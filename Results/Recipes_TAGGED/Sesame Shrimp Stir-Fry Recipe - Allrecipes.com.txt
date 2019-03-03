@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Sesame Shrimp Stir-Fry Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Rice</ingredient><ingredient amount="0.25 Teaspoon">Ginger</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="3.0">Onion</ingredient><ingredient amount="3.0 Tablespoon">Teriyaki Sauce</ingredient><ingredient amount="0.5 Pound">Sugar</ingredient><ingredient amount="0.75 Cup">Chicken</ingredient></ingredients>
+<instructions>
+In a medium saucepan, bring salted water to a boil. Add rice, reduce heat, cover and simmer for 20 minutes.
+
+While rice is simmering, combine shrimp, ginger, cayenne pepper, garlic, sesame seeds and black pepper in a large plastic food storage bag. Allow to marinate in the refrigerator.
+
+Heat sesame oil in a large wok or skillet. Add red bell pepper and green onions; saute 3 to 4 minutes to soften slightly Add teriyaki sauce. Add peas and shrimp with seasoning; saute 4 minutes or until shrimp are opaque.
+
+Stir cornstarch into chicken broth and add to wok; cook, stirring until mixture boils. Sprinkle with salt. Spoon shrimp mixture over rice.
+
+
+
+
+</instructions>
+</recipe>

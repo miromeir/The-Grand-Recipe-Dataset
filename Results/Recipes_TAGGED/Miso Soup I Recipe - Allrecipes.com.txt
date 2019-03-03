@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Miso Soup I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="2.0 Inch">Tofu</ingredient><ingredient amount="1.0 Tablespoon">Paste</ingredient><ingredient amount="2.0 Teaspoon">Paste</ingredient><ingredient amount="0.5 Cup">Spinach</ingredient><ingredient amount="1.0">Onion</ingredient></ingredients>
+<instructions>
+In a medium saucepan, bring the water to a boil. Ladle out about 1/2 cup of the boiling water, and reserve. Add tofu. Reduce the heat to medium, cover, and cook for 1 to 2 minutes. Add spinach or bok choy; simmer about 1 to 2 minutes, or until the greens are tender. Remove soup from heat.
+
+Blend white miso and barley miso into reserved hot water. Stir into soup. Ladle into bowls, and garnish with scallion. Serve immediately.
+
+
+
+
+</instructions>
+</recipe>

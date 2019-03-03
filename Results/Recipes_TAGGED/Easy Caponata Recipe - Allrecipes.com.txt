@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Easy Caponata Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="2.0 Inch">Celery</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="2.0">Bell Pepper</ingredient><ingredient amount="2.0">Zucchini</ingredient><ingredient amount="1.0 Cup">Tomato</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="10.0">Olive</ingredient><ingredient amount="2.0 Tablespoon">Raisin</ingredient><ingredient amount="2.0 Tablespoon">Nut</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Bring a large pot of lightly salted water to a boil. Add celery and cook uncovered until softened, about 1 minute. Drain in a colander and immediately immerse in ice water for several minutes to stop the cooking process. Drain.
+
+Heat oil in a large non-stick skillet over medium heat; add onion and celery and cook until soft and translucent, about 5 minutes. Add eggplant, red bell peppers, and zucchini and cook until slightly softened, about 5 minutes. Stir in tomato puree, vinegar, and sugar. Cook until the vegetables are tender, about 15 minutes. Add olives, raisins, pine nuts, and capers. Season with salt and pepper and cook until flavors are well combined, about 5 minutes.
+
+Remove skillet from heat; stir in chopped basil. Cool and serve at room temperature.
+
+
+
+
+</instructions>
+</recipe>

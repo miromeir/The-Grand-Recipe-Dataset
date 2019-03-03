@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Thai Grilled Chicken with Sweet Chile Dipping Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Coconut Milk</ingredient><ingredient amount="2.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="2.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="1.0 Teaspoon">Tu</ingredient><ingredient amount="1.0 Teaspoon">Curry Powder</ingredient><ingredient amount="0.5 Teaspoon">White Pepper</ingredient><ingredient amount="0.5 Pound">Chicken</ingredient><ingredient amount="6.0 Tablespoon">Rice</ingredient><ingredient amount="4.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Minced Garlic</ingredient></ingredients>
+<instructions>
+In a shallow dish, mix together the coconut milk, fish sauce, 2 tablespoons minced garlic, cilantro, turmeric, curry powder, and white pepper. Add chicken, and turn to coat. Cover, and refrigerate for 4 hours or overnight.
+
+Preheat grill for high heat.
+
+In a saucepan, combine vinegar, water, sugar, 1 teaspoon minced garlic, bird's eye chile, and salt; bring to a boil. Reduce heat to low, and simmer until liquid is reduced, about 5 minutes. Stir sauce from time to time. Remove from heat and allow to cool before use.
+
+Lightly oil grill grate. Discard marinade, and place chicken on the grill. Cook for 10 minutes per side, or until slightly charred and juices run clear. Brush with sauce before serving. Serve remaining sauce on the side for dipping.
+
+
+
+
+</instructions>
+</recipe>

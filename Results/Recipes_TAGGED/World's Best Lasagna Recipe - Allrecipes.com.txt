@@ -1,0 +1,24 @@
+<recipe>
+<title>
+World's Best Lasagna Recipe - Allrecipes.com
+</title>
+<cuisine>
+Italian
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Ital</ingredient><ingredient amount="0.75 Pound">Beef</ingredient><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="2.0 Ounce">Tomato Paste</ingredient><ingredient amount="2.0 Ounce">Canned Tomato</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Ital</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="16.0 Ounce">Ricotta</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="0.75 Pound">Mozzarella</ingredient><ingredient amount="0.75 Cup">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 tablespoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally.
+
+Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt.
+
+Preheat oven to 375 degrees F (190 degrees C).
+
+To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese.
+
+Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving.
+
+
+
+
+</instructions>
+</recipe>

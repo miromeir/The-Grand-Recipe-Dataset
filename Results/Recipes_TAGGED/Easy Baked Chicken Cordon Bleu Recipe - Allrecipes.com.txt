@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Easy Baked Chicken Cordon Bleu Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="6.0 Inch">Chicken</ingredient><ingredient amount="6.0">Cheese</ingredient><ingredient amount="6.0">Ham</ingredient><ingredient amount="0.5 Cup">Butter</ingredient><ingredient amount="1.0 Cup">Bread Crumbs</ingredient></ingredients>
+<instructions>
+Preheat the oven to 350 degrees F (175 degrees C).
+
+Lay out the pounded chicken breasts on a clean surface. Place a slice of ham on each piece, then one stick of cheese. Roll the chicken up around the cheese and ham, and secure with toothpicks. Dip each roll in melted butter, then roll in bread crumbs. Place in a shallow baking dish.
+
+Bake for 40 minutes in the preheated oven, or until chicken is browned and juices run clear.
+
+
+
+
+</instructions>
+</recipe>

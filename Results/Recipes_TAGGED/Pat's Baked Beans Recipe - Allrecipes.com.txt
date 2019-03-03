@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Pat's Baked Beans Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Pint">Bean</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="0.5 Cup">Molasses</ingredient><ingredient amount="0.25 Cup">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Mus</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Preheat oven to 375 degrees F (190 degrees C).
+
+Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, reserving 2 tablespoons of drippings, crumble and set aside in a large bowl. Cook the onion and garlic in the reserved drippings until onion is tender; drain excess grease and transfer to the bowl with the bacon.
+
+To the bacon and onions add pinto beans, northern beans, baked beans, kidney beans and garbanzo beans. Stir in ketchup, molasses, brown sugar, Worcestershire sauce, mustard and black pepper. Mix well and transfer to a 9x12 inch casserole dish.
+
+Cover and bake in preheated oven for 1 hour.
+
+
+
+
+</instructions>
+</recipe>

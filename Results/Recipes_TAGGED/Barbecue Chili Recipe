@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Barbecue Chili Recipe
+</title>
+<details>
+AUTHOR: i heart eating
+PREP TIME: 10 minutes
+COOK TIME: 1 hour 15 minutes
+TOTAL TIME: 1 hour 30 minutes
+COURSE: Main Course
+CUISINE: American
+KEYWORD: barbecue, chili, Ground beef
+SERVINGS: 8
+</details>
+<ingredients><ingredient amount="1.0 Pound">Beef</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="15.0 Ounce">Bean</ingredient><ingredient amount="3.0 Ounce">Tomato</ingredient><ingredient amount="16.0 Ounce">Barbecue Sauce</ingredient><ingredient amount="1.0 Teaspoon">Chili Powder</ingredient><ingredient amount="1.0 Tablespoon">Molasses</ingredient></ingredients>
+<instructions>
+In a large pot or Dutch oven, brown the ground meat. Drain.
+Return the cooked meat to the pot.
+Add the rest of the ingredients. Stir to combine.
+Cover, and simmer over medium-low heat, stirring as needed, for about 1-2 hours.
+</instructions>
+<cuisine>American</cuisine></recipe>

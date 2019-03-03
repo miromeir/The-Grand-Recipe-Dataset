@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Garlic Green Beans Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="3.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="2.0 Ounce">Green Bean</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="0.25 Cup">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+In a large skillet over medium heat, melt butter with olive oil; add garlic, and cook until lightly browned, stirring frequently. Stir in green beans, and season with salt and pepper. Cook until beans are tender, about 10 minutes. Remove from heat, and sprinkle with Parmesan cheese.
+
+
+
+
+</instructions>
+</recipe>

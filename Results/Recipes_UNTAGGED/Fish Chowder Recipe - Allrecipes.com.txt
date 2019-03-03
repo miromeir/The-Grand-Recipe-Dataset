@@ -1,0 +1,39 @@
+<recipe>
+<title>
+Fish Chowder Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients>
+2 tablespoons butter
+2 cups chopped onion
+4 fresh mushrooms, sliced
+1 stalk celery, chopped
+4 cups chicken stock
+4 cups diced potatoes
+2 pounds cod, diced into 1/2 inch cubes
+1 cup clam juice
+1/2 cup all-purpose flour
+1/8 teaspoon Old Bay Seasoning TM, or to taste
+salt to taste
+ground black pepper to taste
+2 (12 fluid ounce) cans evaporated milk
+cooked crumbled bacon (optional)
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a large stockpot, melt 2 tablespoons butter over medium heat. Saute onions, mushrooms and celery in butter until tender.
+
+Add chicken stock and potatoes; simmer for 10 minutes.
+
+Add fish, and simmer another 10 minutes.
+
+Mix together clam juice and flour until smooth; stir into soup and simmer for 1 minute more. Season to taste with Old Bay seasoning, salt, and pepper. Remove from heat, and stir in evaporated milk. Top each bowl with crumbled bacon, if desired.
+
+
+
+
+</instructions>
+</recipe>

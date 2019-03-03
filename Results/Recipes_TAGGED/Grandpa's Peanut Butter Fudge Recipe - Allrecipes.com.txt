@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Grandpa's Peanut Butter Fudge Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Sugar</ingredient><ingredient amount="2.0 Cup">Sugar</ingredient><ingredient amount="1.0 Cup">Milk</ingredient><ingredient amount="1.0 Cup">Peanut Butter</ingredient><ingredient amount="1.0 Tablespoon">Margarine</ingredient></ingredients>
+<instructions>
+Mix brown and white sugar with the milk in large pot; bring mixture to a boil. Stir in peanut butter, reduce heat to medium, and bring the mixture back to boil (stirring constantly). Remove the pot from heat when a drop of the mixture forms a ball in a glass of cold water.
+
+Stir margarine and vanilla into the mixture; stir vigorously until the fudge hardens. (Always stir in same direction.) Pour fudge onto buttered plates or waxed paper. Let cool and cut into 1-inch pieces.
+
+
+
+
+</instructions>
+</recipe>

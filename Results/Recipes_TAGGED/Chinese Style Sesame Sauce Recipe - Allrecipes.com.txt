@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Chinese Style Sesame Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0 Teaspoon">Paste</ingredient><ingredient amount="1.0">Garlic</ingredient></ingredients>
+<instructions>
+In a saucepan, mix together sugar and cornstarch. Stir in chicken broth, water, vinegar, soy sauce, sesame oil, chile paste, and garlic. Bring to a boil over medium heat, stirring constantly. Reduce heat, and simmer 5 minutes.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Tuna Tartare Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Tu</ingredient><ingredient amount="3.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a bowl, stir together olive oil, wasabi powder, sesame seeds, and cracked black pepper. Toss tuna into mixture until evenly coated. Adjust seasoning as desired with additional wasabi powder or black pepper. Serve on sliced French bread.
+
+
+
+
+</instructions>
+</recipe>

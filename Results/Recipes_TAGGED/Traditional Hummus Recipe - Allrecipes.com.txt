@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Traditional Hummus Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="3.0">Garlic</ingredient><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="1.0 Cup">Olive Oil</ingredient><ingredient amount="1.0 Cup">Tahini</ingredient><ingredient amount="3.0">Juice</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient></ingredients>
+<instructions>
+Place garlic in a food processor and chop thoroughly. Add garbanzo beans and blend into a paste. Pour in 1 cup olive oil, tahini, lemon juice, and salt. Blend until smooth and creamy.
+
+Place hummus in a bowl and top with 1/4 cup olive oil.
+
+
+
+
+</instructions>
+</recipe>

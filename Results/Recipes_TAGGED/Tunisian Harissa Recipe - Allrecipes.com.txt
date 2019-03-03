@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Tunisian Harissa Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="11.0 Ounce">Pepper</ingredient><ingredient amount="0.75 Cup">Garlic</ingredient><ingredient amount="2.0 Cup">Caraway Seed</ingredient><ingredient amount="0.5 Teaspoon">Coriander Seed</ingredient></ingredients>
+<instructions>
+Remove the stems and seeds from the chile peppers. Soak in cold water for 20 minutes, then drain. Place the peppers, garlic, caraway, coriander, and salt in a mortar; pound with a pestle until smooth. Place harissa in a jar, and cover the top with a little oil to maintain freshness. Store in the refrigerator.
+
+
+
+
+</instructions>
+</recipe>

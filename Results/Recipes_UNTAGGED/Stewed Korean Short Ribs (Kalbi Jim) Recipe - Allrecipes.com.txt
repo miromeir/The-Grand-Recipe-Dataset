@@ -1,0 +1,27 @@
+<recipe>
+<title>
+Stewed Korean Short Ribs (Kalbi Jim) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients>
+2 pounds beef short ribs, trimmed
+1 green onion, chopped
+2 carrots, peeled and chopped
+4 cloves garlic, minced
+1 (1 inch) piece fresh ginger root, chopped
+1/2 cup reduced-sodium soy sauce
+1/4 cup brown sugar
+2 cups water to cover
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Score the surface of each beef short rib in a diamond pattern. Combine beef, green onion, carrots, garlic, ginger, soy sauce, and brown sugar in a large skillet. Pour enough water to cover the beef. Bring to a boil over medium-high heat, then reduce heat to medium-low. Simmer until beef is tender, about 1 hour. Skim off excess oil before serving.
+
+
+
+
+</instructions>
+</recipe>

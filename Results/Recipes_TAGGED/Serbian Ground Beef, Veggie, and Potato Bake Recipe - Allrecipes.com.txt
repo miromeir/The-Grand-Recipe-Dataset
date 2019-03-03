@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Serbian Ground Beef, Veggie, and Potato Bake Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Beef</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Carrot</ingredient><ingredient amount="2.0">Celery</ingredient><ingredient amount="0.5 Tablespoon">Paprika</ingredient><ingredient amount="0.75 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="1.0">Cinnamon</ingredient><ingredient amount="1.0">Clove</ingredient><ingredient amount="1.0">Bouillon</ingredient><ingredient amount="2.0">Potato</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C). Lightly grease a casserole dish.
+
+In a skillet over medium heat, cook the beef until evenly brown. Remove beef from skillet, reserving juices, and set aside. Mix in the olive oil, and saute the green pepper, onion, carrot, and celery until tender.
+
+Return beef to the skillet, and season with paprika, salt, black pepper, red pepper, cinnamon, and cloves. Stir in the water and red wine until heated through. Dissolve the beef bouillon cube into the mixture. Remove skillet from heat, and mix in the half-and-half.
+
+Layer the bottom of the prepared casserole dish with enough potato slices to cover. Place the beef and vegetable mixture over the potatoes, and top with remaining potatoes.
+
+Cook, covered, 45 minutes in the preheated oven, or until the potatoes are tender.
+
+
+
+
+</instructions>
+</recipe>

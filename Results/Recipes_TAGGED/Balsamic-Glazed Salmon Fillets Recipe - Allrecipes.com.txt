@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Balsamic-Glazed Salmon Fillets Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="6.0 Ounce">Salmon</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Honey</ingredient><ingredient amount="4.0 Teaspoon">Mus</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil, and spray with non-stick cooking spray.
+
+Coat a small saucepan with non-stick cooking spray. Over medium heat, cook and stir garlic until soft, about 3 minutes. Mix in white wine, honey, balsamic vinegar, mustard, and salt and pepper. Simmer, uncovered, for about 3 minutes, or until slightly thickened.
+
+Arrange salmon fillets on foil-lined baking sheet. Brush fillets with balsamic glaze, and sprinkle with oregano.
+
+Bake in preheated oven for 10 to 14 minutes, or until flesh flakes easily with a fork. Brush fillets with remaining glaze, and season with salt and pepper. Use a spatula to transfer fillets to serving platter, leaving the skin behind on the foil.
+
+
+
+
+</instructions>
+</recipe>

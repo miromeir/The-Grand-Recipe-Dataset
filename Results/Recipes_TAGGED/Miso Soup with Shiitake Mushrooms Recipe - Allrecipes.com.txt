@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Miso Soup with Shiitake Mushrooms Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="4.0 Cup">Vegetable</ingredient><ingredient amount="4.0">Mush</ingredient><ingredient amount="0.25 Cup">Paste</ingredient><ingredient amount="4.0 Teaspoon">Soy Sauce</ingredient><ingredient amount="0.3333333333333333 Cup">Tofu</ingredient><ingredient amount="2.0">Onion</ingredient></ingredients>
+<instructions>
+Bring the vegetable broth to a boil in a saucepan. Add the mushrooms, reduce heat to low, and simmer 4 minutes. Stir the miso paste and soy sauce together in a small bowl; add to the broth along with the tofu and continue cooking for 1 minute more. Pour the soup into bowls and top with the green onions to serve.
+
+
+
+
+</instructions>
+</recipe>

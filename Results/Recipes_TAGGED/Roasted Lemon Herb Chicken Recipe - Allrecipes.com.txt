@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Roasted Lemon Herb Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="2.0 Teaspoon">Ital</ingredient><ingredient amount="0.5 Teaspoon">Mus</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+Combine the seasoning, salt, mustard powder, garlic powder and black pepper; set aside. Rinse the chicken thoroughly, and remove the giblets. Place chicken in a 9x13 inch baking dish. Sprinkle 1 1/2 teaspoons of the spice mixture inside the chicken. Rub the remaining mixture on the outside of the chicken.
+
+Squeeze the juice of the 2 lemons into a small bowl or cup, and mix with the olive oil. Drizzle this oil/juice mixture over the chicken.
+
+Bake in the preheated oven for 1 1/2 hours, or until juices run clear, basting several times with the remaining oil mixture.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+The Best Lemon Vinaigrette Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Mus</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient></ingredients>
+<instructions>
+Whisk red wine vinegar, Dijon mustard, oregano, garlic, salt, and black pepper together in a small bowl. Slowly stream olive oil into the vinegar mixture while whisking briskly. Beat lemon juice into the mixture.
+
+Pour dressing into a sealable jar or bottle, seal, and shake until emulsified.
+
+
+
+
+</instructions>
+</recipe>

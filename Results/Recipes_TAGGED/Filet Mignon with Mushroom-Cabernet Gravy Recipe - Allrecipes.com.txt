@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Filet Mignon with Mushroom-Cabernet Gravy Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="2.0 Inch">Steak</ingredient><ingredient amount="0.5 Teaspoon">Sea Salt</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="12.0 Ounce">Mush</ingredient><ingredient amount="0.5 Cup">Broth</ingredient></ingredients>
+<instructions>
+Heat olive oil in a large nonstick skillet over medium-high heat. Sprinkle the filets with salt and pepper, gently place them into the hot skillet, and sear until well-browned on each side, about 2 minutes per side. Remove the steaks to a platter, tent with aluminum foil, and keep warm.
+
+Turn the heat down to medium, and melt the butter. Cook and stir the shallot and mushrooms in the butter until the mushrooms begin to give off their liquid and the shallots are translucent, about 5 minutes. Stir in the wine, beef broth, and thyme, and simmer the sauce until it begins to reduce, 6 to 10 minutes. Return the steaks to the sauce, and simmer briefly until they start to become firm and are reddish-pink and juicy in the center, about 2 to 4 minutes per side (for medium-rare.) An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C). Remove the steaks to serving dishes.
+
+In a small bowl, stir the cornstarch and water until it forms a smooth paste. Stir the cornstarch mixture into the pan sauce, and cook and stir until thickened, about 30 seconds. Top each serving with mushroom-wine sauce to serve.
+
+
+
+
+</instructions>
+</recipe>

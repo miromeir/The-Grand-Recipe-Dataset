@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Thai Chicken Curry in Coconut Milk Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Teaspoon">Paste</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0 Cup">Coconut Milk</ingredient><ingredient amount="1.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient></ingredients>
+<instructions>
+Heat the oil in a large skillet over high heat; heat the curry paste in the oil about 30 seconds. Add the chicken and cook another 3 minutes. Stir in the onion, bell pepper, lemon zest, coconut milk, fish sauce, and lemon juice; bring to a boil; cook until the chicken is cooked through, 5 to 7 minutes. Sprinkle cilantro over the dish; stir. Serve hot.
+
+
+
+
+</instructions>
+</recipe>

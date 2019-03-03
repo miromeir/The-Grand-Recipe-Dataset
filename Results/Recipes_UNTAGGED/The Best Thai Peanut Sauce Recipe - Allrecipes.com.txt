@@ -1,0 +1,29 @@
+<recipe>
+<title>
+The Best Thai Peanut Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients>
+1 1/2 cups creamy peanut butter
+1/2 cup coconut milk
+3 tablespoons water
+3 tablespoons fresh lime juice
+3 tablespoons soy sauce
+1 tablespoon fish sauce
+1 tablespoon hot sauce
+1 tablespoon minced fresh ginger root
+3 cloves garlic, minced
+1/4 cup chopped fresh cilantro
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a bowl, mix the peanut butter, coconut milk, water, lime juice, soy sauce, fish sauce, hot sauce, ginger, and garlic. Mix in the cilantro just before serving.
+
+
+
+
+</instructions>
+</recipe>

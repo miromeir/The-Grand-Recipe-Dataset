@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Persian Cucumber Yogurt (Maast-o Khiar) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients>
+1 (32 ounce) container plain yogurt
+3 English cucumbers, peeled and cubed
+1 clove garlic, minced
+1 shallot, finely chopped
+5 tablespoons dried dill weed
+1 teaspoon salt
+1 teaspoon pepper
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a medium bowl, stir together the yogurt, cucumbers, garlic, and shallot. Season with dill, salt and pepper. Refrigerate for at least 1 hour to blend flavors.
+
+
+
+
+</instructions>
+</recipe>

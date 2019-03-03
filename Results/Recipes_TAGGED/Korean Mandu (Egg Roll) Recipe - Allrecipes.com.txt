@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Korean Mandu (Egg Roll) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Cabbage</ingredient><ingredient amount="0.5 Pound">Beef</ingredient><ingredient amount="0.5 Pound">Pork</ingredient><ingredient amount="1.0 Ounce">Bean Sprout</ingredient><ingredient amount="0.3333333333333333 Cup">Celery</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Ounce">Wonton</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="">Vegetable Oil</ingredient></ingredients>
+<instructions>
+Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add cabbage, cover, and steam until tender, 2 to 4 minutes.
+
+Heat a large skillet over medium-high heat. Cook and stir beef and pork in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Transfer meat mixture to a large bowl, breaking up any large chunks with a wooden spoon.
+
+Heat oil in a deep-fryer or large saucepan to 360 degrees F (182 degrees C).
+
+Mix cabbage, bean sprouts, celery, green onion, soy sauce, cornstarch, sesame oil, salt, and pepper into meat mixture. Spoon mixture into the center of each wonton wrapper. Spread beaten egg onto 2 edges of each wrapper and fold wrapper around filling, sealing edges together.
+
+Fry wontons in the hot oil until browned, 3 to 5 minutes. Transfer to a paper towel-lined plate using a slotted spoon.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Bulgogi-Spiced Tofu Wraps with Kimchi Slaw Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="3.0 Cup">Leek</ingredient><ingredient amount="3.0 Tablespoon">Onion</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0 Tablespoon">Honey</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Inch">Tofu</ingredient><ingredient amount="">Vinaigrette</ingredient><ingredient amount="1.0 Tablespoon">Honey</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="2.0 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Inch">Cucumber</ingredient><ingredient amount="2.0">Carrot</ingredient><ingredient amount="12.0">Iceberg Lettuce</ingredient></ingredients>
+<instructions>
+Combine 3 tablespoons soy sauce, leek, onion, 2 tablespoons sesame oil, 1 1/2 tablespoons honey, and black pepper in a bowl. Whisk until fully combined. Add tofu and cover with plastic wrap. Marinate in the refrigerator at least 2 hours.
+
+Whisk 1 1/2 tablespoons honey, light soy sauce, 1 1/2 tablespoons sesame oil, and gochujang together in a bowl. Toss in cucumber, carrots, daikon, and scallions. Cover with plastic wrap and refrigerate slaw until ready to use.
+
+Preheat an outdoor grill to 465 degrees F (240 degrees C) and lightly oil the grate. Add the marinated tofu and grill until browned, about 4 minutes per side. Let cool; chop into 1x3-inch strips.
+
+Toss grilled tofu into the prepared slaw. Wrap in lettuce leaves.
+
+
+
+
+</instructions>
+</recipe>

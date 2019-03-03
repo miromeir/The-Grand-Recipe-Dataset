@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Hamusta Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="4.0">Chard</ingredient><ingredient amount="2.0 Inch">Celery</ingredient><ingredient amount="2.0 Quart">Zucchini</ingredient><ingredient amount="2.0">Carrot</ingredient><ingredient amount="1.0">Potato</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="9.0 Tablespoon">Juice</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient></ingredients>
+<instructions>
+Stir chard, celery, zucchini, carrots, potato, garlic, lemon juice, sugar, and salt together in a large pot; add water. Bring the mixture to a boil, reduce heat to medium-low, and cook at a simmer until the vegetables are fork-tender, about 15 minutes.
+
+
+
+
+</instructions>
+</recipe>

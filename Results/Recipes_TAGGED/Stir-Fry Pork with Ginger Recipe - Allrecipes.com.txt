@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Stir-Fry Pork with Ginger Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="0.5 Inch">Ginger</ingredient><ingredient amount="0.25 Pound">Pork</ingredient><ingredient amount="1.0 Teaspoon">Soy Sauce</ingredient><ingredient amount="0.5 Teaspoon">Soy Sauce</ingredient><ingredient amount="0.3333333333333333 Teaspoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Tablespoon">Rice</ingredient></ingredients>
+<instructions>
+Heat oil in a large skillet or wok over medium-high heat. Fry ginger in hot oil until fragrant, then add pork, soy sauce, dark soy sauce, salt, and sugar. Cook, stirring occasionally, for 10 minutes.
+
+Stir in the sesame oil, green onion, and rice wine. Simmer until the pork is tender.
+
+
+
+
+</instructions>
+</recipe>

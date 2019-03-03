@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Easy Arugula Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Tomato</ingredient><ingredient amount="0.25 Cup">Nut</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Tablespoon">Rice</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="0.25 Cup">Parmesan Cheese</ingredient><ingredient amount="1.0">Avocado</ingredient></ingredients>
+<instructions>
+In a large plastic bowl with a lid, combine arugula, cherry tomatoes, pine nuts, oil, vinegar, and Parmesan cheese. Season with salt and pepper to taste. Cover, and shake to mix.
+
+Divide salad onto plates, and top with slices of avocado.
+
+
+
+
+</instructions>
+</recipe>

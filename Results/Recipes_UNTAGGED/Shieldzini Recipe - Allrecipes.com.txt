@@ -1,0 +1,27 @@
+<recipe>
+<title>
+Shieldzini Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients>
+3 cucumbers
+1 teaspoon salt
+1 tablespoon vegetable oil
+2 teaspoons white sugar
+3 tablespoons rice wine vinegar
+3 tablespoons soy sauce
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Cut cucumbers lengthwise, scoop out seeds with a spoon, and slice cucumbers into bite-sized pieces. Transfer to a salad bowl.
+
+In a small bowl, mix together salt, oil, sugar, rice wine vinegar, and soy sauce. Pour over cucumbers, and gently toss. Refrigerate several hours before serving, tossing every now and then.
+
+
+
+
+</instructions>
+</recipe>

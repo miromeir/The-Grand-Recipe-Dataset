@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Goong Tod Kratiem Prik Thai (Prawns Fried with Garlic and White Pepper) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="8.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Flour</ingredient><ingredient amount="2.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="0.5 Teaspoon">White Pepper</ingredient><ingredient amount="0.25 Cup">Vegetable Oil</ingredient></ingredients>
+<instructions>
+Combine garlic, tapioca flour, fish sauce, soy sauce, sugar, and white pepper in a bowl; add prawns and toss to coat.
+
+Heat 2 tablespoons oil in a heavy skillet over high heat. Add 1/2 of the prawns in single layer; fry until golden brown and crispy, 1 to 2 minutes per side. Repeat with remaining oil and remaining prawns.
+
+
+
+
+</instructions>
+</recipe>

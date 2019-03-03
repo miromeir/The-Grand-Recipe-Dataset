@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Tasteful Tahini Salad Dressing Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Tahini</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="2.0 Teaspoon">Ginger</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Blend the tahini, olive oil, water, tamari, red wine vinegar, lemon juice, ginger, garlic, and black pepper together in a blender until smooth.
+
+
+
+
+</instructions>
+</recipe>

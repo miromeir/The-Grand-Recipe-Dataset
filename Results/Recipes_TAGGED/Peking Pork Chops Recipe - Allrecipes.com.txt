@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Peking Pork Chops Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="6.0 Inch">Pork</ingredient><ingredient amount="0.25 Cup">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Trim excess fat from pork chops and place in slow cooker. Mix brown sugar, ginger, soy sauce, ketchup, garlic, salt and pepper in small bowl and pour over meat. Cover, turn to low and cook 4 to 6 hours, or until tender. Season with salt and pepper, if needed.
+
+
+
+
+</instructions>
+</recipe>

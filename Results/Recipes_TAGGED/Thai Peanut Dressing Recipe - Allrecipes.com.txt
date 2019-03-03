@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Thai Peanut Dressing Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Cold Water</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="0.5 Cup">Peanut Butter</ingredient><ingredient amount="0.25 Cup">Sugar</ingredient><ingredient amount="2.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0 Cup">Warm Water</ingredient><ingredient amount="0.25 Cup">Pea</ingredient></ingredients>
+<instructions>
+Dissolve the cornstarch in 1/2 cup of cold water; set aside.
+
+Whisk together the soy sauce, peanut butter, brown sugar, white vinegar, sesame oil, and 1 cup warm water in a small saucepan over medium heat; simmer and stir until sugar has dissolved. Stir in the cornstarch mixture; simmer until the sauce is thick, 1 or 2 minutes. Serve warm. Garnish with chopped peanuts and mint leaves as desired.
+
+
+
+
+</instructions>
+</recipe>

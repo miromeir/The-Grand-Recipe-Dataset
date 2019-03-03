@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Baked Asparagus with Balsamic Butter Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Asparagus</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C).
+
+Arrange the asparagus on a baking sheet. Coat with cooking spray, and season with salt and pepper.
+
+Bake asparagus 12 minutes in the preheated oven, or until tender.
+
+Melt the butter in a saucepan over medium heat. Remove from heat, and stir in soy sauce and balsamic vinegar. Pour over the baked asparagus to serve.
+
+
+
+
+</instructions>
+</recipe>

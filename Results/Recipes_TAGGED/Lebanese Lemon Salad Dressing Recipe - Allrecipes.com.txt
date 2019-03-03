@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Lebanese Lemon Salad Dressing Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Juice</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+In a medium bowl, whisk together the lemon juice, olive oil, garlic, salt and pepper. Stir just before serving.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Quinoa Tabbouleh Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="0.5 Teaspoon">Sea Salt</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="3.0">Tomato</ingredient><ingredient amount="1.0">Cucumber</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="2.0">Carrot</ingredient></ingredients>
+<instructions>
+In a saucepan bring water to a boil. Add quinoa and a pinch of salt. Reduce heat to low, cover and simmer for 15 minutes. Allow to cool to room temperature; fluff with a fork.
+
+Meanwhile, in a large bowl, combine olive oil, sea salt, lemon juice, tomatoes, cucumber, green onions, carrots and parsley. Stir in cooled quinoa.
+
+
+
+
+</instructions>
+</recipe>

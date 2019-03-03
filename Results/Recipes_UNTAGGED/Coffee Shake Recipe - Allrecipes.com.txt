@@ -1,0 +1,25 @@
+<recipe>
+<title>
+Coffee Shake Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients>
+1 teaspoon instant coffee granules
+3/4 cup milk
+1 teaspoon vanilla extract
+2 teaspoons white sugar, or to taste
+6 ice cubes
+2 teaspoons chocolate syrup (optional)
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Combine the instant coffee, milk, vanilla extract, sugar, ice, and chocolate syrup in a blender; blend until smooth.
+
+
+
+
+</instructions>
+</recipe>

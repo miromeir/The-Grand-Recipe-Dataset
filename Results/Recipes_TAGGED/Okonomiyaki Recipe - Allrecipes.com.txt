@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Okonomiyaki Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="1.0 Cup">Cabbage</ingredient><ingredient amount="0.25 Cup">Carrot</ingredient><ingredient amount="3.0">Onion</ingredient><ingredient amount="12.0 Inch">Green Bean</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Zucchini</ingredient><ingredient amount="3.0">Egg</ingredient><ingredient amount="0.75 Cup">Flour</ingredient><ingredient amount="0.75 Cup">Chicken</ingredient><ingredient amount="2.0 Teaspoon">Soy Sauce</ingredient><ingredient amount="1.0 Teaspoon">Vegetable Oil</ingredient><ingredient amount="0.25 Teaspoon">Sesame Oil</ingredient></ingredients>
+<instructions>
+In a large bowl, mix chicken, cabbage, carrots, green onions, green beans, green bell pepper and zucchini. In a separate bowl, beat together eggs, flour, chicken stock and soy sauce. Pour batter over chicken mixture and toss to thoroughly coat.
+
+Mix vegetable oil and sesame oil in a skillet over medium heat. Scoop about 1/4 cup batter into skillet, enough to make a 2 1/2 inch circle. Cover and cook 4 minutes, or until bottom is golden brown. Flip and continue cooking 4 minutes, or until cooked through. Drain on paper towels.
+
+
+
+
+</instructions>
+</recipe>

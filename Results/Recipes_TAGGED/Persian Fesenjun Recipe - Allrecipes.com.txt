@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Persian Fesenjun Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="4.0">Chicken</ingredient><ingredient amount="1.0 Cup">Walnut</ingredient><ingredient amount="1.0 Fluid ounce">Pomegranate</ingredient></ingredients>
+<instructions>
+Heat the olive oil in a skillet over medium heat. Cook and stir the onion until tender, and quickly brown the chicken on all sides. Remove from skillet, and set aside.
+
+Place the ground walnuts in the remaining oil in the skillet. Over medium heat, cook and stir 5 to 10 minutes, until lightly browned.
+
+Return the onion and chicken to the skillet with the walnuts, and blend in the pomegranate paste. Reduce heat to low, cover, and simmer 20 minutes, stirring occasionally, until chicken is no longer pink and juices run clear.
+
+
+
+
+</instructions>
+</recipe>

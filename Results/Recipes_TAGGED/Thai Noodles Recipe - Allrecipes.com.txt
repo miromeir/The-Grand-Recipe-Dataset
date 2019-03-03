@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Thai Noodles Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.5 Pound">Rice</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0">Soy Sauce</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Cucumber</ingredient><ingredient amount="1.0">Carrot</ingredient><ingredient amount="10.0">Mush</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="0.75 Cup">Peanut Sauce</ingredient><ingredient amount="2.0 Tablespoon">Oyster Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0 Tablespoon">Sesame Seed</ingredient></ingredients>
+<instructions>
+Cook rice noodles according to package directions.
+
+Slice chicken breasts into strips. Marinate in soy sauce for about 1/2 hour.
+
+In a large saucepan or wok, heat sesame oil over medium heat. Cook chicken until no longer pink. Add garlic, ginger, and onions; cook until onions are tender. Add mushrooms and cucumbers; cook until mushrooms are tender. Add peppers, carrot, peanut sauce, oyster sauce, and hot chili pepper sauce. Heat through.
+
+Toss cooked rice noodles with saute. Garnish with sesame seeds.
+
+
+
+
+</instructions>
+</recipe>

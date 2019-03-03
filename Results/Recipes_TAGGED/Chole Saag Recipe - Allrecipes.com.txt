@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Chole Saag Recipe - Allrecipes.com
+</title>
+<cuisine>
+Indian
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Curry Powder</ingredient><ingredient amount="1.0 Ounce">Pea</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Spinach</ingredient><ingredient amount="1.0 Ounce">Yogurt</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Heat oil in a large saucepan over medium heat. Stir in garlic, onion, red pepper flakes, cumin, and curry powder, and cook until the onion has softened and turned translucent, about 5 minutes. Add the drained peas and mash well. Stir in garbanzo beans, spinach, yogurt, and chicken broth. Cook and stir until heated through, then season to taste with salt and pepper before serving.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Szechuan Beef Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Steak</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="3.0 Cup">Broccoli</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="1.0 Ounce">Chestnut</ingredient><ingredient amount="0.25 Cup">Chicken</ingredient><ingredient amount="0.5 Cup">Pea</ingredient></ingredients>
+<instructions>
+Toss beef with soy sauce, cornstarch, crushed red pepper and garlic in non-metal bowl. Cover and refrigerate 20 minutes.
+
+Heat oil in wok or large skillet over high heat. Stir fry beef until no longer pink, 5 minutes. Stir in broccoli, onions and water chestnuts; cook 2 minutes. Pour in broth, and bring to a boil. Stir in peanuts, cook one minute more, and serve.
+
+
+
+
+</instructions>
+</recipe>

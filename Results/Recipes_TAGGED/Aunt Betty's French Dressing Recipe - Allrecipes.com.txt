@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Aunt Betty's French Dressing Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="0.75 Cup">Sugar</ingredient><ingredient amount="0.5 Cup">Vegetable Oil</ingredient><ingredient amount="1.0 Quart">Onion</ingredient><ingredient amount="2.0 Teaspoon">Paprika</ingredient></ingredients>
+<instructions>
+Prepare the dressing by combining the ketchup, sugar, vinegar, oil, onion, paprika and Worcestershire sauce in a blender or food processor. Blend until the onion is well chopped. Chill and serve.
+
+
+
+
+</instructions>
+</recipe>

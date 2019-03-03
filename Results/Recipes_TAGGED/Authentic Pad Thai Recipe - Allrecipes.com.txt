@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Authentic Pad Thai Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="12.0 Ounce">Rice</ingredient><ingredient amount="0.5 Cup">Sugar</ingredient><ingredient amount="0.25 Cup">Fish Sauce</ingredient><ingredient amount="2.0 Tablespoon">Paste</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="2.0">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="4.0">Egg</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Cup">Pea</ingredient><ingredient amount="2.0 Cup">Bean Sprout</ingredient><ingredient amount="1.0 Tablespoon">Paprika</ingredient><ingredient amount="1.0">Lime</ingredient></ingredients>
+<instructions>
+Place rice noodles in a large bowl and cover with several inches of room temperature water; let soak for 30 to 60 minutes. Drain.
+
+Whisk sugar, vinegar, fish sauce, and tamarind paste in a saucepan over medium heat. Bring to a simmer, remove from heat.
+
+Heat 1 tablespoon vegetable oil in a skillet over medium-high heat. Add chicken; cook and stir until chicken is cooked through, 5 to 7 minutes. Remove from heat.
+
+Heat 1 tablespoon oil and minced garlic in a large skillet or wok over medium-high heat. Stir in eggs; scramble until eggs are nearly cooked through, about 2 minutes. Add cooked chicken breast slices and rice noodles; stir to combine.
+
+Stir in tamarind mixture, 1 1/2 tablespoons sugar, and salt; cook until noodles are tender, 3 to 5 minutes. Stir in peanuts; cook until heated through, 1 to 2 minutes. Garnish with bean sprouts, chives, paprika, and lime wedges.
+
+
+
+
+</instructions>
+</recipe>

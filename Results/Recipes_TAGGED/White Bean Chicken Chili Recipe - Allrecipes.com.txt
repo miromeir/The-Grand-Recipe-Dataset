@@ -1,0 +1,20 @@
+<recipe>
+<title>
+White Bean Chicken Chili Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Chicken</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="0.5 Teaspoon">Coriander Seed</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0">Pepper</ingredient></ingredients>
+<instructions>
+Heat oil, and cook onion and garlic until soft.
+
+Stir in broth, tomatillos, tomatoes, chilies, and spices. Bring to a boil, then simmer for 10 minutes.
+
+Add corn, chicken, and beans; simmer 5 minutes. Season with salt and pepper to taste.
+
+
+
+
+</instructions>
+</recipe>

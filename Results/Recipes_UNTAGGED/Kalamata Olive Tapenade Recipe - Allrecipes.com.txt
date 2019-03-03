@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Kalamata Olive Tapenade Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients>
+3 cloves garlic, peeled
+1 cup pitted kalamata olives
+2 tablespoons capers
+3 tablespoons chopped fresh parsley
+2 tablespoons lemon juice
+2 tablespoons olive oil
+salt and pepper to taste
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Place the garlic cloves into a blender or food processor; pulse to mince. Add the olives, capers, parsley, lemon juice, and olive oil Blend until everything is finely chopped. Season to taste with salt and pepper.
+
+
+
+
+</instructions>
+</recipe>

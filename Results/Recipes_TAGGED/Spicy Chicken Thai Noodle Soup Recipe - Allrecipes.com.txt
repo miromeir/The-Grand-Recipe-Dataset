@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Spicy Chicken Thai Noodle Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="5.0 Cup">Chicken</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="3.0">Onion</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="4.0 Inch">Carrot</ingredient><ingredient amount="4.0 Inch">Celery</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Tablespoon">Curry Powder</ingredient><ingredient amount="0.5 Tablespoon">Poultry</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="3.0 Inch">Chicken</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="0.5 Ounce">Rice</ingredient></ingredients>
+<instructions>
+In a slow cooker on low heat, combine chicken broth, wine, water, onion, green onion, garlic, carrots, celery, salt, black pepper, curry, sage, poultry seasoning, oregano and cayenne.
+
+In a skillet over medium heat, cook chicken in oil until brown. Stir into slow cooker.
+
+Cook soup 8 hours on low or 5 hours on high.
+
+About halfway through the cooking time, stir in the red pepper. 15 minutes prior to serving, stir in the noodles.
+
+
+
+
+</instructions>
+</recipe>

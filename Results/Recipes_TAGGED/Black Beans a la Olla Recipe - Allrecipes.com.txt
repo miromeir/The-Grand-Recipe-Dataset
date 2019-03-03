@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Black Beans a la Olla Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="6.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Tomato Sauce</ingredient><ingredient amount="2.0">Tomato</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Cup">Onion</ingredient></ingredients>
+<instructions>
+Heat the olive oil in a large pot over medium-high heat; cook the onions and garlic in the oil until the onions are translucent, 5 to 7 minutes. Stir in the black beans, tomato sauce, diced tomatoes, cumin, and cayenne pepper; reduce heat to medium-low and simmer 5 minutes. Add 3/4 cup cilantro and simmer another 2 minutes. Stir in the green onions and remove from heat. Garnish with 1/4 cup cilantro.
+
+
+
+
+</instructions>
+</recipe>

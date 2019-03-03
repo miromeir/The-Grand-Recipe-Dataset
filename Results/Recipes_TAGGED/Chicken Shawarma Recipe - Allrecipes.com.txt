@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Chicken Shawarma Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Malt</ingredient><ingredient amount="0.25 Cup">Yogurt</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="8.0">Chicken</ingredient><ingredient amount="0.5 Cup">Tahini</ingredient><ingredient amount="0.25 Cup">Yogurt</ingredient><ingredient amount="0.5 Teaspoon">Minced Garlic</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="4.0">Tomato</ingredient><ingredient amount="0.5 Cup">Onion</ingredient></ingredients>
+<instructions>
+In a glass baking dish, mix together the malt vinegar, 1/4 cup yogurt, vegetable oil, mixed spice, cardamom, salt and pepper. Place the chicken thighs into the mixture and turn to coat. Cover and marinate in the refrigerator for at least 4 hours or overnight.
+
+Preheat the oven to 350 degrees F (175 degrees C). In a small bowl, mix together the tahini, 1/4 cup yogurt, garlic, lemon juice, olive oil, and parsley. Season with salt and pepper, taste, and adjust flavors if desired. Cover and refrigerate.
+
+Cover the chicken and bake in the marinade for 30 minutes, turning once. Uncover, and cook for an additional 5 to 10 minutes, or until chicken is browned and cooked through. Remove from the dish, and cut into slices.
+
+Place sliced chicken, tomato, onion, and lettuce onto pita breads. Roll up, and top with the tahini sauce.
+
+
+
+
+</instructions>
+</recipe>

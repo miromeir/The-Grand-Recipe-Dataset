@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Ethiopian Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="16.0">Chicken</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="0.6666666666666666 Cup">Soy Sauce</ingredient><ingredient amount="0.5 Teaspoon">Cinnamon</ingredient><ingredient amount="0.5 Teaspoon">Clove</ingredient><ingredient amount="0.125 Teaspoon">Ginger</ingredient></ingredients>
+<instructions>
+Place chicken wings and onion in a soup pot, and fill with enough water to cover. Bring to a boil, and cook for 20 minutes.
+
+Preheat the oven to 375 degrees F (190 degrees C). While the wings are cooking, combine the soy sauce, cinnamon, cloves and ginger in a saucepan, and warm over medium heat. When chicken is done, drain water (may be reserved for other uses as a broth), and pour in the soy sauce mixture. Stir to coat all of the wings, then place them in a single layer on a cookie sheet.
+
+Bake for 15 minutes in the preheated oven, or until the outsides are crispy. Baste with sauce as desired while cooking.
+
+
+
+
+</instructions>
+</recipe>

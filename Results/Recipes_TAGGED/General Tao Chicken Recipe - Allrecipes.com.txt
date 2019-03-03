@@ -1,0 +1,22 @@
+<recipe>
+<title>
+General Tao Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="2.0 Pound">Chicken</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="6.0 Tablespoon">Flour</ingredient><ingredient amount="0.5 Cup">Vegetable Oil</ingredient><ingredient amount="4.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="0.5 Cup">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="0.25 Cup">Oyster Sauce</ingredient></ingredients>
+<instructions>
+Coat the chicken pieces with 1/4 cup of cornstarch; set aside.
+
+Beat the eggs, salt, and pepper in a mixing bowl until smooth. Stir in the flour and baking powder until no large lumps remain. Mix in the chicken until evenly coated.
+
+Heat the vegetable oil in a wok or large skillet over high heat. Drop in the chicken pieces; cook until golden brown and no longer pink on the inside, about 12 minutes. Set the chicken aside; keep warm.
+
+Reduce the heat to medium-high and stir in the sesame oil, ginger, and green onion. Cook and stir until the onion is limp and the ginger begins to brown, about 1 minute. Pour in the water, vinegar, and sugar; bring to a boil. Dissolve the cornstarch in the soy sauce and add to the simmering vinegar along with the oyster sauce and ketchup. Stir until the sauce has thickened and is no longer cloudy. Stir in the chicken and simmer until hot.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Korean Slow Cooker Pork Chops Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="3.0">Garlic</ingredient><ingredient amount="0.5 Cup">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Paste</ingredient><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="6.0">Pork</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+In the crock of a slow cooker, stir together the garlic, chicken broth, bean paste and soy sauce. Season the pork chops with salt and pepper, and place them in the crock. Turn to coat with sauce. Cover, and cook for 5 hours on the Low setting.
+
+
+
+
+</instructions>
+</recipe>

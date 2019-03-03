@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Light Oat Bread Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients>
+1 1/4 cups water
+2 tablespoons margarine
+1 teaspoon salt
+3 cups all-purpose flour
+1/2 cup rolled oats
+2 tablespoons brown sugar
+1 1/2 teaspoons active dry yeast
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Add ingredients to bread machine pan in order recommended by your manufacturer. Use regular light setting.
+
+
+
+
+</instructions>
+</recipe>

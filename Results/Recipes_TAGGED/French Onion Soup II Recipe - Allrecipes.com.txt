@@ -1,0 +1,20 @@
+<recipe>
+<title>
+French Onion Soup II Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Onion</ingredient><ingredient amount="3.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="2.0 Ounce">Broth</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="0.6666666666666666 Cup">Cheese</ingredient></ingredients>
+<instructions>
+Cook and stir onions in vegetable oil in a covered large saucepan over medium heat for 20 minutes. Stir in the beef broth, Worcestershire sauce and black pepper; heat to a boil. Remove from heat.
+
+Place bread on a baking sheet; sprinkle bread with cheese. Broil 4-to-5 inches from heat for about 1 minute or until cheese is melted and golden.
+
+Ladle soup into bowls and top with bread.
+
+
+
+
+</instructions>
+</recipe>

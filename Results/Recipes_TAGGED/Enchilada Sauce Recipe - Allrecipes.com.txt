@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Enchilada Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Cup">Onion</ingredient><ingredient amount="3.0 Tablespoon">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Cinnamon</ingredient><ingredient amount="3.0 Tablespoon">Flour</ingredient><ingredient amount="5.0 Tablespoon">Chili Powder</ingredient><ingredient amount="4.0 Cup">Chicken</ingredient><ingredient amount="0.5 Ounce">Chocolate</ingredient></ingredients>
+<instructions>
+Heat oil in a large saucepan over medium-high high heat. Saute onion until tender. Stir in garlic, oregano, cumin and cinnamon; saute for a few minutes.
+
+Stir in flour and chili powder, stirring until sauce thickens. Slowly whisk in chicken broth; reduce until sauce reaches desired consistency. Stir in chocolate until melted and well blended.
+
+
+
+
+</instructions>
+</recipe>

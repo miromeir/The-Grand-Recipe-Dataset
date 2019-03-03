@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Arabic Green Beans with Beef Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="2.0 Pound">Beef</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="2.0 Pound">Green Bean</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Ounce">Canned Tomato</ingredient><ingredient amount="1.0 Ounce">Tomato Sauce</ingredient></ingredients>
+<instructions>
+Heat the oil in a skillet over medium heat; brown the beef in the hot oil for 10 minutes. Stir in the onions and 1/2 cup water; cover, reduce heat to low, and simmer 15 minutes, stirring occasionally. Mix the green beans, allspice, pepper, and salt into the mixture; cover and simmer another 15 minutes. Add the tomatoes and tomato sauce; cover with water; cover and simmer another 45 minutes.
+
+
+
+
+</instructions>
+</recipe>

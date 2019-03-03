@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Skillet Chicken Bulgogi Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="5.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient></ingredients>
+<instructions>
+Whisk onion, soy sauce, brown sugar, garlic, sesame oil, sesame seeds, cayenne pepper, salt, and black pepper together in a bowl until marinade is smooth.
+
+Cook and stir chicken and marinade together in a large skillet over medium-high heat until chicken is cooked through, about 15 minutes.
+
+
+
+
+</instructions>
+</recipe>

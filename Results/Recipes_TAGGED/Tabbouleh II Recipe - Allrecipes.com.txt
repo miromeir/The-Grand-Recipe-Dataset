@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Tabbouleh II Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="5.0">Tomato</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Teaspoon">Olive Oil</ingredient><ingredient amount="1.0">Juice</ingredient></ingredients>
+<instructions>
+Place the bulgur in a small mixing bowl. Add the boiling water, mix and cover with a towel; Let stand for 1 hour. Drain any excess water.
+
+Combine the parsley, mint, tomatoes, onion, olive oil, lemon juice and salt. Add the bulgur; mix well and serve.
+
+
+
+
+</instructions>
+</recipe>

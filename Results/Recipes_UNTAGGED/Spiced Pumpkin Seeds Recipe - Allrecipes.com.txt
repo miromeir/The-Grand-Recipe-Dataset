@@ -1,0 +1,28 @@
+<recipe>
+<title>
+Spiced Pumpkin Seeds Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients>
+1 1/2 tablespoons margarine, melted
+1/2 teaspoon salt
+1/8 teaspoon garlic salt
+2 teaspoons Worcestershire sauce
+2 cups raw whole pumpkin seeds
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Preheat oven to 275 degrees F (135 degrees C).
+
+Combine the margarine, salt, garlic salt, Worcestershire sauce and pumpkin seeds. Mix thoroughly and place in shallow baking dish.
+
+Bake for 1 hour, stirring occasionally.
+
+
+
+
+</instructions>
+</recipe>

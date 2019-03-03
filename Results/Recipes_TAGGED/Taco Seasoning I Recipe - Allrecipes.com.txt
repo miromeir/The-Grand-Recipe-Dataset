@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Taco Seasoning I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Chili Powder</ingredient><ingredient amount="0.25 Teaspoon">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Onion Powder</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Paprika</ingredient><ingredient amount="1.0 Teaspoon">Sea Salt</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a small bowl, mix together chili powder, garlic powder, onion powder, red pepper flakes, oregano, paprika, cumin, salt and pepper. Store in an airtight container.
+
+
+
+
+</instructions>
+</recipe>

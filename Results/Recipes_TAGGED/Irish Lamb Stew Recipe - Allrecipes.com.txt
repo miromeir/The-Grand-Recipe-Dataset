@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Irish Lamb Stew Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Cup">Flour</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="4.0 Cup">Beef</ingredient><ingredient amount="2.0 Teaspoon">Sugar</ingredient><ingredient amount="4.0 Cup">Carrot</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="3.0">Potato</ingredient></ingredients>
+<instructions>
+Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble, and set aside. Watch Now
+
+Put lamb, salt, pepper, and flour in large mixing bowl. Toss to coat meat evenly. Brown meat in frying pan with bacon fat. Watch Now
+
+Place meat into stock pot (leave 1/4 cup of fat in frying pan). Add the garlic and yellow onion and saute till onion begins to become golden. Deglaze frying pan with 1/2 cup water and add the garlic-onion mixture to the stock pot with bacon pieces, beef stock, and sugar. Cover and simmer for 1 1/2 hours. Watch Now
+
+Add carrots, onions, potatoes, thyme, bay leaves, and wine to pot. Reduce heat, and simmer covered for 20 minutes until vegetables are tender. Watch Now
+
+
+
+
+</instructions>
+</recipe>

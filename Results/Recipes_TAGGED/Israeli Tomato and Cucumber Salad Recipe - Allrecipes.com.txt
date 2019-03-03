@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Israeli Tomato and Cucumber Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="">Salad</ingredient><ingredient amount="4.0">Cucumber</ingredient><ingredient amount="4.0">Tomato</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="2.0 Tablespoon">Garlic</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient></ingredients>
+<instructions>
+Toss cucumbers, tomatoes, onion, bell pepper, garlic, parsley, and mint together in a bowl. Drizzle olive oil and lemon juice over the salad and toss to coat; season with salt and pepper.
+
+
+
+
+</instructions>
+</recipe>

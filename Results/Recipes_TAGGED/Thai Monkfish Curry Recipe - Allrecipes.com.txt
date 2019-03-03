@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Thai Monkfish Curry Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Pea</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="3.0 Tablespoon">Paste</ingredient><ingredient amount="1.0 Ounce">Coconut Milk</ingredient><ingredient amount="1.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient></ingredients>
+<instructions>
+Heat peanut oil in a large sauce pan over medium heat. Stir in chopped onion, and cook until softened and translucent, 3 to 5 minutes. Add red bell pepper and continue to cook for 3 to 5 more minutes, until softened. Stir in the curry paste and cook for 1 minute. Pour in the coconut milk and slowly bring to a simmer.
+
+Once coconut milk begins to simmer, stir in cubed monkfish, and simmer 7 to 10 minutes, or until the fish is firm and the center is no longer opaque. Stir in fish sauce, lime juice, and cilantro before serving.
+
+
+
+
+</instructions>
+</recipe>

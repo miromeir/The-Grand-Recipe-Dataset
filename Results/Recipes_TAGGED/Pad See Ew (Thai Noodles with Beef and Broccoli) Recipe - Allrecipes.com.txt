@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Pad See Ew (Thai Noodles with Beef and Broccoli) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Rice</ingredient><ingredient amount="1.0 Cup">Broccoli</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="0.5 Pound">Steak</ingredient><ingredient amount="3.0 Tablespoon">Oyster Sauce</ingredient><ingredient amount="3.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="1.0">Egg</ingredient></ingredients>
+<instructions>
+Place the dry rice noodles in a bowl, cover with hot water, and let soak until white and soft but not mushy, about 10 minutes. Drain and set aside.
+
+Bring a small pot of water to a boil; cook the broccoli in the boiling water until cooked and still firm, 5 to 7 minutes. Drain and set aside.
+
+Heat the oil in a skillet over medium heat; cook the garlic in the hot oil until fragrant, 3 to 5 minutes. Stir in the sliced steak; cover the skillet and cook until the meat is just turning from pink to grey, 5 to 7 minutes. Whisk the water and cornstarch together in a bowl; pour into the skillet along with the oyster sauce, soy sauce, fish sauce, and sugar. Add the rice noodles and broccoli and stir to mix evenly. Season with salt and pepper. Allow the mixture to simmer while you prepare the egg.
+
+Prepare a small skillet with cooking spray and heat over medium-low heat. Cook the egg in the prepared skillet until cooked through and the yolk is solid. Add the cooked egg to the other skillet and stir to incorporate. Serve hot.
+
+
+
+
+</instructions>
+</recipe>

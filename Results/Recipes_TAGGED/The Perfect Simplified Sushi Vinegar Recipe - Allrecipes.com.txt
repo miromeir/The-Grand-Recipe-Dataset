@@ -1,0 +1,16 @@
+<recipe>
+<title>
+The Perfect Simplified Sushi Vinegar Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Rice</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="0.125">Juice</ingredient></ingredients>
+<instructions>
+Stir the rice vinegar, sugar, salt, and lemon juice together in a saucepan until the sugar and salt have dissolved; bring the mixture almost to a simmer over low heat, but not allow to boil. Remove from heat and allow to cool completely. Store in refrigerator.
+
+
+
+
+</instructions>
+</recipe>

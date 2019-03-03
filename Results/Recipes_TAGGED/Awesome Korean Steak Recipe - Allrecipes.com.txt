@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Awesome Korean Steak Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="2.0 Pound">Steak</ingredient><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="5.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="2.0">Garlic</ingredient></ingredients>
+<instructions>
+In a large bowl, stir together the soy sauce, sugar, sesame seeds, sesame oil, shallots, garlic, and mirin. Add the meat, and stir to coat. Cover and refrigerate for 12 to 24 hours.
+
+Heat a large skillet over medium heat. Fry the meat for 5 to 10 minutes, or until no longer pink. Serve with salad or fried rice.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,34 @@
+<recipe>
+<title>
+Arabic Fattoush Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients>
+1 tablespoon vegetable oil for frying
+2 small (4 inch) pita breads, torn into pieces
+1 large English cucumber, finely diced
+3 cups halved grape tomatoes
+1/2 red onion, finely diced
+3/4 cup chopped Italian parsley
+3/4 cup chopped fresh mint
+2 tablespoons extra-virgin olive oil, or to taste
+1 tablespoon fresh lemon juice, or to taste
+1 teaspoon ground sumac, or to taste
+1 clove garlic, crushed (or more to taste)
+kosher salt and freshly ground black pepper to taste
+1 ounce sheep's milk feta cheese
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Heat vegetable oil in a large skillet over medium-high heat. Place pita pieces into the skillet without crowding. Fry in batches until golden brown and blot dry with paper towels.
+
+Combine cucumber, tomatoes, red onion, parsley, mint, olive oil, lemon juice, sumac, garlic, salt, and ground black pepper in a bowl. Gently toss salad with fried pita pieces. Grate feta cheese on top using a small cheese grater.
+
+
+
+
+</instructions>
+</recipe>

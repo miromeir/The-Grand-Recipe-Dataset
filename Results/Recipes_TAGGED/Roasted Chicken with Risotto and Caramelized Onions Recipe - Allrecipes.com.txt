@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Roasted Chicken with Risotto and Caramelized Onions Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="4.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Cup">Rice</ingredient><ingredient amount="7.0 Cup">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="2.0 Cup">Chicken</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Heat 2 tablespoons of the oil in a medium saucepan over medium heat. Stir in the onions and saute for 15 to 20 minutes, or until the onions are a dark golden brown. Remove from heat, stir in the balsamic vinegar and set aside.
+
+Heat the remaining oil in a separate large skillet over medium heat. Stir in the rice and mix well. Let heat for about 2 minutes, then pour in the wine. Reduce heat to medium low and start pouring in the broth about 1 cup at a time. Add more broth as each cup is absorbed. Continue in this manner until all the broth is absorbed and the rice is al dente, about 20 minutes.
+
+Stir in the reserved onion mixture and allow to heat through. Remove from heat and stir in the butter and chicken. Season with salt and pepper to taste, and garnish each serving with fresh thyme.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Irresistible Irish Soda Bread Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="3.0 Cup">Flour</ingredient><ingredient amount="0.3333333333333333 Cup">Sugar</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="2.0 Cup">Butter</ingredient><ingredient amount="0.25 Cup">Butter</ingredient></ingredients>
+<instructions>
+Preheat oven to 325 degrees F (165 degrees C). Grease a 9x5 inch loaf pan.
+
+Combine flour, baking powder, sugar, salt and baking soda. Blend egg and buttermilk together, and add all at once to the flour mixture. Mix just until moistened. Stir in butter. Pour into prepared pan.
+
+Bake for 65 to 70 minutes, or until a toothpick inserted in the bread comes out clean. Cool on a wire rack. Wrap in foil for several hours, or overnight, for best flavor.
+
+
+
+
+</instructions>
+</recipe>

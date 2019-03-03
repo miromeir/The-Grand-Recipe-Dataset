@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Fried Rice Restaurant Style Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Rice</ingredient><ingredient amount="0.6666666666666666 Cup">Carrot</ingredient><ingredient amount="0.5 Cup">Pea</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="">Soy Sauce</ingredient><ingredient amount="">Sesame Oil</ingredient></ingredients>
+<instructions>
+In a saucepan, combine rice and water. Bring to a boil. Reduce heat, cover, and simmer for 20 minutes.
+
+In a small saucepan, boil carrots in water about 3 to 5 minutes. Drop peas into boiling water, and drain.
+
+Heat wok over high heat. Pour in oil, then stir in carrots and peas; cook about 30 seconds. Crack in eggs, stirring quickly to scramble eggs with vegetables. Stir in cooked rice. Shake in soy sauce, and toss rice to coat. Drizzle with sesame oil, and toss again.
+
+
+
+
+</instructions>
+</recipe>

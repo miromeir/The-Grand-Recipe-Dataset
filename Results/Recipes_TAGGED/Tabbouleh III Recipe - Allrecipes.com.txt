@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Tabbouleh III Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="3.0">Tomato</ingredient><ingredient amount="2.0">Cucumber</ingredient><ingredient amount="3.0">Onion</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="0.5 Cup">Juice</ingredient><ingredient amount="0.6666666666666666 Cup">Olive Oil</ingredient></ingredients>
+<instructions>
+Place cracked wheat in bowl and cover with 2 cups boiling water. Soak for 30 minutes; drain and squeeze out excess water.
+
+In a mixing bowl, combine the wheat, tomatoes, cucumbers, onions, garlic, parsley, mint, salt, lemon juice, and olive oil. Toss and refrigerate for at least 4 hours before serving. Toss again prior to serving.
+
+
+
+
+</instructions>
+</recipe>

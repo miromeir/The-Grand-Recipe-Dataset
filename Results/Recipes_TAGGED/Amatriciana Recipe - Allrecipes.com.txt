@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Amatriciana Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="1.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Pound">Pasta</ingredient><ingredient amount="2.0 Tablespoon">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Cook diced bacon in a large saucepan over medium high heat until crisp, about 5 minutes. Drain all but 2 tablespoons of drippings from the pan.
+
+Add onions, and cook over medium heat about 3 minutes. Stir in garlic and red pepper flakes; cook 30 seconds. Add canned tomatoes, undrained; simmer 10 minutes, breaking up tomatoes.
+
+Meanwhile, cook the pasta in a large pot of 4 quarts boiling salted water until al dente. Drain.
+
+Stir basil into the sauce, and then toss with cooked pasta. Serve with grated Parmesan cheese.
+
+
+
+
+</instructions>
+</recipe>

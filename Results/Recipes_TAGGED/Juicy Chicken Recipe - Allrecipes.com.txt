@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Juicy Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="0.5 Cup">Chicken</ingredient><ingredient amount="0.25 Teaspoon">Ginger</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Inch">Chicken</ingredient></ingredients>
+<instructions>
+In a small saucepan, combine the soy sauce, sherry, chicken broth, ginger, garlic powder and green onions. Bring to a boil, and immediately remove from heat. Set aside.
+
+Preheat your oven's broiler. Thread chicken pieces onto metal or bamboo skewers. Arrange on a broiler pan that has been coated with cooking spray. Spoon 1 or 2 tablespoons of the sauce over each chicken skewer.
+
+Place the pan under the broiler, and broil for about 3 minutes, until browned. Remove from the oven, turn over, and spoon more sauce onto each one. Return to the oven until chicken is cooked through and nicely browned.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Freak'n Good Ribs Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="3.0 Cup">Pineapple</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Mus</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="0.5 Teaspoon">Clove</ingredient><ingredient amount="2.0 Teaspoon">Ginger</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Pound">Pork</ingredient></ingredients>
+<instructions>
+In a large baking dish, mix together the pineapple juice, brown sugar, mustard powder, ketchup, red wine vinegar, lemon juice, and soy sauce. Season with cloves, ginger, garlic, and cayenne pepper. Cut ribs into serving size pieces, and place into the marinade. Cover, and refrigerate, turning occasionally, for 8 hours or overnight.
+
+Preheat oven to 275 degrees F (80 degrees C). Cook ribs in marinade for 1 1/2 hours, turning occasionally to ensure even cooking.
+
+Preheat grill for medium heat.
+
+Lightly oil grate. Grill ribs for 15 to 20 minutes, basting with barbecue sauce, and turning frequently until nicely glazed.
+
+
+
+
+</instructions>
+</recipe>

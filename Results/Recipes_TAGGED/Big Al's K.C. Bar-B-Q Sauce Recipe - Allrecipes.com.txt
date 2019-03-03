@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Big Al's K.C. Bar-B-Q Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Tomato Sauce</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="0.5 Cup">Molasses</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient><ingredient amount="0.5 Teaspoon">Onion Powder</ingredient><ingredient amount="0.25 Teaspoon">Chili Powder</ingredient><ingredient amount="1.0 Teaspoon">Paprika</ingredient><ingredient amount="0.5 Teaspoon">Celery</ingredient><ingredient amount="0.25 Teaspoon">Cinnamon</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a large saucepan over medium heat, mix together the ketchup, tomato sauce, brown sugar, wine vinegar, molasses, liquid smoke and butter. Season with garlic powder, onion powder, chili powder, paprika, celery seed, cinnamon, cayenne, salt and pepper.
+
+Reduce heat to low, and simmer for up to 20 minutes. For thicker sauce, simmer longer, and for thinner, less time is needed. Sauce can also be thinned using a bit of water if necessary. Brush sauce onto any kind of meat during the last 10 minutes of cooking.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Panang Curry with Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="5.0 Tablespoon">Paste</ingredient><ingredient amount="">Cooking Oil</ingredient><ingredient amount="4.0 Cup">Coconut Milk</ingredient><ingredient amount="0.6666666666666666 Pound">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="6.0">Lime</ingredient><ingredient amount="2.0">Pepper</ingredient></ingredients>
+<instructions>
+Fry the curry paste in the oil in a large skillet or wok over medium heat until fragrant. Stir the coconut milk into the curry paste and bring to a boil. Add the chicken; cook and stir until the chicken is nearly cooked through, 10 to 15 minutes. Stir the palm sugar, fish sauce, and lime leaves into the mixture; simmer together for 5 minutes. Taste and adjust the saltiness by adding more fish sauce if necessary. Garnish with sliced red chile peppers and Thai basil leaves to serve.
+
+
+
+
+</instructions>
+</recipe>

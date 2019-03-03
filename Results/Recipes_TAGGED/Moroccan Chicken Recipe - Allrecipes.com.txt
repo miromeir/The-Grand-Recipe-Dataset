@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Moroccan Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="2.0">Carrot</ingredient><ingredient amount="2.0">Celery</ingredient><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="0.5 Teaspoon">Paprika</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Teaspoon">Tu</ingredient><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="1.0 Cup">Tomato</ingredient><ingredient amount="1.0 Cup">Chickpea</ingredient><ingredient amount="1.0">Zucchini</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient></ingredients>
+<instructions>
+Season chicken with salt and brown in a large saucepan over medium heat until almost cooked through. Remove chicken from pan and set aside.
+
+Saute onion, garlic, carrots and celery in same pan. When tender, stir in ginger, paprika, cumin, oregano, cayenne pepper and turmeric; stir fry for about 1 minute, then mix in broth and tomatoes. Return chicken to pan, reduce heat to low and simmer for about 10 minutes.
+
+Add chickpeas and zucchini to pan and bring to simmering once again; cover pan and cook for about 15 minutes, or until zucchini is cooked through and tender. Stir in lemon juice and serve.
+
+
+
+
+</instructions>
+</recipe>

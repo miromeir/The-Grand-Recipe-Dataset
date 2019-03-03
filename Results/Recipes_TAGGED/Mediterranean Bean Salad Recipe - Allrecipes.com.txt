@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Mediterranean Bean Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0">Juice</ingredient><ingredient amount="1.0">Tomato</ingredient><ingredient amount="0.25 Cup">Red Onion</ingredient><ingredient amount="3.0 Tablespoon">Olive Oil</ingredient></ingredients>
+<instructions>
+In a large bowl, stir together the garbanzo beans, kidney beans, lemon juice and zest, tomato, onion, parsley, capers, olive oil and salt. Cover, and refrigerate for about 2 hours, stirring occasionally, before serving.
+
+
+
+
+</instructions>
+</recipe>

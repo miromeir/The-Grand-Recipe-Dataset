@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Applesauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients>
+6 cups apples - peeled, cored and chopped
+3/4 cup water
+1/8 teaspoon ground cinnamon
+1/8 teaspoon ground cloves
+1/2 cup white sugar
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a 2 quart saucepan over medium heat, combine apples, water, cinnamon, and cloves. Bring to a boil, reduce heat, and simmer 10 minutes. Stir in sugar, and simmer 5 more minutes.
+
+
+
+
+</instructions>
+</recipe>

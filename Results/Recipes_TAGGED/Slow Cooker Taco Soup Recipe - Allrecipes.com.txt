@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Slow Cooker Taco Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mexican
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Beef</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Tomato Sauce</ingredient><ingredient amount="2.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Ounce">Pepper</ingredient></ingredients>
+<instructions>
+In a medium skillet, cook the ground beef until browned over medium heat. Drain, and set aside.
+
+Place the ground beef, onion, chili beans, kidney beans, corn, tomato sauce, water, diced tomatoes, green chile peppers and taco seasoning mix in a slow cooker. Mix to blend, and cook on Low setting for 8 hours.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,26 @@
+<recipe>
+<title>
+Blender Hollandaise Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients>
+3 egg yolks
+1/4 teaspoon Dijon mustard
+1 tablespoon lemon juice
+1 dash hot pepper sauce (e.g. Tabasco™)
+1/2 cup butter
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In the container of a blender, combine the egg yolks, mustard, lemon juice and hot pepper sauce. Cover, and blend for about 5 seconds.
+
+Place the butter in a glass measuring cup. Heat butter in the microwave for about 1 minute, or until completely melted and hot. Set the blender on high speed, and pour the butter into the egg yolk mixture in a thin stream. It should thicken almost immediately. Keep the sauce warm until serving by placing the blender container in a pan of hot tap water.
+
+
+
+
+</instructions>
+</recipe>

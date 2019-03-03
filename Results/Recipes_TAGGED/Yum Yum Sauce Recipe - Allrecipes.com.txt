@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Yum Yum Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Teaspoon">Tomato Paste</ingredient><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Paprika</ingredient><ingredient amount="1.0 Cup">Mayonnaise</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="1.0">Pepper</ingredient></ingredients>
+<instructions>
+Whisk tomato paste, melted butter, garlic powder, paprika, mayonnaise, sugar, cayenne pepper, and water together until smooth. Cover and refrigerate overnight.
+
+
+
+
+</instructions>
+</recipe>

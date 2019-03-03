@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Chocolate Mousse Cake IV Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Chocolate</ingredient><ingredient amount="1.0 Ounce">Condensed Milk</ingredient><ingredient amount="2.0 Ounce">Chocolate</ingredient><ingredient amount="0.5 Cup">Cold Water</ingredient><ingredient amount="1.0 Ounce">Chocolate</ingredient><ingredient amount="1.0 Cup">Cream</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C). Prepare and bake cake mix according to package directions for two 9-inch layers. Cool and remove from pans.
+
+In a large bowl, mix together sweetened condensed milk and melted chocolate. Gradually stir in the water, then instant pudding until smooth. Chill for at least 30 minutes.
+
+Remove the chocolate mixture from the refrigerator, and stir to loosen. Fold in whipped cream and return to the refrigerator for at least another hour.
+
+Place one layer of cake onto a serving plate. Top with 1 1/2 cups of the mousse, then cover with the remaining cake layer. Frost with the remaining mousse, and refrigerate until serving. Garnish with fresh fruit or chocolate shavings.
+
+
+
+
+</instructions>
+</recipe>

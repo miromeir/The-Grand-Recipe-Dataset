@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Slammin' Salmon Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="1.0 Teaspoon">Paprika</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="0.5 Cup">Pea</ingredient><ingredient amount="8.0 Ounce">Salmon</ingredient></ingredients>
+<instructions>
+Stir balsamic vinegar, lemon juice, and soy sauce with salt, brown sugar, ground ginger, paprika, pepper, and red pepper flakes until the salt has dissolved. Stir in garlic, green onions, sesame oil, and peanut oil until well combined.
+
+Pour marinade into a resealable plastic bag or glass bowl. Add salmon to marinade and gently toss to coat. Place into refrigerator and marinate 2 to 24 hours.
+
+Prepare an outdoor grill for medium-high heat.
+
+Drain excess marinade from salmon fillets. Grill until firm and opaque, about 4 minutes per side.
+
+
+
+
+</instructions>
+</recipe>

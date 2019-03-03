@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Fresh Spring Rolls With Thai Dipping Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Cucumber</ingredient><ingredient amount="1.0">Carrot</ingredient><ingredient amount="">Dip</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Rice</ingredient><ingredient amount="0.25 Teaspoon">Ginger</ingredient></ingredients>
+<instructions>
+In a bowl of cool water, soak a wrapper until limp. Lay wrapper out flat. Place 1/6 of each ingredient down middle of wrapper, starting with lettuce. Fold over each end and tightly roll the wrapper around the contents, as if making a burrito. Moisten at seam; press to close.
+
+Lay on plate, cover with moist paper towel and refrigerate until ready to serve. Then slice in two and serve with Quick Thai Dipping Sauce, below, or peanut sauce.
+
+To make the Quick Thai Dipping Sauce, combine all ingredients in a small bowl.
+
+
+
+
+</instructions>
+</recipe>

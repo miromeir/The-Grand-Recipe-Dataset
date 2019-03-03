@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Asian Tuna Patties Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Tu</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="0.75 Cup">Bread Crumbs</ingredient><ingredient amount="3.0">Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Teriyaki Sauce</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient></ingredients>
+<instructions>
+In a large bowl, mix tuna, egg, bread crumbs, green onions, and garlic. Blend soy sauce, teriyaki sauce, ketchup, sesame oil, and pepper into the mixture. Form the mixture into about 6 patties approximately 1 inch thick. Lightly sprinkle each patty on all sides with cornmeal.
+
+Heat oil in a medium skillet over medium heat. Fry each patty about 5 minutes on each side, until golden brown.
+
+
+
+
+</instructions>
+</recipe>

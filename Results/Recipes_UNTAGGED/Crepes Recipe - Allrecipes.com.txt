@@ -1,0 +1,83 @@
+<recipe>
+<title>
+Crepes Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients>
+2 eggs
+1 cup milk
+2/3 cup all-purpose flour
+1 pinch salt
+1 1/2 teaspoons vegetable oil
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a blender combine eggs, milk, flour, salt and oil. Process until smooth. Cover and refrigerate 1 hour.
+
+Heat a skillet over medium-high heat and brush with oil. Pour 1/4 cup of crepe batter into pan, tilting to completely coat the surface of the pan. Cook 2 to 5 minutes, turning once, until golden. Repeat with remaining batter.
+
+
+
+
+</instructions>
+</recipe>
+<recipe>
+<title>
+Crepes Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients>
+2 eggs
+1 cup milk
+2/3 cup all-purpose flour
+1 pinch salt
+1 1/2 teaspoons vegetable oil
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a blender combine eggs, milk, flour, salt and oil. Process until smooth. Cover and refrigerate 1 hour.
+
+Heat a skillet over medium-high heat and brush with oil. Pour 1/4 cup of crepe batter into pan, tilting to completely coat the surface of the pan. Cook 2 to 5 minutes, turning once, until golden. Repeat with remaining batter.
+
+
+
+
+</instructions>
+</recipe>
+<recipe>
+<title>
+Crepes Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients>
+1 cup all-purpose flour
+1 cup milk
+1 egg
+1 pinch salt
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a medium-size mixing bowl, whisk together the flour, milk, egg and salt.
+
+Heat a large frying pan or wok over medium high heat. When the pan is hot add a teaspoon of butter and lightly coat the surface of the pan with the melted butter.
+
+Pour one quarter cup of the batter into the pan and tilt the pan with a circular motion so that the batter coats the surface in a smooth and even layer.
+
+After two minutes, lift up an edge of the crepe with a spatula to see if it is browning. When the underside has begun to brown, flip the crepe and cook the other side until it is also brown; about 2 minutes.
+
+Repeat steps 3 and 4 to cook the remaining crepes. Serve hot.
+
+
+
+
+</instructions>
+</recipe>

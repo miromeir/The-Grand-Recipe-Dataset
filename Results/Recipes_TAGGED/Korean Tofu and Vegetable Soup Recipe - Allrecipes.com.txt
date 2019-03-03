@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Korean Tofu and Vegetable Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="3.0 Cup">Beef</ingredient><ingredient amount="0.25 Cup">Paste</ingredient><ingredient amount="1.0 Inch">Kombu</ingredient><ingredient amount="5.0">Garlic</ingredient><ingredient amount="1.0 Inch">Tofu</ingredient><ingredient amount="1.0 Pound">Cabbage</ingredient><ingredient amount="2.0 Inch">Onion</ingredient><ingredient amount="1.0 Inch">Pepper</ingredient></ingredients>
+<instructions>
+Pour the beef stock into a stock pot or large deep skillet over medium-high heat. Stir in the toenjang until dissolved. Add the kelp and garlic, and bring to a boil. Put in the tofu, cabbage, daikon and yellow squash, cover and return to a boil. Cook gently for 5 minutes. Then add the green onions and hot pepper, and boil for a minute, or until the onion and pepper become fragrant and brightly colored. Limit the cooking time to no more than 15 minutes. Remove and discard kelp. Serve immediately.
+
+
+
+
+</instructions>
+</recipe>

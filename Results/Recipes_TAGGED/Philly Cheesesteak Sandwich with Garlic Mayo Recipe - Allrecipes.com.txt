@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Philly Cheesesteak Sandwich with Garlic Mayo Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Mayonnaise</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Pound">Round Steak</ingredient><ingredient amount="2.0 Inch">Bell Pepper</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Ounce">Mozzarella</ingredient></ingredients>
+<instructions>
+In a small bowl, combine mayonnaise and minced garlic. Cover, and refrigerate. Preheat oven to 500 degrees F (260 degrees C).
+
+Heat oil in a large skillet over medium heat. Saute beef until lightly browned. Stir in green pepper and onion, and season with salt and pepper. Saute until vegetables are tender, and remove from heat.
+
+Spread each bun generously with garlic mayonnaise. Divide beef mixture into the buns. Top with shredded cheese, and sprinkle with oregano. Place sandwiches on a baking pan.
+
+Heat sandwiches in preheated oven, until cheese is melted or slightly browned.
+
+
+
+
+</instructions>
+</recipe>

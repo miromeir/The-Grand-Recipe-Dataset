@@ -1,0 +1,56 @@
+<recipe>
+<title>
+Restaurant Style Egg Drop Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients>
+4 cups chicken broth, divided
+1/8 teaspoon ground ginger
+2 tablespoons chopped fresh chives
+1/4 teaspoon salt
+1 1/2 tablespoons cornstarch
+2 eggs
+1 egg yolk
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Reserve 3/4 cup of chicken broth, and pour the rest into a large saucepan. Stir the salt, ginger and chives into the saucepan, and bring to a rolling boil. In a cup or small bowl, stir together the remaining broth and cornstarch until smooth. Set aside.
+
+In a small bowl, whisk the eggs and egg yolk together using a fork. Drizzle egg a little at a time from the fork into the boiling broth mixture. Egg should cook immediately. Once the eggs have been dropped, stir in the cornstarch mixture gradually until the soup is the desired consistency.
+
+
+
+
+</instructions>
+</recipe>
+<recipe>
+<title>
+Restaurant Style Egg Drop Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients>
+4 cups chicken broth, divided
+1/8 teaspoon ground ginger
+2 tablespoons chopped fresh chives
+1/4 teaspoon salt
+1 1/2 tablespoons cornstarch
+2 eggs
+1 egg yolk
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Reserve 3/4 cup of chicken broth, and pour the rest into a large saucepan. Stir the salt, ginger and chives into the saucepan, and bring to a rolling boil. In a cup or small bowl, stir together the remaining broth and cornstarch until smooth. Set aside.
+
+In a small bowl, whisk the eggs and egg yolk together using a fork. Drizzle egg a little at a time from the fork into the boiling broth mixture. Egg should cook immediately. Once the eggs have been dropped, stir in the cornstarch mixture gradually until the soup is the desired consistency.
+
+
+
+
+</instructions>
+</recipe>

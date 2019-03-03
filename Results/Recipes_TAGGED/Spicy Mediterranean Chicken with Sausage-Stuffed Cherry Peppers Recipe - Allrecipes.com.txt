@@ -1,0 +1,36 @@
+<recipe>
+<title>
+Spicy Mediterranean Chicken with Sausage-Stuffed Cherry Peppers Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="6.0 Ounce">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient><ingredient amount="18.0">Pepper</ingredient><ingredient amount="6.0 Ounce">Ital</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Herb</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Cup">Pepper</ingredient><ingredient amount="2.0 Cup">Chicken</ingredient><ingredient amount="0.5 Cup">Olive</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+Place chicken thighs in a large bowl; season with black pepper, cumin, and 1 teaspoon salt. Set aside.
+
+Stuff each cherry pepper generously with Italian sausage. Set aside.
+
+Heat olive oil in Dutch oven over medium-high heat. Place chicken thighs, skin-side down, in pan and brown, about 5 minutes. Turn chicken over and brown other side, about 1 minute. Remove chicken from pan.
+
+Cook onion in the Dutch oven with pinch of salt over medium-high heat; cook and stir until caramelized, about 5 minutes. Reduce heat to medium; stir in garlic, herbes de Provence, and crushed red pepper.
+
+Stir in pepperoncini and juices; cook until warmed through, about 2 minutes. Remove from heat.
+
+Place chicken, skin-side up, in a single layer on top of the onions and pepperoncinis in the Dutch oven. Pour stock into the pan until almost covering the chicken.
+
+Sprinkle artichoke hearts, olives, and stuffed cherry peppers over top of chicken.
+
+Return to medium-high heat and bring to a simmer.
+
+Cover and roast in preheated oven until sausage is cooked through and liquid is bubbling, about 1 hour.
+
+Garnish with chopped basil, oregano, and marjoram.
+
+
+
+
+</instructions>
+</recipe>

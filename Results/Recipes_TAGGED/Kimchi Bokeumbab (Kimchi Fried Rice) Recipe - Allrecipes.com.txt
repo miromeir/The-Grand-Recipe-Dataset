@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Kimchi Bokeumbab (Kimchi Fried Rice) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="2.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="0.5 Pound">Beef</ingredient><ingredient amount="4.0 Cup">Rice</ingredient><ingredient amount="4.0">Egg</ingredient></ingredients>
+<instructions>
+Heat a wok or large skillet over medium-high heat and add sesame oil; cook and stir ground beef until browned and crumbly, 5 to 7 minutes. Add kimchi; cook and stir for 10 minutes. Add rice; cook and stir until heated through, about 5 minutes.
+
+Move the fried rice to 1 side of wok. Crack eggs into wok and cook until bottoms are set, 2 to 3 minutes. Flip eggs and cook until set, 2 to 3 minutes. Serve 1 egg on top of each fried rice portion.
+
+
+
+
+</instructions>
+</recipe>

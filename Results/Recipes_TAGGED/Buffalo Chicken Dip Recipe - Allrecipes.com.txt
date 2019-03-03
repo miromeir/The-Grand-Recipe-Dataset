@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Buffalo Chicken Dip Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="2.0 Ounce">Chicken</ingredient><ingredient amount="2.0 Ounce">Cream Cheese</ingredient><ingredient amount="0.75 Cup">Pepper</ingredient><ingredient amount="1.0 Cup">Cheddar</ingredient><ingredient amount="1.0 Inch">Celery</ingredient><ingredient amount="1.0 Ounce">Chicken</ingredient></ingredients>
+<instructions>
+Heat chicken and hot sauce in a skillet over medium heat, until heated through. Stir in cream cheese and ranch dressing. Cook, stirring until well blended and warm. Mix in half of the shredded cheese, and transfer the mixture to a slow cooker. Sprinkle the remaining cheese over the top, cover, and cook on Low setting until hot and bubbly. Serve with celery sticks and crackers.
+
+
+
+
+</instructions>
+</recipe>

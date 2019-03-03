@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Agedashi-esque Tofu Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Tofu</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="2.0 Tablespoon">Hoisin Sauce</ingredient></ingredients>
+<instructions>
+Cut tofu into 12 cubes. Place cornstarch on a plate or in a shallow bowl and dredge tofu in it, coating thoroughly.
+
+Heat enough oil so that tofu will be half-way submerged. Fry tofu in hot oil for 3 to 5 minutes on each side, or until crispy. Drain on paper towels.
+
+Sprinkle green onions over tofu and drizzle with hoisin sauce. Serve immediately.
+
+
+
+
+</instructions>
+</recipe>

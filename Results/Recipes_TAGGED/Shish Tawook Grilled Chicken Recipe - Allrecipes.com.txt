@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Shish Tawook Grilled Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="0.25 Cup">Vegetable Oil</ingredient><ingredient amount="0.75 Cup">Yogurt</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="2.0 Teaspoon">Tomato Paste</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.25 Teaspoon">Cinnamon</ingredient><ingredient amount="2.0 Inch">Chicken</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient></ingredients>
+<instructions>
+Whisk together the lemon juice, vegetable oil, plain yogurt, garlic, tomato paste, salt, oregano, pepper, allspice, cinnamon, and cardamom in a large bowl; add the chicken and toss to coat. Transfer the chicken mixture into a large plastic bag; refrigerate at least 4 hours.
+
+Preheat an outdoor grill for medium-high heat and lightly oil grate. Thread the chicken, onions, and pepper onto metal skewers. Cook on preheated grill until the chicken is golden and no longer pink in the center, about 5 minutes each side. Sprinkle the parsley over the skewers.
+
+
+
+
+</instructions>
+</recipe>

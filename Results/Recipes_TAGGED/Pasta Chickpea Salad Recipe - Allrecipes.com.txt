@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Pasta Chickpea Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Pasta</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.5 Cup">Olive</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Ounce">Chickpea</ingredient><ingredient amount="0.5 Cup">Parmesan Cheese</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Bring a large pot of salted water to a boil, add pasta and cook until al dente. Drain and rinse under cold water. Set aside to chill.
+
+In a large skillet heat the olive oil over medium low heat. Add the olives, oregano, parsley, scallions and chickpeas. Cook over low for about 20 minutes. Set aside to cool.
+
+In a large bowl toss the pasta with the chickpea mixture. Ad the vinegar, grated cheese and salt and pepper to taste. Let sit in refrigerator overnight. When ready to serve taste for seasoning and add more vinegar, olive oil and salt and pepper if desired.
+
+
+
+
+</instructions>
+</recipe>

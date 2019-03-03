@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Slow Cooker Thai Pork with Peppers Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Chicken</ingredient><ingredient amount="0.3333333333333333 Cup">Soy Sauce</ingredient><ingredient amount="0.3333333333333333 Cup">Peanut Butter</ingredient><ingredient amount="3.0 Tablespoon">Honey</ingredient><ingredient amount="6.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="2.0">Bell Pepper</ingredient><ingredient amount="1.0 Pound">Pork</ingredient></ingredients>
+<instructions>
+Place the chicken broth, soy sauce, peanut butter, honey, garlic, ginger, crushed red pepper flakes, red bell peppers, and pork chops into a slow cooker, stir together, and set the cooker on Low. Cook for 5 to 6 hours until the pork is tender, and remove the pork from the sauce. Shred the pork, return to the sauce, let cook until hot, and serve.
+
+
+
+
+</instructions>
+</recipe>

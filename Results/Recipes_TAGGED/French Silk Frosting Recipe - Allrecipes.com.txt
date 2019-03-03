@@ -1,0 +1,16 @@
+<recipe>
+<title>
+French Silk Frosting Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Sugar</ingredient><ingredient amount="0.6666666666666666 Cup">Butter</ingredient><ingredient amount="2.0 Ounce">Chocolate</ingredient><ingredient amount="2.0 Tablespoon">Milk</ingredient></ingredients>
+<instructions>
+In a medium bowl, blend confectioners sugar, butter, melted chocolate and vanilla on low speed. Increase speed to high. Gradually add milk; beat until smooth and fluffy.
+
+
+
+
+</instructions>
+</recipe>

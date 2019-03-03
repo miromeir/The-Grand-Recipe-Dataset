@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Juicy Roasted Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Tablespoon">Onion Powder</ingredient><ingredient amount="0.5 Cup">Margarine</ingredient><ingredient amount="1.0">Celery</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C).
+
+Place chicken in a roasting pan, and season generously inside and out with salt and pepper. Sprinkle inside and out with onion powder. Place 3 tablespoons margarine in the chicken cavity. Arrange dollops of the remaining margarine around the chicken's exterior. Cut the celery into 3 or 4 pieces, and place in the chicken cavity.
+
+Bake uncovered 1 hour and 15 minutes in the preheated oven, to a minimum internal temperature of 180 degrees F (82 degrees C). Remove from heat, and baste with melted margarine and drippings. Cover with aluminum foil, and allow to rest about 30 minutes before serving.
+
+
+
+
+</instructions>
+</recipe>

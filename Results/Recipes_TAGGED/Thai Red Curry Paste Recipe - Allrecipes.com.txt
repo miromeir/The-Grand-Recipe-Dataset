@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Thai Red Curry Paste Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="5.0">Pepper</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Tablespoon">Garlic</ingredient><ingredient amount="2.0 Teaspoon">Paste</ingredient><ingredient amount="2.0 Teaspoon">Paprika</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Teaspoon">Tu</ingredient></ingredients>
+<instructions>
+Blend chile peppers, onions, cilantro, oil, garlic, coriander, lemon zest, cumin, shrimp paste, paprika, peppercorns, lemon grass, turmeric, and salt together in a blender until a smooth, paste-like consistency is reached.
+
+
+
+
+</instructions>
+</recipe>

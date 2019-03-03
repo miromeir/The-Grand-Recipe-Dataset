@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Kalbi (Korean Marinated Short Ribs) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="3.0 Pound">Short Ribs</ingredient><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="1.0">Pear</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="2.0 Tablespoon">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Ginger</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Sesame Seed</ingredient><ingredient amount="1.0 Tablespoon">Honey</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Place ribs in a bowl and cover with water; soak until water turns pink, about 1 hour. Drain and rinse in cold water.
+
+Combine soy sauce, Asian pear, onion, garlic, and ginger in a food processor. Pulse until smooth.
+
+Combine green onions, sesame oil, brown sugar, sesame seeds, honey, and black pepper in a large bowl; mix well. Add ribs and coat thoroughly with the marinade. Cover with plastic wrap and refrigerate 8 hours to overnight.
+
+Preheat an outdoor grill for high heat and lightly oil the grate.
+
+Cook ribs on the grill until slightly charred and tender, about 4 minutes per side.
+
+
+
+
+</instructions>
+</recipe>

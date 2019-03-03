@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Fruited Curry Chicken Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="4.0">Chicken</ingredient><ingredient amount="1.0">Celery</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="1.0">Apple</ingredient><ingredient amount="0.3333333333333333 Cup">Raisin</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Curry Powder</ingredient><ingredient amount="0.75 Cup">Mayonnaise</ingredient></ingredients>
+<instructions>
+In a large salad bowl combine the chicken, celery, onion, apple, raisins, grapes, pecans, pepper, curry powder and mayonnaise. Mix all together, tossing to coat. Salad is ready to serve!
+
+
+
+
+</instructions>
+</recipe>

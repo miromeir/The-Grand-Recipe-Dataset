@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Shrimp Rice Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Rice</ingredient><ingredient amount="1.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0 Tablespoon">Rice</ingredient></ingredients>
+<instructions>
+Rinse rice and set aside for 2 hours or until moistened.
+
+Heat sesame oil in a saucepan. Add shrimp and rice wine and gently fry. Add rice and fry for 1 minute.
+
+Pour water into saucepan and boil over medium heat. When the rice and shrimp mixture is thickened, or the rice expands about 3 times, reduce the heat to low. Continue to cook for 10 minutes, or until heated through, stirring constantly. Season with salt and serve hot.
+
+
+
+
+</instructions>
+</recipe>

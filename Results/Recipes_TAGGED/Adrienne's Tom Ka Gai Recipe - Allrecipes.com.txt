@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Adrienne's Tom Ka Gai Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="2.0 Teaspoon">Pea</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="2.0 Tablespoon">Ginger</ingredient><ingredient amount="2.0 Teaspoon">Pepper</ingredient><ingredient amount="1.0">Chicken</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Cup">Bok Choy</ingredient><ingredient amount="1.0 Ounce">Coconut Milk</ingredient><ingredient amount="0.25 Cup">Fish Sauce</ingredient></ingredients>
+<instructions>
+In a large saucepan over medium heat, heat peanut oil. Stir in garlic, ginger, lemon grass, red pepper, coriander and cumin and cook until fragrant, 2 minutes. Stir in chicken and onion and cook, stirring, until chicken is white and onion is translucent, 5 minutes. Stir in bok choy and cook until it begins to wilt, 5 to 10 minutes. Stir in water, coconut milk, fish sauce and cilantro. Simmer until chicken is thoroughly cooked and flavors are well blended, 30 minutes.
+
+
+
+
+</instructions>
+</recipe>

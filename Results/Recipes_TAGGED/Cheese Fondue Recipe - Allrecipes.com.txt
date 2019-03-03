@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Cheese Fondue Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="0.5 Pound">Cheese</ingredient><ingredient amount="0.5 Pound">Cheese</ingredient><ingredient amount="2.0 Tablespoon">Flour</ingredient><ingredient amount="0.25 Teaspoon">Nutmeg</ingredient></ingredients>
+<instructions>
+Simmer wine in fondue pot. Add Swiss cheese, Gruyere cheese, 1/4 pound at a time. Stir after each addition of cheese until melted. Stir in flour. When all the cheese has melted, stir in salt and nutmeg. Serve with cut-up French bread. Watch Now
+
+
+
+
+</instructions>
+</recipe>

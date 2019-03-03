@@ -1,0 +1,20 @@
+<recipe>
+<title>
+French Coconut Pie Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Flour</ingredient><ingredient amount="6.0">Egg</ingredient><ingredient amount="1.0 Cup">Butter</ingredient><ingredient amount="0.5 Cup">Margarine</ingredient><ingredient amount="1.0 Cup">Coconut</ingredient><ingredient amount="2.0 Inch">Pastry</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (175 degrees C). In a small bowl, mix together the sugar and flour.
+
+In a large bowl, mix the eggs with a wire whisk. Whisk flour mixture into eggs, until smooth. Stir in buttermilk, margarine, coconut and pecans. Pour into unbaked pie crusts.
+
+Bake in preheated oven for 45 minutes. If making a 9 inch deep dish pie, bake for 1 hour.
+
+
+
+
+</instructions>
+</recipe>

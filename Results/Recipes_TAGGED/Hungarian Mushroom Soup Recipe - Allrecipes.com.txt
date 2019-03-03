@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Hungarian Mushroom Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="4.0 Tablespoon">Butter</ingredient><ingredient amount="2.0 Cup">Onion</ingredient><ingredient amount="1.0 Pound">Mush</ingredient><ingredient amount="1.0 Tablespoon">Paprika</ingredient><ingredient amount="1.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Cup">Chicken</ingredient><ingredient amount="1.0 Cup">Milk</ingredient><ingredient amount="3.0 Tablespoon">Flour</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0 Teaspoon">Juice</ingredient><ingredient amount="0.5 Cup">Cream</ingredient></ingredients>
+<instructions>
+Melt the butter in a large pot over medium heat. Saute the onions in the butter for 5 minutes. Add the mushrooms and saute for 5 more minutes. Stir in the dill, paprika, soy sauce and broth. Reduce heat to low, cover, and simmer for 15 minutes.
+
+In a separate small bowl, whisk the milk and flour together. Pour this into the soup and stir well to blend. Cover and simmer for 15 more minutes, stirring occasionally.
+
+Finally, stir in the salt, ground black pepper, lemon juice, parsley and sour cream. Mix together and allow to heat through over low heat, about 3 to 5 minutes. Do not boil. Serve immediately.
+
+
+
+
+</instructions>
+</recipe>

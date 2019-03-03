@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Blackened Salmon Fillets Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Paprika</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient><ingredient amount="1.0 Tablespoon">Onion Powder</ingredient><ingredient amount="0.5 Teaspoon">White Pepper</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="4.0">Salmon</ingredient><ingredient amount="0.5 Cup">Butter</ingredient></ingredients>
+<instructions>
+In a small bowl, mix paprika, cayenne pepper, onion powder, salt, white pepper, black pepper, thyme, basil and oregano.
+
+Brush salmon fillets on both sides with 1/4 cup butter, and sprinkle evenly with the cayenne pepper mixture. Drizzle one side of each fillet with 1/2 remaining butter.
+
+In a large, heavy skillet over high heat, cook salmon, butter side down, until blackened, 2 to 5 minutes. Turn fillets, drizzle with remaining butter, and continue cooking until blackened and fish is easily flaked with a fork.
+
+
+
+
+</instructions>
+</recipe>

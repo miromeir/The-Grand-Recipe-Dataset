@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Thai Chicken Bites With Dipping Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="2.0 Teaspoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="1.0 Teaspoon">Tu</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Chili Powder</ingredient><ingredient amount="0.5 Cup">Peanut Sauce</ingredient><ingredient amount="0.5 Cup">Coconut Milk</ingredient><ingredient amount="0.5 Cup">Chicken</ingredient><ingredient amount="4.0">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="2.0 Tablespoon">Pea</ingredient></ingredients>
+<instructions>
+Mix sugar and dry seasonings in a small bowl. In a 2-cup measuring cup, mix peanut sauce, coconut milk and broth. Split each breast by cutting in half horizontally. Lightly pound to about a 1/2-inch thickness. Place chicken and oil in a medium bowl; toss to coat. Sprinkle seasoning mix evenly over chicken breasts.
+
+Heat a 12-inch non-stick skillet over medium-high heat until very hot, then add chicken. Cook, turning once, until crusty brown and fully cooked, about 2 minutes per side. Transfer to a cutting board and let rest.
+
+Add peanut mixture to empty skillet; cook, stirring constantly to loosen brown bits, until sauce reduces by half, about 2 to 4 minutes. Return to measuring cup. (Chicken and sauce can be made 2 hours ahead; reheat in a warm oven or microwave.)
+
+To serve, cut each breast cutlet into 12 to 15 bite-sized pieces. Transfer to a serving platter. Drizzle with a little peanut sauce, then sprinkle with peanuts and scallions. Serve immediately with toothpicks and remaining dipping sauce.
+
+
+
+
+</instructions>
+</recipe>

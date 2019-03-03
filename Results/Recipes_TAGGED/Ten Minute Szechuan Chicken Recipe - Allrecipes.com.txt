@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Ten Minute Szechuan Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Chinese
+</cuisine>
+<ingredients><ingredient amount="4.0">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="5.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="3.0 Inch">Onion</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Place the chicken and cornstarch into a bag or bowl, and toss to coat. Heat oil in a wok or large skillet over medium-high heat. Fry the chicken pieces and garlic, stirring constantly until lightly browned. Stir in the soy sauce, vinegar, sugar and water. Cover, and cook until the chicken pieces are no longer pink inside, 3 to 5 minutes.
+
+Stir in the green onion, and cayenne pepper, cook uncovered for about 2 more minutes. Serve over white rice.
+
+
+
+
+</instructions>
+</recipe>

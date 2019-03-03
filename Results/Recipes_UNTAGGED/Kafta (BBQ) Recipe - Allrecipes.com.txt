@@ -1,0 +1,31 @@
+<recipe>
+<title>
+Kafta (BBQ) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients>
+1 1/2 pounds lean ground beef
+1 medium onion, grated
+1/2 cup finely chopped fresh parsley
+1/4 teaspoon cayenne pepper
+1/4 teaspoon ground allspice
+1 teaspoon salt, or to taste
+1/4 teaspoon black pepper
+6 wooden or metal skewers
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Preheat an outdoor grill for high heat. If using wooden skewers, soak in water.
+
+In a large bowl, mix together the ground beef, onion, parsley, cayenne, allspice, salt and pepper until evenly blended. Divide into 6 portions, and press around one end of the skewers to form a log shape approximately 1 inch thick and 6 inches long.
+
+Grill for 10 to 15 minutes, turning occasionally, until meat is no longer pink.
+
+
+
+
+</instructions>
+</recipe>

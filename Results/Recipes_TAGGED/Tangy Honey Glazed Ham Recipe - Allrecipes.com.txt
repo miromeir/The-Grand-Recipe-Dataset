@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Tangy Honey Glazed Ham Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Ham</ingredient><ingredient amount="1.0 Cup">Sugar</ingredient><ingredient amount="0.3333333333333333 Cup">Pineapple</ingredient><ingredient amount="0.3333333333333333 Cup">Honey</ingredient><ingredient amount="0.3333333333333333">Orange</ingredient><ingredient amount="2.0 Tablespoon">Mus</ingredient><ingredient amount="0.25 Teaspoon">Clove</ingredient></ingredients>
+<instructions>
+Preheat oven to 325 degrees F (165 degrees C). Place ham in a roasting pan. Watch Now
+
+In a small saucepan, combine brown sugar, pineapple juice, honey, orange juice, orange zest, Dijon mustard, and ground cloves. Bring to a boil, reduce heat, and simmer for 5 to 10 minutes. Set aside. Watch Now
+
+Bake ham in preheated oven uncovered for 2 hours. Remove ham from oven, and brush with glaze. Bake for an additional 30 to 45 minutes, brushing ham with glaze every 10 minutes. Watch Now
+
+
+
+
+</instructions>
+</recipe>

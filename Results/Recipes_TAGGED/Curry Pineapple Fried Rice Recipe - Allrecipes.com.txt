@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Curry Pineapple Fried Rice Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Rice</ingredient><ingredient amount="1.0 Tablespoon">Curry Powder</ingredient><ingredient amount="2.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="2.0 Tablespoon">Pineapple</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Ounce">Pineapple</ingredient></ingredients>
+<instructions>
+Bring the rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes. Set the cooked rice aside. Mix together curry powder, fish sauce, and pineapple juice in a small bowl.
+
+Heat the vegetable oil in a large skillet or wok over medium-high heat until the oil shimmers, and cook and stir the chicken and onion until the chicken is no longer pink and the onions are translucent, about 5 minutes. Stir in the cooked rice, pineapple chunks, and curry mixture, and cook and stir until the fried rice is hot, 5 to 10 minutes.
+
+
+
+
+</instructions>
+</recipe>

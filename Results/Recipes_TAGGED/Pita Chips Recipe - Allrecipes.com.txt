@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Pita Chips Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C).
+
+Cut each pita bread into 8 triangles. Place triangles on lined cookie sheet.
+
+In a small bowl, combine the oil, pepper, salt, basil and chervil. Brush each triangle with oil mixture.
+
+Bake in the preheated oven for about 7 minutes, or until lightly browned and crispy. Watch carefully, as they tend to burn easily!
+
+
+
+
+</instructions>
+</recipe>

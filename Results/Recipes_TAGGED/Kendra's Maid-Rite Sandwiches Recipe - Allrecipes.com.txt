@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Kendra's Maid-Rite Sandwiches Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="2.0 Pound">Beef</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Teaspoon">Mus</ingredient><ingredient amount="16.0">Ham</ingredient></ingredients>
+<instructions>
+Heat a large skillet over medium-high heat and stir in the ground beef and onion. Cook and stir until the beef is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease. Stir in the ketchup, brown sugar, vinegar, Worcestershire sauce, mustard, and salt. Bring to a simmer, then reduce heat to medium-low, cover, and simmer 20 minutes longer. Serve on warmed buns.
+
+
+
+
+</instructions>
+</recipe>

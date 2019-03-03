@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Japanese Sesame Steak Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Tahini</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0 Tablespoon">Mayonnaise</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="1.0">Paprika</ingredient></ingredients>
+<instructions>
+Whisk the tahini, soy sauce, mayonnaise, garlic, ginger, and paprika together in a bowl. Gradually stir the water into the mixture until you reach a desired consistency. Refrigerate until ready to use.
+
+
+
+
+</instructions>
+</recipe>

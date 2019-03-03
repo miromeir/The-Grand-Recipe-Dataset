@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Indonesian Satay Recipe - Allrecipes.com
+</title>
+<cuisine>
+Asian
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="3.0 Tablespoon">Tomato Sauce</ingredient><ingredient amount="1.0 Tablespoon">Pea</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="6.0">Chicken</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.5 Cup">Peanut Butter</ingredient><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient></ingredients>
+<instructions>
+In a bowl, mix soy sauce, tomato sauce, peanut oil, garlic, black pepper, and cumin. Place chicken into the mixture, and stir to coat. Cover, and marinate in the refrigerator for at least 15 minutes, but not overnight. This will make the meat too dark.
+
+Preheat the grill for high heat.
+
+Heat vegetable oil in a saucepan over medium heat, and saute onion and garlic until lightly browned. Mix in water, peanut butter, soy sauce, and sugar. Cook and stir until well blended. Remove from heat, mix in lemon juice, and set aside.
+
+Lightly oil the grill grate. Thread chicken onto skewers, and discard marinade. Grill skewers about 5 minutes per side, until chicken juices run clear. Serve with the peanut sauce.
+
+
+
+
+</instructions>
+</recipe>

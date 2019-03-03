@@ -1,0 +1,35 @@
+SELECT ?____ ?____Label WHERE {
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  { ?____ wdt:P31 wd:Q25403900. }
+  UNION
+  { ?____ wdt:P31 wd:Q1364. }
+  UNION
+  { ?____ wdt:P279 wd:Q2095. }
+  UNION
+  { ?____ wdt:P279 wd:Q3088299. }
+  UNION
+  { ?____ wdt:P31 wd:Q10675206. }
+  UNION
+  { ?____ wdt:P366 wd:Q10675206. }
+  UNION
+  { ?____ wdt:P279 wd:Q427457. }
+  UNION
+  { ?____ wdt:P279 wd:Q178359. }
+  UNION
+  { ?____ wdt:P279 wd:Q11004. }
+  UNION
+  { ?____ wdt:P279 wd:Q25403900. }
+  UNION
+  { ?____ wdt:P279 wd:Q1943539. }
+  UNION
+  { ?____ wdt:P279 wd:Q185217. }
+  UNION
+  { ?____ wdt:P279 wd:Q42962. }
+  UNION
+  { ?____ wdt:P279 wd:Q3314483. }
+  UNION
+  { ?____ wdt:P279 wd:Q283. }
+  UNION
+  {?____ wdt:P279 wd:Q10990.}
+}
+LIMIT 10000

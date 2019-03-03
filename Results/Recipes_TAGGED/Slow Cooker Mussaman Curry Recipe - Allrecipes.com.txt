@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Slow Cooker Mussaman Curry Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="2.0">Potato</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="1.0 Inch">Beef</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Coconut Milk</ingredient><ingredient amount="0.25 Cup">Peanut Butter</ingredient><ingredient amount="3.0 Tablespoon">Curry Powder</ingredient><ingredient amount="3.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="3.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Cup">Broth</ingredient><ingredient amount="0.5 Cup">Pea</ingredient></ingredients>
+<instructions>
+Place the potatoes and onion in a slow cooker.
+
+Melt the butter in a skillet over medium-high heat. Cook the beef and garlic together in the melted butter until the beef is browned on all sides. Transfer the beef and garlic to the slow cooker while keeping the beef drippings in the skillet.
+
+Return the skillet to the medium-high heat. Stir the coconut milk, peanut butter, and curry powder into the reserved beef drippings; cook and stir until the peanut butter melts. Pour the coconut milk mixture into the slow cooker. Turn the slow cooker on to Low; stir the fish sauce, brown sugar, and beef broth into the slow cooker.
+
+Cook on Low until the beef is fork-tender, 4 to 6 hours. Stir the peanuts into the curry about 30 minutes before serving.
+
+
+
+
+</instructions>
+</recipe>

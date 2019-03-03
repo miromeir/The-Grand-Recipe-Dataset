@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Artichoke and Sun-Dried Tomato Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="4.0">Chicken</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0 Teaspoon">Olive Oil</ingredient><ingredient amount="1.0 Ounce">Pepper</ingredient><ingredient amount="0.25 Cup">Tomato</ingredient></ingredients>
+<instructions>
+Season both sides of chicken breasts with salt and pepper. Heat oil in a large skillet over medium-high heat. Place chicken in skillet; cook, turning once to brown each side. Remove chicken from pan, and set aside.
+
+Pour tomatoes into pan; cook for 1 minute, stirring constantly, and incorporating any brown bits from bottom of pan. Stir in pesto and artichokes, and return chicken to pan. Cover, and reduce heat to medium. Simmer for 5 to 10 minutes, or until chicken is cooked through.
+
+
+
+
+</instructions>
+</recipe>

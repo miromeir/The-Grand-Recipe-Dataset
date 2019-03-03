@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Chicken Satay With Peanut Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Coconut Milk</ingredient><ingredient amount="2.0 Teaspoon">Curry Powder</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Fish Sauce</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.75 Cup">Coconut Milk</ingredient><ingredient amount="1.0 Tablespoon">Curry Powder</ingredient><ingredient amount="0.5 Cup">Chicken</ingredient><ingredient amount="0.25 Cup">Peanut Butter</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient><ingredient amount="1.0 Tablespoon">Fish Sauce</ingredient></ingredients>
+<instructions>
+Combine 1/2 cup coconut milk, 2 teaspoons curry powder, 1 teaspoon sugar, 1 teaspoon fish sauce, and granulated garlic in a bowl; add chicken pieces and toss to coat. Cover and refrigerate for at least 2 hours.
+
+Thread marinated chicken pieces onto skewers.
+
+Heat olive oil in a large skillet over medium-high heat. Cook chicken skewers in hot oil until browned and no longer pink in the center, 3 to 4 minutes on each side.
+
+Bring 3/4 cup coconut milk to a simmer in small saucepan or skillet over medium heat. Stir 1 tablespoon curry powder into the coconut milk and simmer for 4 minutes. Add chicken broth, peanut butter, 1 tablespoon sugar, lime juice, and 1 tablespoon fish sauce; simmer for 1 minute. Serve dipping sauce with chicken skewers.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Chicken and Corn Chili Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="4.0">Chicken</ingredient><ingredient amount="2.0 Teaspoon">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Chili Powder</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Pint">Bean</ingredient></ingredients>
+<instructions>
+Place chicken and salsa in the slow cooker the night before you want to eat this chili. Season with garlic powder, cumin, chili powder, salt, and pepper. Cook 6 to 8 hours on Low setting.
+
+About 3 to 4 hours before you want to eat, shred the chicken with 2 forks. Return the meat to the pot, and continue cooking.
+
+Stir the corn and the pinto beans into the slow cooker. Simmer until ready to serve.
+
+
+
+
+</instructions>
+</recipe>

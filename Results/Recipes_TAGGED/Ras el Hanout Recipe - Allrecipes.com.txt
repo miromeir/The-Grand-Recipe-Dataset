@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Ras el Hanout Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="1.0 Teaspoon">Tu</ingredient><ingredient amount="0.75 Teaspoon">Cinnamon</ingredient><ingredient amount="0.75 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">White Pepper</ingredient><ingredient amount="0.5 Teaspoon">Coriander Seed</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="0.5 Teaspoon">Nutmeg</ingredient><ingredient amount="0.25 Teaspoon">Clove</ingredient></ingredients>
+<instructions>
+Mix salt, cumin, ginger, turmeric, cinnamon, black pepper, white pepper, coriander, cayenne pepper, allspice, nutmeg, and cloves in a small bowl until evenly blended. Store in an airtight container up to 1 month.
+
+
+
+
+</instructions>
+</recipe>

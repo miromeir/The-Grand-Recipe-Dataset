@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Japanese Potsticker Dip Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients>
+1 tablespoon soy sauce
+1 tablespoon rice vinegar
+1/4 teaspoon chili oil, or to taste
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a small bowl or ramekin, stir together the soy sauce and rice vinegar. Drip in the chili oil to taste. Stir with chopsticks, and dip away!
+
+
+
+
+</instructions>
+</recipe>

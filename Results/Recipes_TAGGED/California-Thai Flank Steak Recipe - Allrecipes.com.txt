@@ -1,0 +1,22 @@
+<recipe>
+<title>
+California-Thai Flank Steak Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.3333333333333333 Cup">Soy Sauce</ingredient><ingredient amount="0.25 Cup">Rice</ingredient><ingredient amount="0.25 Cup">Rice</ingredient><ingredient amount="0.25 Cup">Juice</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="0.5">Red Onion</ingredient><ingredient amount="3.0 Tablespoon">Pea</ingredient><ingredient amount="3.0 Tablespoon">Paste</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient><ingredient amount="2.0 Pound">Steak</ingredient></ingredients>
+<instructions>
+In a large bowl, combine soy sauce, rice vinegar, rice wine, lime juice and sesame oil. Stir in onion, basil, mint, lemon grass and crushed peanuts. Season with chile paste, coriander and garlic salt.
+
+Layer flank steak with marinade. Refrigerate 6 hours or overnight.
+
+Preheat an outdoor grill for medium high heat, and lightly oil grate.
+
+Spray a large sheet of aluminum foil with non-stick cooking spray. Drain liquid from marinade. Layer meat on foil with the remaining non-liquid marinade ingredients. Fold edges of foil to seal, then grill for 20 minutes.
+
+
+
+
+</instructions>
+</recipe>

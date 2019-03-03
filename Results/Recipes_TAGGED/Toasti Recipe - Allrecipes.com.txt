@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Toasti Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Cabbage</ingredient><ingredient amount="0.5">Carrot</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="0.5 Teaspoon">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient></ingredients>
+<instructions>
+Mix the cabbage and carrot together in a bowl. Stir the egg and soy sauce into the vegetables and mix until combined.
+
+Heat the butter in a large skillet over medium heat. Make a patty with the vegetable mixture the size of a slice of bread. Place the patty into the skillet, and cook until browned on both sides, about 3 minutes per side. Place the patty between two slices of toasted bread to serve.
+
+
+
+
+</instructions>
+</recipe>

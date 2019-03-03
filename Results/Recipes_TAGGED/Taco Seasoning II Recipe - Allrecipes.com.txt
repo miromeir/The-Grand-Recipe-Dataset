@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Taco Seasoning II Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="6.0 Teaspoon">Chili Powder</ingredient><ingredient amount="5.0 Teaspoon">Paprika</ingredient><ingredient amount="2.0 Teaspoon">Onion Powder</ingredient><ingredient amount="2.0 Teaspoon">Garlic</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a jar with a tight fitting lid, combine chili powder, paprika, cumin, onion powder, garlic powder, cayenne pepper and cornstarch. Close lid securely, and shake well to mix contents. 7 teaspoons is equivalent to 1 (1.25 ounce) package of taco seasoning.
+
+
+
+
+</instructions>
+</recipe>

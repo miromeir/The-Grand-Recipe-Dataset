@@ -1,0 +1,18 @@
+<recipe>
+<title>
+French Crepes Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Flour</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="3.0">Egg</ingredient><ingredient amount="2.0 Cup">Milk</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient></ingredients>
+<instructions>
+Sift together flour, sugar and salt; set aside. In a large bowl, beat eggs and milk together with an electric mixer. Beat in flour mixture until smooth; stir in melted butter.
+
+Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 2 tablespoons for each crepe. Tip and rotate pan to spread batter as thinly as possible. Brown on both sides and serve hot.
+
+
+
+
+</instructions>
+</recipe>

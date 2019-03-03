@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Sun-Dried Tomato Pesto Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="4.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Tablespoon">Garlic</ingredient><ingredient amount="0.25 Cup">Nut</ingredient><ingredient amount="3.0 Tablespoon">Onion</ingredient><ingredient amount="1.0 Tablespoon">Tomato Paste</ingredient><ingredient amount="0.3333333333333333 Cup">Tomato</ingredient><ingredient amount="0.5 Cup">Olive Oil</ingredient><ingredient amount="0.5 Cup">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Place sun-dried tomatoes in a bowl and cover with warm water for 5 minutes, or until tender.
+
+In a food processor or blender combine sun-dried tomatoes, basil, parsley, garlic, pine nuts and onion; process until well blended. Add vinegar, tomato paste, crushed tomatoes and red wine, and process. Stir in olive oil and Parmesan cheese. Season with salt to taste.
+
+
+
+
+</instructions>
+</recipe>

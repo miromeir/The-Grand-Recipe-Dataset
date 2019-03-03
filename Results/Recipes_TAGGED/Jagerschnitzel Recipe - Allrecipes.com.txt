@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Jagerschnitzel Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Bread Crumbs</ingredient><ingredient amount="1.0 Tablespoon">Flour</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="4.0 Pound">Steak</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Ounce">Mush</ingredient><ingredient amount="1.0">Bouillon</ingredient><ingredient amount="0.5 Cup">Cream</ingredient></ingredients>
+<instructions>
+In a shallow dish, mix together the bread crumbs and flour. Season with salt and pepper. Place the egg in a separate dish. Heat oil in a large skillet over medium-high heat. Dip pork steaks in egg, then coat with the bread crumb mixture. Fry in the hot oil until browned on both sides and cooked through, about 5 minutes per side.
+
+Remove the pork to a platter and keep warm. Add onion and mushrooms to the skillet and cook until lightly browned. Pour in water and dissolve the bouillon cube. Simmer for about 20 minutes. Stir together the cornstarch and sour cream; stir into the skillet. Cook over low heat until thickened but do not boil. Spoon over the pork cutlets and serve immediately.
+
+
+
+
+</instructions>
+</recipe>

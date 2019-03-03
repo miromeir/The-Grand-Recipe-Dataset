@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Korean Style Salad Dressing Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.25 Cup">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="3.0 Tablespoon">Rice</ingredient><ingredient amount="3.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient></ingredients>
+<instructions>
+Whisk soy sauce, sugar, water, rice vinegar, sesame oil, and red chile pepper together in a bowl.
+
+
+
+
+</instructions>
+</recipe>

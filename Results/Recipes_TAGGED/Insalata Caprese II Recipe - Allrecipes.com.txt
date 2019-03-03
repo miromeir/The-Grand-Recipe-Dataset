@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Insalata Caprese II Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="4.0 Inch">Tomato</ingredient><ingredient amount="1.0 Inch">Mozzarella</ingredient><ingredient amount="3.0 Tablespoon">Olive Oil</ingredient><ingredient amount="">Sea Salt</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+On a large platter, alternate and overlap the tomato slices, mozzarella cheese slices, and basil leaves. Drizzle with olive oil. Season with sea salt and pepper.
+
+
+
+
+</instructions>
+</recipe>

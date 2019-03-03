@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Slow Cooker Latin Chicken Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="3.0 Pound">Chicken</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0">Sweet Potato</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="2.0 Ounce">Bean</ingredient><ingredient amount="0.5 Cup">Chicken</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="">Garnish</ingredient></ingredients>
+<instructions>
+Heat the olive oil in a large skillet; season the chicken thighs with salt and pepper. Sprinkle 1/4 cup cilantro over the chicken thighs; brown the chicken in the frying pan, 3 to 5 minutes each side.
+
+Arrange the chicken in the bottom of a slow cooker. Place the sweet potatoes, red bell pepper, and black beans on top of the chicken. Mix together the chicken broth, 1/4 cup cilantro leaves, salsa, cumin, allspice, and garlic together in a bowl; pour into the slow cooker. Set slow cooker to LOW and cook for 4 hours. Garnish with lime wedges to serve.
+
+
+
+
+</instructions>
+</recipe>

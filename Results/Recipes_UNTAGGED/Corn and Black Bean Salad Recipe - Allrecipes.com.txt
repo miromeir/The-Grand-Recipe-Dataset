@@ -1,0 +1,31 @@
+<recipe>
+<title>
+Corn and Black Bean Salad Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients>
+1/4 cup balsamic vinegar
+2 tablespoons vegetable oil
+1/2 teaspoon salt
+1/2 teaspoon white sugar
+1/2 teaspoon ground black pepper
+1/2 teaspoon ground cumin
+1/2 teaspoon chili powder
+3 tablespoons chopped fresh cilantro
+1 (15 ounce) can black beans, rinsed and drained
+1 (8.75 ounce) can sweet corn, drained
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a small bowl, mix together balsamic vinegar, oil, salt, sugar, black pepper, cumin, and chili powder.
+
+In a medium bowl, stir together black beans and corn. Toss with vinegar and oil dressing, and garnish with cilantro. Cover, and refrigerate overnight.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Mexican Wedding Cakes II Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Butter</ingredient><ingredient amount="8.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Cup">Flour</ingredient><ingredient amount="2.0 Cup">Walnut</ingredient></ingredients>
+<instructions>
+Preheat oven to 350 degrees F (180 degrees C).
+
+Mix all the ingredients together with a mixer until well blended. Roll dough into round small balls.
+
+Bake for 10-12 minutes.
+
+Cool completely then roll in additional confectionary sugar.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Buffalo Chicken Chili Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="2.0 Pound">Chicken</ingredient><ingredient amount="1.0">Carrot</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="3.0">Celery</ingredient><ingredient amount="5.0">Garlic</ingredient><ingredient amount="5.0 Tablespoon">Chili Powder</ingredient><ingredient amount="1.0 Tablespoon">Paprika</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0 Ounce">Tomato Sauce</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient></ingredients>
+<instructions>
+Heat olive oil and butter in a large pot over medium-high heat. Place chicken in the pot. Cook and stir 7 to 10 minutes, until chicken is no longer pink. Stir in the carrot, onion, celery, garlic, chili powder, cumin, paprika, and salt and pepper, and cook and stir until the onion is translucent and the vegetables are beginning to soften, 3 to 4 more minutes.
+
+Stir in the hot sauce, tomato sauce, crushed tomatoes, and white and red kidney beans. Bring to a boil, and simmer over medium-low heat about 1 hour, until the vegetables are tender and the flavors have blended.
+
+
+
+
+</instructions>
+</recipe>

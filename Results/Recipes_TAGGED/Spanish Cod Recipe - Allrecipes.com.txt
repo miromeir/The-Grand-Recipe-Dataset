@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Spanish Cod Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.25 Cup">Onion</ingredient><ingredient amount="2.0 Tablespoon">Garlic</ingredient><ingredient amount="1.0 Cup">Tomato Sauce</ingredient><ingredient amount="15.0">Tomato</ingredient><ingredient amount="0.5 Cup">Olive</ingredient><ingredient amount="0.25 Cup">Vegetable</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="1.0">Pepper</ingredient><ingredient amount="1.0">Paprika</ingredient></ingredients>
+<instructions>
+Heat butter and olive oil in a large skillet over medium heat. Cook and stir onions and garlic until onions are slightly tender, being careful not to burn the garlic. Add tomato sauce and cherry tomatoes, and bring to a simmer. Stir in green olives and marinated vegetables, and season with black pepper, cayenne pepper, and paprika. Cook fillets in sauce over medium heat for 5 to 8 minutes, or until easily flaked with a fork. Serve immediately.
+
+
+
+
+</instructions>
+</recipe>

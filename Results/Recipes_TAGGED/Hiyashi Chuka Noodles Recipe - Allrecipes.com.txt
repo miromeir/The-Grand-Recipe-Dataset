@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Hiyashi Chuka Noodles Recipe - Allrecipes.com
+</title>
+<cuisine>
+Japanese
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="2.0 Tablespoon">Sugar</ingredient><ingredient amount="5.0 Tablespoon">Chicken</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="0.5">Cucumber</ingredient><ingredient amount="1.0">Carrot</ingredient><ingredient amount="1.0">Ham</ingredient><ingredient amount="0.25">Nori</ingredient><ingredient amount="1.0 Tablespoon">Mus</ingredient></ingredients>
+<instructions>
+Mix the soy sauce, sugar, vinegar, chicken stock, sesame oil, and chili oil together in a small bowl, and stir until the sugar dissolves. Set aside.
+
+Bring a saucepan of water to a boil. Add the ramen noodles and cook for 2 minutes. Drain immediately, and refrigerate noodles until cold. Meanwhile, heat a small nonstick skillet over medium heat. Pour in the beaten egg and tilt the pan to thinly coat the bottom with egg. When firm, fold the egg in half and remove from the pan. Slice into thin strips.
+
+To serve, place cold noodles on serving plates. Top with separate piles of egg, cucumber, carrot, and ham. Pour the sauce over the top and sprinkle with crumbled nori. Serve with a touch of hot mustard on the side.
+
+
+
+
+</instructions>
+</recipe>

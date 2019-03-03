@@ -1,0 +1,27 @@
+<recipe>
+<title>
+Chimichurri Sauce Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients>
+1 cup fresh parsley
+3/4 cup extra virgin olive oil
+3 tablespoons red wine vinegar
+2 tablespoons dried oregano
+2 teaspoons ground cumin
+1 teaspoon salt
+1/2 tablespoon minced garlic
+1/2 tablespoon pepper sauce (such as Frank's Red Hot®)
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+Place the parsley, olive oil, red wine vinegar, oregano, cumin, salt, garlic and hot pepper sauce into the container of a blender or food processor. Blend for about 10 seconds on medium speed, or until ingredients are evenly blended.
+
+
+
+
+</instructions>
+</recipe>

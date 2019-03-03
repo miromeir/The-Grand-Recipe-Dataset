@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Rosemary Braised Lamb Shanks Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="6.0">Shank</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Olive Oil</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="3.0 Inch">Carrot</ingredient><ingredient amount="10.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Ounce">Chicken</ingredient><ingredient amount="1.0 Ounce">Broth</ingredient></ingredients>
+<instructions>
+Sprinkle shanks with salt and pepper. Heat oil in heavy large pot or Dutch oven over medium-high heat. Working in batches, cook shanks until brown on all sides, about 8 minutes. Transfer shanks to plate.
+
+Add onions, carrots and garlic to pot and saute until golden brown, about 10 minutes. Stir in wine, tomatoes, chicken broth and beef broth. Season with rosemary and thyme. Return shanks to pot, pressing down to submerge. Bring to a boil, then reduce heat to medium-low. Cover, and simmer until meat is tender, about 2 hours.
+
+Remove cover from pot. Simmer about 20 minutes longer. Transfer shanks to platter, place in a warm oven. Boil juices in pot until thickened, about 15 minutes. Spoon over shanks.
+
+
+
+
+</instructions>
+</recipe>

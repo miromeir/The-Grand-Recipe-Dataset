@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Moroccan Chicken and Whole Grain Couscous Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Couscous</ingredient><ingredient amount="1.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="5.0">Clove</ingredient><ingredient amount="0.5 Teaspoon">Cinnamon</ingredient><ingredient amount="1.0 Teaspoon">Tu</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="6.0">Chicken</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="1.0 Fluid ounce">Chicken</ingredient><ingredient amount="2.0 Inch">Carrot</ingredient><ingredient amount="1.0 Inch">Zucchini</ingredient></ingredients>
+<instructions>
+Prepare the couscous according to package directions.
+
+Heat the oil in a large pot over medium heat, and cook onion until tender. Mix in bay leaves, cloves, cinnamon, turmeric, and cayenne pepper. Place chicken in the pot, and cook until well browned. Pour garbanzo beans, tomatoes, and broth into the pot, and bring to a boil. Reduce heat to low, and simmer 25 minutes.
+
+Mix carrots and zucchini into pot. Season with salt. Continue cooking 10 minutes, or until vegetables are tender. Serve stew over cooked couscous.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Adas bil Hamod (Lebanese Lentil Lemon Soup) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.5 Cup">Onion</ingredient><ingredient amount="1.0 Pound">Lentil</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Spinach</ingredient><ingredient amount="0.75 Cup">Juice</ingredient></ingredients>
+<instructions>
+Heat oil in large pot over high heat. When oil is very hot, add onions and stir until onions begin to turn dark brown and caramelize, about 10 minutes. Put the lentils, garlic, frozen spinach, and mint into the pot. Pour in enough water so that it is about 2 inches deeper than the lentil mixture. Stir well to loosen browned bits of onion on the bottom of the pot. Watch Now
+
+Bring to a boil; reduce heat to medium. Simmer, uncovered, until lentils are tender, about 20 minutes. If soup gets too thick, add a little more water. Salt to taste. Lower heat and stir in lemon juice. Watch Now
+
+
+
+
+</instructions>
+</recipe>

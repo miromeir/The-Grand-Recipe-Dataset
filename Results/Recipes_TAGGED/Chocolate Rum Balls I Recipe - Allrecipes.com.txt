@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Chocolate Rum Balls I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="3.0 Cup">Wafer</ingredient><ingredient amount="0.75 Cup">Sugar</ingredient><ingredient amount="1.0 Cup">Walnut</ingredient></ingredients>
+<instructions>
+In a large bowl, stir together the crushed vanilla wafers, 3/4 cup confectioners' sugar, cocoa, and nuts. Blend in corn syrup and rum.
+
+Shape into 1 inch balls, and roll in additional confectioners' sugar. Store in an airtight container for several days to develop the flavor. Roll again in confectioners' sugar before serving.
+
+
+
+
+</instructions>
+</recipe>

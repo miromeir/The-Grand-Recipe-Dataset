@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Slow Cooker Guisado Verde Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="2.0 Pound">Pork</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Pepper</ingredient><ingredient amount="2.0">Pepper</ingredient><ingredient amount="">Pepper</ingredient><ingredient amount="1.0 Cup">Monterey Jack</ingredient><ingredient amount="0.25 Cup">Cream</ingredient><ingredient amount="4.0">Garnish</ingredient></ingredients>
+<instructions>
+Heat the oil in a large skillet over medium heat, and brown the pork on all sides. Reserving the juices in the skillet, transfer the pork to a slow cooker.
+
+In the skillet with the pork juices over medium heat, saute the onion and garlic about 1 minute. Transfer to the slow cooker, along with skillet juices.
+
+Mix the tomatillos, green chile peppers, jalapeno peppers, and cilantro into the slow cooker. Season with oregano, salt, and pepper. Pour in 1 quart water, or enough to cover all ingredients. Cover, and cook on High for 6 to 7 hours.
+
+Shred the cooked pork with a fork. Spoon the slow cooker mixture into bowls, and top with Monterey Jack cheese, sour cream, and fresh cilantro sprigs to serve.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Lance's French Onion Soup Recipe - Allrecipes.com
+</title>
+<cuisine>
+French
+</cuisine>
+<ingredients><ingredient amount="5.0">Onion</ingredient><ingredient amount="6.0 Cup">Broth</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="3.0 Tablespoon">Margarine</ingredient><ingredient amount="1.0 Pound">Cheese</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+In a medium stock pot, heat beef broth over medium-high heat.
+
+In a saute pan, add butter and oil and cook over medium-high heat. Once heated, add onions and stir, until onions are tender and transparent. Stir in sugar.
+
+Add onions to heated broth, stir and let simmer for 20 minutes.
+
+Add wine and season with salt and pepper, simmer for 10 minutes.
+
+Pour soup mixture into individual serving bowls and place a slice of bread on top, making sure bread gets well soaked. Place shredded cheese on top of bread and broil, 3 inches below heat, until cheese bubbles.
+
+
+
+
+</instructions>
+</recipe>

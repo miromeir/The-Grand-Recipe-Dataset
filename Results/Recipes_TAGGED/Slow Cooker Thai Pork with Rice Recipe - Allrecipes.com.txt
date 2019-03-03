@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Slow Cooker Thai Pork with Rice Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Pork</ingredient><ingredient amount="2.0">Bell Pepper</ingredient><ingredient amount="2.0 Teaspoon">Minced Garlic</ingredient><ingredient amount="0.3333333333333333 Cup">Teriyaki Sauce</ingredient><ingredient amount="3.0 Tablespoon">Rice</ingredient><ingredient amount="0.5 Teaspoon">Pepper</ingredient><ingredient amount="3.0 Cup">Grain</ingredient><ingredient amount="0.25 Cup">Peanut Butter</ingredient><ingredient amount="1.0 Cup">Pea</ingredient><ingredient amount="1.0">Onion</ingredient></ingredients>
+<instructions>
+Place the pork roast, red bell peppers, garlic, teriyaki sauce, and rice wine vinegar in a slow cooker. Sprinkle with red pepper flakes.
+
+Cover, and cook 8 hours on Low.
+
+In a pot, bring the rice and water to a boil. Reduce heat to low, cover, and cook 20 minutes.
+
+Remove meat from slow cooker, and shred. Stir the peanut butter into the slow cooker. Return shredded meat to slow cooker, and mix with the sauce to coat. Serve over the cooked rice with a sprinkling of peanuts and green onions.
+
+
+
+
+</instructions>
+</recipe>

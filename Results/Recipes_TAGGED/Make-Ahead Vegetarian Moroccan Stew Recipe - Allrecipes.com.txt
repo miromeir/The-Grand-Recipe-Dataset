@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Make-Ahead Vegetarian Moroccan Stew Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Teaspoon">Cinnamon</ingredient><ingredient amount="0.5 Teaspoon">Ginger</ingredient><ingredient amount="0.25 Teaspoon">Clove</ingredient><ingredient amount="0.25 Teaspoon">Nutmeg</ingredient><ingredient amount="0.25 Teaspoon">Tu</ingredient><ingredient amount="0.125 Teaspoon">Curry Powder</ingredient><ingredient amount="">Vegetable</ingredient><ingredient amount="1.0 Tablespoon">Butter</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="2.0 Cup">Kale</ingredient><ingredient amount="4.0 Ounce">Vegetable</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Ounce">Tomato</ingredient><ingredient amount="3.0">Potato</ingredient><ingredient amount="2.0">Sweet Potato</ingredient><ingredient amount="4.0">Carrot</ingredient><ingredient amount="1.0 Cup">Lentil</ingredient><ingredient amount="0.5 Cup">Apricot</ingredient><ingredient amount="1.0 Tablespoon">Honey</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Combine cinnamon, cumin, salt, ginger, cloves, nutmeg, turmeric, and curry powder in a large bowl.
+
+Melt butter in a large pot over medium heat. Cook the onion in the butter until soft and just beginning to brown, 5 to 10 minutes. Stir in kale and spice mixture; cook until kale begins to wilt and spices are fragrant, about 2 minutes.
+
+Pour the vegetable broth into the pot. Stir garbanzo beans, tomatoes, potatoes, sweet potatoes, carrots, lentils, apricots, and honey, into the broth; bring to boil, reduce heat to low, and simmer until vegetables and lentils are cooked and tender, about 30 minutes. Season stew with black pepper.
+
+Dissolve cornstarch in water; stir into stew and simmer thickened, about 5 minutes.
+
+
+
+
+</instructions>
+</recipe>

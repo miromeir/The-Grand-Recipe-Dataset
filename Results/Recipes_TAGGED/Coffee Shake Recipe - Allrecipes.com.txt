@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Coffee Shake Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="1.0 Teaspoon">Instant Coffee</ingredient><ingredient amount="0.75 Cup">Milk</ingredient><ingredient amount="2.0 Teaspoon">Sugar</ingredient><ingredient amount="6.0">Ice</ingredient><ingredient amount="2.0 Teaspoon">Chocolate</ingredient></ingredients>
+<instructions>
+Combine the instant coffee, milk, vanilla extract, sugar, ice, and chocolate syrup in a blender; blend until smooth.
+
+
+
+
+</instructions>
+</recipe>

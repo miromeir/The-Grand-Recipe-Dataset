@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Greek-Style Baked Salmon Recipe - Allrecipes.com
+</title>
+<cuisine>
+Mediterranean Diet
+</cuisine>
+<ingredients><ingredient amount="8.0 Ounce">Salmon</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="4.0">Tomato</ingredient><ingredient amount="0.5 Cup">Cheese</ingredient><ingredient amount="0.25">Red Onion</ingredient><ingredient amount="4.0">Olive</ingredient><ingredient amount="1.0 Tablespoon">Juice</ingredient></ingredients>
+<instructions>
+Preheat an oven to 350 degrees F (175 degrees C).
+
+Brush each salmon fillet on all sides with olive oil and arrange into the bottom of a glass baking dish with the skin side facing down. Scatter the tomatoes, feta cheese, onion, basil, and olives over the fillets; sprinkle with the lemon juice.
+
+Bake in the preheated oven until the salmon flakes easily with a fork, about 20 minutes.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Dad's Pad Thai Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="0.75 Pound">Bean Sprout</ingredient><ingredient amount="6.0 Ounce">Rice</ingredient><ingredient amount="4.0">Egg</ingredient><ingredient amount="3.0 Tablespoon">Juice</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="0.25 Cup">Fish Sauce</ingredient><ingredient amount="3.0 Tablespoon">Pea</ingredient><ingredient amount="1.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient><ingredient amount="2.0 Cup">Carrot</ingredient><ingredient amount="0.6666666666666666 Cup">Pea</ingredient><ingredient amount="1.0 Inch">Onion</ingredient></ingredients>
+<instructions>
+Bring a pot of water to a boil. Blanch the bean sprouts in boiling water for approximately 30 seconds, remove, and drain well. When the water returns to a boil, add noodles. Cook for 3 to 5 minutes until tender but firm; drain and rinse under cold water
+
+Beat the eggs with a pinch of salt in a small bowl. Stir together the lime juice, ketchup, brown sugar, and fish sauce in a separate bowl; set aside.
+
+Heat the oil in a wok or large skillet over medium-high heat. Fry the garlic for a few seconds. Add the pepper flakes and carrot, and cook for one minute, then remove. Add the beaten egg, and gently scramble. When the eggs have set, pour in the carrots, sauce, bean sprouts, noodles, peanuts, and green onion; toss together.
+
+
+
+
+</instructions>
+</recipe>

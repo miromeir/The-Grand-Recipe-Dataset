@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Pico De Gallo Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0">Tomato</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="0.5">Pepper</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="0.5 Teaspoon">Garlic</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+In a medium bowl, combine tomato, onion, jalapeno pepper (to taste,) cilantro and green onion. Season with garlic powder, salt and pepper. Stir until evenly distributed. Refrigerate for 30 minutes.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Korean Egg Roll Triangles Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="0.5 Ounce">Vermicelli</ingredient><ingredient amount="0.5">Cabbage</ingredient><ingredient amount="1.0 Ounce">Tofu</ingredient><ingredient amount="2.0">Zucchini</ingredient><ingredient amount="4.0">Onion</ingredient><ingredient amount="4.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Sesame Oil</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="1.0 Ounce">Wonton</ingredient><ingredient amount="0.5 Cup">Vegetable Oil</ingredient></ingredients>
+<instructions>
+Bring a pot of water to a boil, drop in the rice noodles, and boil until the noodles are soft but not mushy, 3 to 5 minutes, stirring occasionally. Rinse with cold water, and drain in a colander set in the sink. Chop the noodles up into small pieces, and set aside.
+
+Wrap the shredded cabbage in a kitchen towel or a length of cheesecloth, and squeeze the excess moisture out. Place the cabbage, tofu, zucchini, green onions, garlic, black pepper, sesame oil, eggs, salt, and chopped rice noodles in a large bowl, and mix with your hands until evenly mixed and the tofu is broken up into very small chunks.
+
+Place a round wonton wrapper onto a work surface, and spoon 1 to 2 teaspoons of filling into the center of the wrapper. Dip your finger in water and moisten the edge of the wrapper about halfway around, then fold the wrapper over, enclosing the filling, and pinch the edges together to make a half-moon shape. Lay the completed rolls on a cookie sheet while you finish filling and folding the rest.
+
+Heat the vegetable oil in a heavy skillet, and working in batches, fry the rolls until golden brown, 2 to 3 minutes per side.
+
+
+
+
+</instructions>
+</recipe>

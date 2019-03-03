@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Baked Sweet Potato Sticks Recipe - Allrecipes.com
+</title>
+<cuisine>
+Australian and New Zealander
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.5 Teaspoon">Paprika</ingredient><ingredient amount="8.0 Quart">Sweet Potato</ingredient></ingredients>
+<instructions>
+Preheat oven to 400 degrees F (200 degrees C). Lightly grease a baking sheet.
+
+In a large bowl, mix olive oil and paprika. Add potato sticks, and stir by hand to coat. Place on the prepared baking sheet.
+
+Bake 40 minutes in the preheated oven.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,16 @@
+<recipe>
+<title>
+Basil and Pesto Hummus Recipe - Allrecipes.com
+</title>
+<cuisine>
+Middle Eastern
+</cuisine>
+<ingredients><ingredient amount="1.0 Ounce">Chickpea</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="0.5 Teaspoon">Soy Sauce</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Combine the garbanzo beans, basil, and garlic in a food processor; pulse several times. Use a spatula to push mixture from sides of processor bowl. Pulse the mixture again while drizzling in the olive oil. Add the vinegar and soy sauce; pulse until combined. Season with salt and pepper.
+
+
+
+
+</instructions>
+</recipe>

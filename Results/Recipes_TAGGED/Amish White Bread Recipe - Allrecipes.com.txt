@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Amish White Bread Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Warm Water</ingredient><ingredient amount="0.6666666666666666 Cup">Sugar</ingredient><ingredient amount="1.0 Tablespoon">Yeast</ingredient><ingredient amount="0.25 Cup">Vegetable Oil</ingredient><ingredient amount="6.0 Cup">Flour</ingredient></ingredients>
+<instructions>
+In a large bowl, dissolve the sugar in warm water, and then stir in yeast. Allow to proof until yeast resembles a creamy foam.
+
+Mix salt and oil into the yeast. Mix in flour one cup at a time. Knead dough on a lightly floured surface until smooth. Place in a well oiled bowl, and turn dough to coat. Cover with a damp cloth. Allow to rise until doubled in bulk, about 1 hour.
+
+Punch dough down. Knead for a few minutes, and divide in half. Shape into loaves, and place into two well oiled 9x5 inch loaf pans. Allow to rise for 30 minutes, or until dough has risen 1 inch above pans.
+
+Bake at 350 degrees F (175 degrees C) for 30 minutes.
+
+
+
+
+</instructions>
+</recipe>

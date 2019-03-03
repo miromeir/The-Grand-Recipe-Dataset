@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Maple Salmon Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Soy Sauce</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Garlic</ingredient><ingredient amount="0.125 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Pound">Salmon</ingredient></ingredients>
+<instructions>
+In a small bowl, mix the maple syrup, soy sauce, garlic, garlic salt, and pepper.
+
+Place salmon in a shallow glass baking dish, and coat with the maple syrup mixture. Cover the dish, and marinate salmon in the refrigerator 30 minutes, turning once.
+
+Preheat oven to 400 degrees F (200 degrees C).
+
+Place the baking dish in the preheated oven, and bake salmon uncovered 20 minutes, or until easily flaked with a fork.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,20 @@
+<recipe>
+<title>
+25-Minute Tunisian Vegetable Couscous Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0">Red Onion</ingredient><ingredient amount="1.0">Zucchini</ingredient><ingredient amount="1.0">Carrot</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="0.5 Cup">Mush</ingredient><ingredient amount="4.0 Cup">Vegetable</ingredient><ingredient amount="0.5 Teaspoon">Paprika</ingredient><ingredient amount="1.0 Ounce">Chickpea</ingredient><ingredient amount="2.0">Tomato</ingredient><ingredient amount="2.0 Cup">Couscous</ingredient><ingredient amount="1.0 Teaspoon">Orange</ingredient><ingredient amount="1.0 Tablespoon">Parmesan Cheese</ingredient><ingredient amount="0.5 Teaspoon">Paprika</ingredient><ingredient amount="1.0 Tablespoon">Almond</ingredient></ingredients>
+<instructions>
+Heat oil in large pot over medium-low heat. Place onion, zucchini, yellow squash, and carrot in pot and cook, stirring occasionally, until onions begin to soften and turn translucent, about 5 minutes. Stir in the red and yellow peppers and mushrooms; cook another 3 minutes. Vegetables should still be firm.
+
+Pour in the vegetable stock and season with paprika, cardamom, salt, and cilantro. Bring mixture to a boil; reduce heat to low. Stir in chickpeas and tomatoes. Slowly pour in the couscous; stir. Cover pot immediately and remove from the heat. Let stand, covered, for 5 minutes. Fluff couscous with a fork. The couscous should have absorbed about half the cooking liquid.
+
+Serve at slightly warmer than room temperature. Garnish with orange zest and the grated cheese, paprika, and almonds.
+
+
+
+
+</instructions>
+</recipe>

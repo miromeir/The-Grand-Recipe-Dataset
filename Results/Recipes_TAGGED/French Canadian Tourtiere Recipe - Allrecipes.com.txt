@@ -1,0 +1,22 @@
+<recipe>
+<title>
+French Canadian Tourtiere Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Pork</ingredient><ingredient amount="0.5 Pound">Beef</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Garlic</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="0.125 Teaspoon">Clove</ingredient><ingredient amount="1.0 Inch">Pastry</ingredient></ingredients>
+<instructions>
+In a saucepan, combine pork, beef, onion, garlic, water, salt, thyme, sage, black pepper and cloves. Cook over medium heat until mixture boils; stirring occasionally. Reduce heat to low and simmer until meat is cooked, about 5 minutes. Allow to cool to room temperature.
+
+Preheat oven to 425 degrees F (220 degrees C).
+
+Spoon the meat mixture into the pie crust. Place top crust on top of pie and pinch edges to seal. Cut slits in top crust so steam can escape. Cover edges of pie with strips of aluminum foil.
+
+Bake in preheated oven for 20 minutes; remove foil and return to oven. Bake for an additional 15 to 20 minutes, or until golden brown. Let cool 10 minutes before slicing.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Congo Tofu Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Rice</ingredient><ingredient amount="3.0 Tablespoon">Pea</ingredient><ingredient amount="1.0 Pound">Tofu</ingredient><ingredient amount="0.5">Onion</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="0.75 Ounce">Tomato Paste</ingredient><ingredient amount="0.5 Cup">Peanut Butter</ingredient></ingredients>
+<instructions>
+Bring rice and water to a boil in a pot. Cover, reduce heat to low, and simmer 20 minutes, or until rice is tender and water has been absorbed.
+
+Heat the oil in a large skillet over medium-high heat. Cook the tofu in the oil until browned, about 10 minutes. Add the onion and garlic; cook and stir until the onion is translucent, 3 to 5 minutes. Mix in the tomato paste and peanut butter; cook and stir until peanut butter has melted completely, about 5 minutes. Serve over cooked rice.
+
+
+
+
+</instructions>
+</recipe>

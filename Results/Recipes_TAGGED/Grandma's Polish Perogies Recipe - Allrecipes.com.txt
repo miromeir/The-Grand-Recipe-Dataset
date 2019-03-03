@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Grandma's Polish Perogies Recipe - Allrecipes.com
+</title>
+<cuisine>
+European
+</cuisine>
+<ingredients><ingredient amount="4.0 Cup">Flour</ingredient><ingredient amount="2.0 Tablespoon">Butter</ingredient><ingredient amount="2.0 Cup">Cream</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="1.0">Egg Yolk</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="8.0">Potato</ingredient><ingredient amount="1.0 Cup">Cheddar</ingredient><ingredient amount="2.0 Tablespoon">Cheese</ingredient><ingredient amount="">Onion</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+In a large bowl, stir together the flour and salt. In a separate bowl, whisk together the butter, sour cream, eggs, egg yolk and oil. Stir the wet ingredients into the flour until well blended. Cover the bowl with a towel, and let stand for 15 to 20 minutes.
+
+Place potatoes into a pot, and fill with enough water to cover. Bring to a boil, and cook until tender, about 15 minutes. Drain, and mash with shredded cheese and cheese sauce while still hot. Season with onion salt, salt and pepper. Set aside to cool.
+
+Separate the perogie dough into two balls. Roll out one piece at a time on a lightly floured surface until it is thin enough to work with, but not too thin so that it tears. Cut into circles using a cookie cutter, perogie cutter, or a glass. Brush a little water around the edges of the circles, and spoon some filling into the center. Fold the circles over into half-circles, and press to seal the edges. Place perogies on a cookie sheet, and freeze. Once frozen, transfer to freezer storage bags or containers.
+
+To cook perogies: Bring a large pot of lightly salted water to a boil. Drop perogies in one at a time. They are done when they float to the top. Do not boil too long, or they will be soggy! Remove with a slotted spoon.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Garlic Parmesan Monkey Bread Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="3.0 Tablespoon">Onion</ingredient><ingredient amount="1.0 Teaspoon">Garlic</ingredient><ingredient amount="5.0 Tablespoon">Butter</ingredient><ingredient amount="2.0">Egg</ingredient><ingredient amount="2.0 Pound">Dough</ingredient><ingredient amount="0.5 Cup">Parmesan Cheese</ingredient></ingredients>
+<instructions>
+Grease a 10 inch Bundt pan or tube pan.
+
+In a medium bowl, mix together the green onion, parsley, garlic powder, salt, butter and eggs until well blended. Break the bread dough off in walnut-sized pieces, and dip each piece into the egg mixture.
+
+Place coated dough balls into the prepared pan. Once there is a layer of balls covering the bottom of the pan, sprinkle with Parmesan cheese. Repeat, sprinkling each layer with cheese until everything is in the pan. Cover loosely, and let rise until doubled in size, about 45 minutes. Preheat the oven to 350 degrees F (175 degrees C).
+
+Bake for 30 minutes in the preheated oven, or until golden brown.
+
+
+
+
+</instructions>
+</recipe>

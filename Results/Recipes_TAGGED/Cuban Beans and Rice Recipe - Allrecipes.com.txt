@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Cuban Beans and Rice Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0 Tablespoon">Olive Oil</ingredient><ingredient amount="1.0 Cup">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="2.0">Garlic</ingredient><ingredient amount="4.0 Tablespoon">Tomato Paste</ingredient><ingredient amount="1.0 Ounce">Bean</ingredient><ingredient amount="1.0 Cup">Rice</ingredient></ingredients>
+<instructions>
+Heat oil in a large saucepan over medium heat. Saute onion, bell pepper and garlic. When onion is translucent add salt and tomato paste. Reduce heat to low and cook 2 minutes. Stir in the beans and rice.
+
+Pour the liquid from the beans into a large measuring cup and add enough water to reach a volume of 2 1/2 cups; pour into beans. Cover and cook on low for 45 to 50 minutes, or until liquid is absorbed and rice is cooked.
+
+
+
+
+</instructions>
+</recipe>

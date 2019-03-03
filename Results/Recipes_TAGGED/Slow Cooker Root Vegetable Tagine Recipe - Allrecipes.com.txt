@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Slow Cooker Root Vegetable Tagine Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Tu</ingredient><ingredient amount="2.0">Onion</ingredient><ingredient amount="1.0 Pound">Carrot</ingredient><ingredient amount="6.0">Apricot</ingredient><ingredient amount="1.0 Teaspoon">Tu</ingredient><ingredient amount="0.5 Teaspoon">Ginger</ingredient><ingredient amount="0.5 Teaspoon">Cinnamon</ingredient><ingredient amount="0.25 Teaspoon">Pepper</ingredient><ingredient amount="1.0 Ounce">Vegetable</ingredient></ingredients>
+<instructions>
+In a slow cooker, toss together the parsnips, turnips, onions, carrots, apricots, and prunes. Season with turmeric, cumin, ginger, cinnamon, cayenne pepper, parsley, and cilantro. Pour in the vegetable broth.
+
+Cover, and cook 9 hours on Low.
+
+
+
+
+</instructions>
+</recipe>

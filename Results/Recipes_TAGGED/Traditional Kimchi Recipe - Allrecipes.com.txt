@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Traditional Kimchi Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="1.0">Cabbage</ingredient><ingredient amount="6.0">Garlic</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0 Inch">Ginger</ingredient><ingredient amount="1.0 Tablespoon">Rice</ingredient><ingredient amount="1.0">Cucumber</ingredient><ingredient amount="3.0">Onion</ingredient><ingredient amount="1.0">Pepper</ingredient></ingredients>
+<instructions>
+Place cabbage and radish in a large colander. Sprinkle liberally with salt and mix to combine. Set aside for 1 hour. Add additional salt, mix, and set aside 1 hour more. Rinse cabbage and let drain.
+
+Meanwhile, combine garlic, onion, ginger, and rice vinegar in a blender. Add water and blend aromatic mixture on high power.
+
+Transfer drained cabbage to a large bowl and add aromatic mixture. Add persimmon, cucumber, green onions, and red pepper flakes and mix well.
+
+Transfer kimchi to airtight containers and refrigerate for 3 days.
+
+
+
+
+</instructions>
+</recipe>

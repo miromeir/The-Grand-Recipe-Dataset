@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Refried Beans Without the Refry Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0">Onion</ingredient><ingredient amount="3.0 Cup">Bean</ingredient><ingredient amount="0.5">Pepper</ingredient><ingredient amount="2.0 Tablespoon">Minced Garlic</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Place the onion, rinsed beans, jalapeno, garlic, salt, pepper, and cumin into a slow cooker. Pour in the water and stir to combine. Cook on High for 8 hours, adding more water as needed. Note: if more than 1 cup of water has evaporated during cooking, then the temperature is too high.
+
+Once the beans have cooked, strain them, and reserve the liquid. Mash the beans with a potato masher, adding the reserved water as needed to attain desired consistency.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Bulgogi (Korean BBQ) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="1.0 Cup">Soy Sauce</ingredient><ingredient amount="0.5 Cup">Juice</ingredient><ingredient amount="3.0 Tablespoon">Sugar</ingredient><ingredient amount="2.0 Tablespoon">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0 Teaspoon">Sesame Seed</ingredient><ingredient amount="1.0 Tablespoon">Pepper</ingredient><ingredient amount="1.0 Pound">Beef</ingredient><ingredient amount="1.0">Onion</ingredient></ingredients>
+<instructions>
+In a large bowl, mix together soy sauce, pear juice, sugar, garlic, sesame oil, sesame seeds, black pepper, and monosodium glutamate. Place beef and onions into the mixture, and stir to coat. Cover, and refrigerate for 1 hour.
+
+Preheat grill pan over high heat. Brush oil over grill pan, and add beef and onions. Cook, turning to brown evenly, for 3 to 6 minutes, or until done.
+
+
+
+
+</instructions>
+</recipe>

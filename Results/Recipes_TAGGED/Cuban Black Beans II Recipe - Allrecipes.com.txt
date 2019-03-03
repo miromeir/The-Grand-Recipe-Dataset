@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Cuban Black Beans II Recipe - Allrecipes.com
+</title>
+<cuisine>
+Latin American
+</cuisine>
+<ingredients><ingredient amount="1.0 Pound">Bean</ingredient><ingredient amount="0.25 Cup">Olive Oil</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="1.0">Bell Pepper</ingredient><ingredient amount="6.0">Garlic</ingredient><ingredient amount="1.0 Ounce">Tomato Paste</ingredient><ingredient amount="1.0 Teaspoon">Sugar</ingredient><ingredient amount="1.0 Teaspoon">Pepper</ingredient></ingredients>
+<instructions>
+Place beans in a large saucepan with enough water to cover, and soak 8 hours, or overnight; drain.
+
+Heat oil in a medium saucepan over medium heat, and saute onion, green bell pepper, and garlic until tender.
+
+Into the onion mixture, stir the drained beans, water, tomato paste, pimentos, and vinegar. Season with salt, sugar, and pepper. Bring to a boil. Cover, reduce heat, and simmer 1 1/2 hours, stirring occasionally, until beans are tender.
+
+
+
+
+</instructions>
+</recipe>

@@ -1,0 +1,28 @@
+<recipe>
+<title>
+Hot Cross Buns I Recipe - Allrecipes.com
+</title>
+<cuisine>
+Canadian
+</cuisine>
+<ingredients><ingredient amount="0.75 Cup">Warm Water</ingredient><ingredient amount="3.0 Tablespoon">Butter</ingredient><ingredient amount="1.0 Tablespoon">Milk</ingredient><ingredient amount="0.25 Cup">Sugar</ingredient><ingredient amount="1.0">Egg</ingredient><ingredient amount="1.0">Egg White</ingredient><ingredient amount="3.0 Cup">Flour</ingredient><ingredient amount="1.0 Tablespoon">Yeast</ingredient><ingredient amount="1.0 Teaspoon">Cinnamon</ingredient><ingredient amount="1.0">Egg Yolk</ingredient><ingredient amount="0.5 Cup">Sugar</ingredient><ingredient amount="2.0 Teaspoon">Milk</ingredient></ingredients>
+<instructions>
+Put warm water, butter, skim milk powder, 1/4 cup sugar, salt, egg, egg white, flour, and yeast in bread maker and start on dough program.
+
+When 5 minutes of kneading are left, add currants and cinnamon. Leave in machine till double.
+
+Punch down on floured surface, cover, and let rest 10 minutes.
+
+Shape into 12 balls and place in a greased 9 x 12 inch pan. Cover and let rise in a warm place till double, about 35-40 minutes.
+
+Mix egg yolk and 2 tablespoons water. Brush on balls.
+
+Bake at 375 degrees F (190 degrees C) for 20 minutes. Remove from pan immediately and cool on wire rack.
+
+To make crosses: mix together confectioners' sugar, vanilla, and milk. Place glaze in a piping bag or a sandwich bag with the corner snipped off; pipe a cross onto each roll.
+
+
+
+
+</instructions>
+</recipe>

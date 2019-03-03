@@ -1,0 +1,20 @@
+<recipe>
+<title>
+Ground Nut Stew Recipe - Allrecipes.com
+</title>
+<cuisine>
+African
+</cuisine>
+<ingredients><ingredient amount="2.0 Cup">Peanut Butter</ingredient><ingredient amount="0.5 Ounce">Tomato Paste</ingredient><ingredient amount="2.0 Ounce">Pepper</ingredient><ingredient amount="4.0 Cup">Chicken</ingredient><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="6.0">Chicken</ingredient><ingredient amount="1.0">Onion</ingredient><ingredient amount="0.5 Cup">Mush</ingredient><ingredient amount="">Pepper</ingredient></ingredients>
+<instructions>
+Melt peanut butter in a large saucepan over medium heat. Stir in tomato paste, and blend with peanut butter until smooth. Mix in diced tomatoes with green chile peppers and chicken broth. Cook 15 minutes, stirring occasionally.
+
+Heat oil in a medium skillet over medium heat. Saute chicken and onions until chicken is no longer pink and juices run clear.
+
+Mix chicken, onions, and mushrooms into the peanut butter mixture, and continue cooking, stirring occasionally, about 15 minutes. Season with cayenne pepper.
+
+
+
+
+</instructions>
+</recipe>

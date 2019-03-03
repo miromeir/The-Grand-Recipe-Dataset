@@ -1,0 +1,18 @@
+<recipe>
+<title>
+Chicken Massaman Curry Recipe - Allrecipes.com
+</title>
+<cuisine>
+Thai
+</cuisine>
+<ingredients><ingredient amount="2.0 Tablespoon">Vegetable Oil</ingredient><ingredient amount="3.0 Tablespoon">Paste</ingredient><ingredient amount="1.0 Inch">Ginger</ingredient><ingredient amount="1.0 Pound">Chicken</ingredient><ingredient amount="3.0 Tablespoon">Sugar</ingredient><ingredient amount="3.0 Tablespoon">Fish Sauce</ingredient><ingredient amount="3.0 Tablespoon">Paste</ingredient><ingredient amount="0.3333333333333333 Cup">Peanut Butter</ingredient><ingredient amount="3.0 Cup">Potato</ingredient><ingredient amount="1.0 Ounce">Coconut Milk</ingredient><ingredient amount="3.0 Tablespoon">Juice</ingredient></ingredients>
+<instructions>
+Heat vegetable oil in a large saucepan over medium heat. Stir in curry paste and minced ginger; cook and stir for 2 minutes. Stir in the cubed chicken, and cook until the pieces turn white on the outside, about 3 minutes.
+
+Stir in brown sugar, fish sauce, tamarind paste, peanut butter, potatoes, and coconut milk. Bring to a boil, then reduce heat to medium-low, cover, and simmer until the potatoes are tender and the chicken pieces are no longer pink in the center, about 20 minutes. Add the lime juice and cook for an additional 5 minutes before serving.
+
+
+
+
+</instructions>
+</recipe>

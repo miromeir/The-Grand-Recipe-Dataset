@@ -1,0 +1,27 @@
+<recipe>
+<title>
+Korean Squash Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients>
+5 medium zucchini, sliced
+1 bunch green onions, sliced
+1/4 cup white vinegar
+1/2 cup soy sauce
+1/4 cup water
+2 tablespoons sugar
+2 tablespoons sesame oil
+ground black pepper to taste
+Add all ingredients to list
+
+</ingredients>
+<instructions>
+In a large pot, combine the zucchini, green onions, vinegar, soy sauce, water, sugar and sesame oil. Season with black pepper. Mix to blend, then cover and cook over medium heat until zucchini is tender, about 20 minutes.
+
+
+
+
+</instructions>
+</recipe>

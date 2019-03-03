@@ -1,0 +1,22 @@
+<recipe>
+<title>
+Heavenly Halibut Recipe - Allrecipes.com
+</title>
+<cuisine>
+U.S.
+</cuisine>
+<ingredients><ingredient amount="0.5 Cup">Parmesan Cheese</ingredient><ingredient amount="0.25 Cup">Butter</ingredient><ingredient amount="3.0 Tablespoon">Mayonnaise</ingredient><ingredient amount="2.0 Tablespoon">Juice</ingredient><ingredient amount="3.0 Tablespoon">Onion</ingredient><ingredient amount="1.0">Pepper</ingredient></ingredients>
+<instructions>
+Preheat the oven broiler. Grease a baking dish.
+
+In a bowl, mix the Parmesan cheese, butter, mayonnaise, lemon juice, green onions, salt, and hot pepper sauce. Watch Now
+
+Arrange the halibut fillets in the prepared baking dish. Watch Now
+
+Broil halibut fillets 8 minutes in the prepared oven, or until easily flaked with a fork. Spread with the Parmesan cheese mixture, and continue broiling 2 minutes, or until topping is bubbly and lightly browned. Watch Now
+
+
+
+
+</instructions>
+</recipe>

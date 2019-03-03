@@ -1,0 +1,24 @@
+<recipe>
+<title>
+Dak Bulgogi (Korean Barbeque Chicken) Recipe - Allrecipes.com
+</title>
+<cuisine>
+Korean
+</cuisine>
+<ingredients><ingredient amount="2.0 Pound">Chicken</ingredient><ingredient amount="0.5 Cup">Soy Sauce</ingredient><ingredient amount="0.5">Apple</ingredient><ingredient amount="1.0 Tablespoon">Sugar</ingredient><ingredient amount="3.0">Garlic</ingredient><ingredient amount="1.0 Teaspoon">Sesame Oil</ingredient><ingredient amount="1.0 Teaspoon">Ginger</ingredient><ingredient amount="1.0 Teaspoon">Sesame Seed</ingredient></ingredients>
+<instructions>
+Peel skin from chicken thighs and trim off excess fat. Cut each into single flat 'steak,' working around the bone. Save any smaller pieces for cooking as well. Rinse thighs under cold water, removing any film. Place in a large bowl.
+
+Pulse soy sauce, apple, sugar, garlic, sesame oil, gochugaru, and ginger together in a food processor until marinade is smooth.
+
+Pour marinade into the bowl with the chicken and stir to coat. Pierce the chicken with a skewer for extra absorption, if desired. Cover with plastic wrap and refrigerate, 6 to 12 hours.
+
+Heat a skillet over medium heat. Remove chicken from the marinade and add to the skillet. Cook and stir until no longer pink in the center, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).
+
+Transfer thighs to a serving plate and garnish with sesame seeds.
+
+
+
+
+</instructions>
+</recipe>
