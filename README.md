@@ -109,7 +109,8 @@ Future versions will use NER for food recognition.
 
 ## Adding Data / DTD Schemes
 If you wish to add raw data to be tagged, please follow the following DTD scheme.
-All UNTAGGED Recipes must have the following header:
+
+All **Untagged** Recipes must have the following header:
 ```
 <?xml version = '1.0' ?>
 <!DOCTYPE recipe [<!ELEMENT recipe ((title?,details?,ingredients, instructions?,cuisine) | (title?,cuisine,details?,ingredients, instructions?))>
