@@ -107,4 +107,32 @@ Future versions will use NER for food recognition.
 
 **NOTE:** You are welcome to add more recipes of your own, as long as they follow the above structure guidelines.
 
+## Adding Data / DTD Schemes
+If you wish to add raw data to be tagged, please follow the following DTD scheme.
 
+All **Untagged** Recipes must have the following header:
+```
+<?xml version = '1.0' ?>
+<!DOCTYPE recipe [<!ELEMENT recipe ((title?,details?,ingredients, instructions?,cuisine) | (title?,cuisine,details?,ingredients, instructions?))>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT cuisine (#PCDATA)>
+<!ELEMENT ingredients (#PCDATA)>
+<!ELEMENT instructions (#PCDATA)>
+<!ELEMENT details (#PCDATA)>
+]>
+```
+All **Tagged** Recipes(with amount and ingredient identified) must have the following header:
+```
+<?xml version = "1.0" ?>
+
+<!DOCTYPE recipe [
+   <!ELEMENT recipe ((title?,details?,ingredients, instructions?,cuisine) | (title?,cuisine,details?,ingredients, instructions?))>
+   <!ELEMENT title (#PCDATA)>
+   <!ELEMENT cuisine (#PCDATA)>
+   <!ELEMENT ingredients (ingredient*)>
+   <!ELEMENT ingredient (#PCDATA)>
+   <!ELEMENT instructions (#PCDATA)>
+   <!ELEMENT details (#PCDATA)>
+   <!ATTLIST ingredient amount CDATA #REQUIRED>
+]>
+```
