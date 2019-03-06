@@ -10,9 +10,9 @@ Food recipes are available everywhere - books, internet, etc = Lots of Data.
 
 We achieve this - through Recipes!
 For example:
-> "Which ingredient is most widespread in Korea?"
+> "Which ingredient is most widespread in Korea?" 
 
-> "Which country consumes the most sugar in their food?"
+> "Which country consumes the most sugar in their food?"(Answer [below](https://github.com/miromeir/The-Grand-Recipe-Dataset/#usage-examples) )
              
 ## The Data
 Data can be obtained from many sources - cookbooks, websites, etc.
