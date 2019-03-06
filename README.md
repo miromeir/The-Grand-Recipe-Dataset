@@ -136,3 +136,31 @@ All **Tagged** Recipes(with amount and ingredient identified) must have the foll
    <!ATTLIST ingredient amount CDATA #REQUIRED>
 ]>
 ```
+## Usage Examples:
+An example for a question we can answer will be:
+##### "Which country consumes the most sugar in their food?"
+Below are the average amounts of mg's of (granulated)sugar per recipe, for each tagged area in the world:
+```
+American:64.02849972497249
+African:77.36111111111111
+U.S.:76.64930555555556
+Japanese:61.642943409247756
+European:65.00735294117646
+Latin American:56.04938271604939
+Korean:46.387182454890784
+Australian And New Zealander:52.773809523809526
+Middle Eastern:64.23611111111111
+Indian:0
+Mexican:90.625
+Chinese:58.17625661375661
+Canadian:70.56712962962963
+French:58.6082175925926
+Thai:148.6193181818182
+Mediterranean:16.25
+Asian:102.875
+Italian:43.125
+Mediterranean:77.5
+```
+
+Asian and thai food are first, following U.S / American.
+**Mediterranean** food seems to have the least granulated sugar in it.
